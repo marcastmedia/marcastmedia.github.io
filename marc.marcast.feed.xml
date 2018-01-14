@@ -4,8 +4,8 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
 >
 <channel>
-        <link>https://marcastmedia.com/</link> 
         <atom:link href="http://marcastmedia.com/marc.marcast.feed.xml" rel="self" type="application/rss+xml"/>
+        <link>http://marcastmedia.com/marc.marcast.feed.xml</link> 
         <title>马克的声音日志</title>
         <itunes:subtitle>李马克的 audiolog</itunes:subtitle>
         <itunes:summary>李马克的 audiolog</itunes:summary>
