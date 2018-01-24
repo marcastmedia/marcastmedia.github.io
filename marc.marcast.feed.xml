@@ -40,7 +40,7 @@
     
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>171004.重庆迷幻录#2 情深深雨蒙蒙，人挤人在朝天门</title>
+            <title>171004.重庆迷幻录#2 人挤人在朝天门</title>
             <itunes:subtitle>在重庆的第二天。</itunes:subtitle>
             <itunes:summary>在重庆的第二天。</itunes:summary>
             <description>在重庆的第二天。</description>
@@ -143,8 +143,8 @@
             <content:encoded>
                 <![CDATA[每天下班路上，都能遇到一位某 P2P App 的地推小哥。<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
-            <enclosure length="7458089" type="audio/mpeg" url="http://p2hv16wzi.bkt.clouddn.com/001-a-causal-chat-with-a-salesman.mp3"/>
-            <guid>http://p2hv16wzi.bkt.clouddn.com/001-a-causal-chat-with-a-salesman.mp3</guid>
+            <enclosure length="7458089" type="audio/mpeg" url="http://p2hv16wzi.bkt.clouddn.com/001-a-casual-chat-with-a-salesman.mp3"/>
+            <guid>http://p2hv16wzi.bkt.clouddn.com/001-a-casual-chat-with-a-salesman.mp3</guid>
             <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
             <itunes:duration>13:03</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
