@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+>
+<channel>
+        <link>https://marcastmedia.com/</link> 
+        <atom:link href="https://marcastmedia.com/marc.marcast.feed.xml" rel="self" type="application/rss+xml"/>
+        <title>李马克的声音日志</title>
+        <itunes:subtitle>城市，阅读，行走，体验和个人史 | 微信公众号：Marcast</itunes:subtitle>
+        <itunes:summary>城市，阅读，行走，体验和个人史 | 微信公众号：Marcast</itunes:summary>
+        <description>城市，阅读，行走，体验和个人史 | 微信公众号：Marcast</description>
+        <itunes:author>Marcast</itunes:author>
+        <copyright>Marcast</copyright>
+        <itunes:owner>
+            <itunes:name>Marcast</itunes:name>
+            <itunes:email>marcastmedia@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://marcastmedia.com/marcast-marcjournal.png"/>
+        <itunes:category text="Society &amp; Culture"></itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <language>zh_CN</language>
+        
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>171005.重庆迷幻录#3 乘索道过江未遂</title>
+            <itunes:subtitle>在重庆的第三天。</itunes:subtitle>
+            <itunes:summary>在重庆的第三天。</itunes:summary>
+            <description>在重庆的第三天。</description>
+            <content:encoded>
+                <![CDATA[在重庆的第三天。<a href="https://marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="29436800" type="audio/mpeg" url="http://p2hv16wzi.bkt.clouddn.com/008-lost-in-chongqing-3.mp3"/>
+            <guid>http://p2hv16wzi.bkt.clouddn.com/008-lost-in-chongqing-3.mp3</guid>
+            <pubDate>Thu, 5 Oct 2017 00:00:00 +0000</pubDate>
+            <itunes:duration>11:46</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>171004.重庆迷幻录#2 人挤人在朝天门</title>
+            <itunes:subtitle>在重庆的第二天。</itunes:subtitle>
+            <itunes:summary>在重庆的第二天。</itunes:summary>
+            <description>在重庆的第二天。</description>
+            <content:encoded>
+                <![CDATA[在重庆的第二天。<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="32167160" type="audio/mpeg" url="http://p2hv16wzi.bkt.clouddn.com/007-lost-in-chongqing-2.mp3"/>
+            <guid>http://p2hv16wzi.bkt.clouddn.com/007-lost-in-chongqing-2.mp3</guid>
+            <pubDate>Wed, 4 Oct 2017 00:00:00 +0000</pubDate>
+            <itunes:duration>11:58</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>171003.重庆迷幻录#1 去直辖市吃火锅</title>
+            <itunes:subtitle>在重庆的第一天。</itunes:subtitle>
+            <itunes:summary>在重庆的第一天。</itunes:summary>
+            <description>在重庆的第一天。</description>
+            <content:encoded>
+                <![CDATA[在重庆的第一天。<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="32167160" type="audio/mpeg" url="http://p2hv16wzi.bkt.clouddn.com/006-lost-in-chongqing-1.mp3"/>
+            <guid>http://p2hv16wzi.bkt.clouddn.com/006-lost-in-chongqing-1.mp3</guid>
+            <pubDate>Tue, 3 Oct 2017 00:00:00 +0000</pubDate>
+            <itunes:duration>12:54</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>170208.客户要我配出湖南卫视的感觉</title>
+            <itunes:subtitle>过年偷闲，我和老友张尼玛聊了聊。</itunes:subtitle>
+            <itunes:summary>过年偷闲，我和老友张尼玛聊了聊。</itunes:summary>
+            <description>过年偷闲，我和老友张尼玛聊了聊。</description>
+            <content:encoded>
+                <![CDATA[过年偷闲，我和老友张尼玛聊了聊。<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="29909636" type="audio/mpeg" url="http://p2hv16wzi.bkt.clouddn.com/005-a-chat-with-joe-2017.mp3"/>
+            <guid>http://p2hv16wzi.bkt.clouddn.com/005-a-chat-with-joe-2017.mp3</guid>
+            <pubDate>Wed, 8 Feb 2017 00:00:00 +0000</pubDate>
+            <itunes:duration>29:55</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>161230.你的2016</title>
+            <itunes:subtitle>和一然聊了聊各自的2016。</itunes:subtitle>
+            <itunes:summary>和一然聊了聊各自的2016。</itunes:summary>
+            <description>和一然聊了聊各自的2016。</description>
+            <content:encoded>
+                <![CDATA[和一然聊了聊各自的2016。<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="29939660" type="audio/mpeg" url="http://p2hv16wzi.bkt.clouddn.com/004-your-2016.mp3"/>
+            <guid>http://p2hv16wzi.bkt.clouddn.com/004-your-2016.mp3</guid>
+            <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+            <itunes:duration>29:57</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>161225.听说你又一个人在家刷《真爱至上》</title>
+            <itunes:subtitle>每年圣诞节，我周围都有好多朋友会刷一遍电影《真爱至上》。</itunes:subtitle>
+            <itunes:summary>每年圣诞节，我周围都有好多朋友会刷一遍电影《真爱至上》。</itunes:summary>
+            <description>每年圣诞节，我周围都有好多朋友会刷一遍电影《真爱至上》。</description>
+            <content:encoded>
+                <![CDATA[每年圣诞节，我周围都有好多朋友会刷一遍电影《真爱至上》。<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="29526413" type="audio/mpeg" url="http://p2hv16wzi.bkt.clouddn.com/003-love-actually-again-at-christmas.mp3"/>
+            <guid>http://p2hv16wzi.bkt.clouddn.com/003-love-actually-again-at-christmas.mp3</guid>
+            <pubDate>Sun, 25 Dec 2016 00:00:00 +0000</pubDate>
+            <itunes:duration>29:31</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>160730.先锋书店里的普鲁斯特问卷</title>
+            <itunes:subtitle>在南京先锋书店，我准备了一份普鲁斯特问卷。</itunes:subtitle>
+            <itunes:summary>在南京先锋书店，我准备了一份普鲁斯特问卷。</itunes:summary>
+            <description>在南京先锋书店，我准备了一份普鲁斯特问卷。</description>
+            <content:encoded>
+                <![CDATA[在南京先锋书店，我准备了一份普鲁斯特问卷。<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="15277478 " type="audio/mpeg" url="http://p2hv16wzi.bkt.clouddn.com/002-proust-questionaire-in-bookstore.mp3"/>
+            <guid>http://p2hv16wzi.bkt.clouddn.com/002-proust-questionaire-in-bookstore.mp3</guid>
+            <pubDate>Sat, 30 Jul 2016 00:00:00 +0000</pubDate>
+            <itunes:duration>29:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>160627.和一位地推小哥的聊天</title>
+            <itunes:subtitle>每天下班路上，都能遇到一位某 P2P App 的地推小哥。</itunes:subtitle>
+            <itunes:summary>每天下班路上，都能遇到一位某 P2P App 的地推小哥。</itunes:summary>
+            <description>每天下班路上，都能遇到一位某 P2P App 的地推小哥。</description>
+            <content:encoded>
+                <![CDATA[每天下班路上，都能遇到一位某 P2P App 的地推小哥。<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="7458089" type="audio/mpeg" url="http://p2hv16wzi.bkt.clouddn.com/001-a-casual-chat-with-a-salesman.mp3"/>
+            <guid>http://p2hv16wzi.bkt.clouddn.com/001-a-casual-chat-with-a-salesman.mp3</guid>
+            <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+            <itunes:duration>13:03</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>
