@@ -17,7 +17,7 @@
             <itunes:name>Marcast</itunes:name>
             <itunes:email>marcastmedia@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="http://marcastmedia.com/marcast-trailer-cover.png"/>
+        <itunes:image href="https://marcastmedia.com/marcast-trailer-cover.png"/>
         <itunes:category text="TV &amp; Film"></itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
