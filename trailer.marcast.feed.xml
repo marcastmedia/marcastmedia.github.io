@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Lives Well Lived 值得此生 2018.02.16 北美上映</title>
+
+            <itunes:subtitle>Lives Well Lived is a feature documentary film by Sky Bergman that celebrates the incredible wit and wisdom of adults 75 to 100 years old who are living their lives to the fullest. Encompassing over 3000 years of experience, forty people share their secrets and insights to living a meaningful life. Their intimate memories and inspiring personal histories will make you laugh, perhaps cry, but mostly inspire you. - RottenTomatoes</itunes:subtitle>
+            
+            <itunes:summary>Lives Well Lived is a feature documentary film by Sky Bergman that celebrates the incredible wit and wisdom of adults 75 to 100 years old who are living their lives to the fullest. Encompassing over 3000 years of experience, forty people share their secrets and insights to living a meaningful life. Their intimate memories and inspiring personal histories will make you laugh, perhaps cry, but mostly inspire you. - RottenTomatoes</itunes:summary>
+            
+            <description>Lives Well Lived is a feature documentary film by Sky Bergman that celebrates the incredible wit and wisdom of adults 75 to 100 years old who are living their lives to the fullest. Encompassing over 3000 years of experience, forty people share their secrets and insights to living a meaningful life. Their intimate memories and inspiring personal histories will make you laugh, perhaps cry, but mostly inspire you. - RottenTomatoes</description>
+            
+            <content:encoded>
+                <![CDATA[Lives Well Lived is a feature documentary film by Sky Bergman that celebrates the incredible wit and wisdom of adults 75 to 100 years old who are living their lives to the fullest. Encompassing over 3000 years of experience, forty people share their secrets and insights to living a meaningful life. Their intimate memories and inspiring personal histories will make you laugh, perhaps cry, but mostly inspire you. - RottenTomatoes<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            
+            <enclosure length="2246093" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-lives-well.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-lives-well.mp3</guid>
+            <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:20</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>The Party 酒会 2018.02.16 北美上映</title>
 
             <itunes:subtitle>Janet hosts a party to celebrate her new promotion, but once the guests arrive it becomes clear that not everything is going to go down as smoothly as the red wine. - IMDb</itunes:subtitle>
@@ -36,7 +57,7 @@
                 <![CDATA[Janet hosts a party to celebrate her new promotion, but once the guests arrive it becomes clear that not everything is going to go down as smoothly as the red wine. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
             
-            <enclosure length="2708666 " type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-the-party.mp3"/>
+            <enclosure length="2708666" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-the-party.mp3"/>
             <guid>http://p375c09dc.bkt.clouddn.com/trailer-the-party.mp3</guid>
             <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
             <itunes:duration>02:11</itunes:duration>
