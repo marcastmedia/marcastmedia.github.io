@@ -16,7 +16,7 @@ Till now, we've already have three shows online:
 
 You can subscirbe and listen to those shows on Apple Podcasts or wherever you get your Podcasts.
 
-While this site is still under construction, you can reach us via marclee@marcastmedai.com.
+While this site is still under construction, you can reach us via marclee@marcastmedia.com.
 
 With love.
 
