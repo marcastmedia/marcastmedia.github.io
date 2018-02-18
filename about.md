@@ -4,10 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+Hi, welcome to the homepage of Marcast Media.
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+Marcast is an audio-centered content media brand. We create fascinating audio shows for podcast-lovers and brands who need audio content.
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Till now, we've already have three shows online:
+
+- Marc Lee's Audiolog
+- Fallstack Copywriter
+- Coming Soon
+
+You can subscirbe and listen to those shows on Apple Podcasts or wherever you get your Podcasts.
+
+While this site is still under construction, you can reach us via marclee@marcastmedai.com.
+
+With love.
+
+Marc Lee
+
+Founder of Marcast
+
