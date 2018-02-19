@@ -11,7 +11,7 @@ Marcast is an audio-centered content media brand. We create fascinating audio sh
 Till now, we've already have three shows online:
 
 - Marc Lee's Audiolog
-- Fallstack Copywriter
+- Fullstack Copywriter
 - Coming Soon
 
 You can subscirbe and listen to those shows on Apple Podcasts or wherever you get your Podcasts.
