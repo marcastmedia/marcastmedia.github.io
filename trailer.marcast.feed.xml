@@ -24,6 +24,27 @@
     
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>The Leisure Seeker 寻欢者 2018.02.23 中国大陆上映</title>
+
+            <itunes:subtitle>A runaway couple go on an unforgettable journey in the faithful old RV they call The Leisure Seeker. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A runaway couple go on an unforgettable journey in the faithful old RV they call The Leisure Seeker. - IMDb</itunes:summary>
+            
+            <description>A runaway couple go on an unforgettable journey in the faithful old RV they call The Leisure Seeker. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A runaway couple go on an unforgettable journey in the faithful old RV they call The Leisure Seeker. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            
+            <enclosure length="1403250" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-leisure-seeker.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-leisure-seeker.mp3</guid>
+            <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:11</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Mute 静音 2018.02.23 NETFLIX 上映</title>
 
             <itunes:subtitle>A mute bartender goes up against his city's gangsters in an effort to find out what happened to his missing partner. - IMDb</itunes:subtitle>
