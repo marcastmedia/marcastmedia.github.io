@@ -21,6 +21,27 @@
         <itunes:category text="TV &amp; Film"></itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Did You Wonder Who Fired the Gun? 是谁开得抢？2018.02.28 北美上映</title>
+
+            <itunes:subtitle>"In 1946, my great-grandfather murdered a black man named Bill Spann and got away with it." So begins Did You Wonder Who Fired the Gun?, filmmaker Travis Wilkerson critically acclaimed investigation into the murder, family history, and the societal mores that allowed it to happen. Wilkerson tells a frightening and troubling story, incorporating scenes from To Kill a Mockingbird, the music of Janelle Monáe and Phil Ochs, and a dogged search for the truth - one that unearths long-buried secrets, destroyed records, and real threats of violence. - RottenTomatoes</itunes:subtitle>
+            
+            <itunes:summary>"In 1946, my great-grandfather murdered a black man named Bill Spann and got away with it." So begins Did You Wonder Who Fired the Gun?, filmmaker Travis Wilkerson critically acclaimed investigation into the murder, family history, and the societal mores that allowed it to happen. Wilkerson tells a frightening and troubling story, incorporating scenes from To Kill a Mockingbird, the music of Janelle Monáe and Phil Ochs, and a dogged search for the truth - one that unearths long-buried secrets, destroyed records, and real threats of violence. - RottenTomatoes</itunes:summary>
+            
+            <description>"In 1946, my great-grandfather murdered a black man named Bill Spann and got away with it." So begins Did You Wonder Who Fired the Gun?, filmmaker Travis Wilkerson critically acclaimed investigation into the murder, family history, and the societal mores that allowed it to happen. Wilkerson tells a frightening and troubling story, incorporating scenes from To Kill a Mockingbird, the music of Janelle Monáe and Phil Ochs, and a dogged search for the truth - one that unearths long-buried secrets, destroyed records, and real threats of violence. - RottenTomatoes</description>
+            
+            <content:encoded>
+                <![CDATA["In 1946, my great-grandfather murdered a black man named Bill Spann and got away with it." So begins Did You Wonder Who Fired the Gun?, filmmaker Travis Wilkerson critically acclaimed investigation into the murder, family history, and the societal mores that allowed it to happen. Wilkerson tells a frightening and troubling story, incorporating scenes from To Kill a Mockingbird, the music of Janelle Monáe and Phil Ochs, and a dogged search for the truth - one that unearths long-buried secrets, destroyed records, and real threats of violence. - RottenTomatoes<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            
+            <enclosure length="1290660" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-who-fired-gun.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-who-fired-gun.mp3</guid>
+            <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:04</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     
     <item>
         <itunes:author>Marcast</itunes:author>
