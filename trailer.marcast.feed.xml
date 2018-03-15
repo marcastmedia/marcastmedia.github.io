@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Love, Simon 爱你的，西蒙 2018.03.16 北美上映</title>
+
+            <itunes:subtitle>Simon Spier keeps a huge secret from his family, his friends, and all of his classmates: he's gay. When that secret is threatened, Simon must face everyone and come to terms with his identity. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Simon Spier keeps a huge secret from his family, his friends, and all of his classmates: he's gay. When that secret is threatened, Simon must face everyone and come to terms with his identity. - IMDb</itunes:summary>
+            
+            <description>Simon Spier keeps a huge secret from his family, his friends, and all of his classmates: he's gay. When that secret is threatened, Simon must face everyone and come to terms with his identity. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Simon Spier keeps a huge secret from his family, his friends, and all of his classmates: he's gay. When that secret is threatened, Simon must face everyone and come to terms with his identity. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2636319" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-love-simon.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-love-simon.mp3</guid>
+            <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:28</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Journey's End 旅程终点 2018.03.16 北美上映</title>
 
             <itunes:subtitle>Set in a dugout in Aisne in 1918, it is the story of a group of British officers, led by the mentally disintegrating young officer Stanhope, as they await their fate. - IMDb</itunes:subtitle>
