@@ -22,6 +22,48 @@
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
 
+     <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Paul, Apostle of Christ 使徒保罗 2018.03.23 北美上映</title>
+
+            <itunes:subtitle>The story covers Paul, portrayed by Faulkner, going from the most infamous persecutor of Christians to Jesus Christ's most influential apostle. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>The story covers Paul, portrayed by Faulkner, going from the most infamous persecutor of Christians to Jesus Christ's most influential apostle. - IMDb</itunes:summary>
+            
+            <description>The story covers Paul, portrayed by Faulkner, going from the most infamous persecutor of Christians to Jesus Christ's most influential apostle. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[The story covers Paul, portrayed by Faulkner, going from the most infamous persecutor of Christians to Jesus Christ's most influential apostle. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2560842" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-paul-apostle-of-christ.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-paul-apostle-of-christ.mp3</guid>
+            <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:24</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Sherlock Gnomes 夏洛克·糯米藕 2018.03.23 北美上映</title>
+
+            <itunes:subtitle>Garden gnomes, Gnomeo &amp; Juliet, recruit renowned detective Sherlock Gnomes to investigate the mysterious disappearance of other garden ornaments. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Garden gnomes, Gnomeo &amp; Juliet, recruit renowned detective Sherlock Gnomes to investigate the mysterious disappearance of other garden ornaments. - IMDb</itunes:summary>
+            
+            <description>Garden gnomes, Gnomeo &amp; Juliet, recruit renowned detective Sherlock Gnomes to investigate the mysterious disappearance of other garden ornaments. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Garden gnomes, Gnomeo & Juliet, recruit renowned detective Sherlock Gnomes to investigate the mysterious disappearance of other garden ornaments. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2566680" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-sherlock-gnomes.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-sherlock-gnomes.mp3</guid>
+            <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:24</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <item>
         <itunes:author>Marcast</itunes:author>
             <title>A Normal Life 普通生命 2018.03.23 北美上映</title>
