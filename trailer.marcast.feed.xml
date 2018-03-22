@@ -22,7 +22,28 @@
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
 
-     <item>
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Midnight Sun 午夜骄阳 2018.03.23 北美上映</title>
+
+            <itunes:subtitle>A 17-year-old girl suffers from a condition that prevents her from being out in the sunlight. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A 17-year-old girl suffers from a condition that prevents her from being out in the sunlight. - IMDb</itunes:summary>
+            
+            <description>A 17-year-old girl suffers from a condition that prevents her from being out in the sunlight. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A 17-year-old girl suffers from a condition that prevents her from being out in the sunlight. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2572935" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-midnight-sun.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-midnight-sun.mp3</guid>
+            <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:24</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
         <itunes:author>Marcast</itunes:author>
             <title>Paul, Apostle of Christ 使徒保罗 2018.03.23 北美上映</title>
 
