@@ -7,7 +7,7 @@
 <channel>
         <link>https://marcastmedia.com/</link> 
         <atom:link href="https://marcastmedia.com/trailer.marcast.feed.xml" rel="self" type="application/rss+xml"/>
-        <title>即将上映</title>
+        <title>即将上映 Coming Soon</title>
         <itunes:subtitle>有哪些电影要上映了？ | 微信公众号：Marcast | 微博：@Marcast | 邮件：hello@marcastmedia.com</itunes:subtitle>
         <itunes:summary>有哪些电影要上映了？ | 微信公众号：Marcast | 微博：@Marcast | 邮件：hello@marcastmedia.com</itunes:summary>
         <description>有哪些电影要上映了？ | 微信公众号：Marcast | 微博：@Marcast | 邮件：hello@marcastmedia.com</description>
