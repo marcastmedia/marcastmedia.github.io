@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>大熊猫们 Pandas 2018.04.06 北美上映</title>
+
+            <itunes:subtitle>In the mountains of Sichuan, China, a researcher forms a bond with Qian Qian, a panda who is about to experience nature for the first time. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>In the mountains of Sichuan, China, a researcher forms a bond with Qian Qian, a panda who is about to experience nature for the first time. - IMDb</itunes:summary>
+            
+            <description>In the mountains of Sichuan, China, a researcher forms a bond with Qian Qian, a panda who is about to experience nature for the first time. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[In the mountains of Sichuan, China, a researcher forms a bond with Qian Qian, a panda who is about to experience nature for the first time. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2645910" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-pandas.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-pandas.mp3</guid>
+            <pubDate>Thu, 5 Apr 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>查帕奎迪克事件 Chappaquiddick 2018.04.06 北美上映</title>
+
+            <itunes:subtitle>Depicting Ted Kennedy's involvement in the fatal 1969 car accident that claims the life of a young campaign strategist, Mary Jo Kopechne. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Depicting Ted Kennedy's involvement in the fatal 1969 car accident that claims the life of a young campaign strategist, Mary Jo Kopechne. - IMDb</itunes:summary>
+            
+            <description>Depicting Ted Kennedy's involvement in the fatal 1969 car accident that claims the life of a young campaign strategist, Mary Jo Kopechne. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Depicting Ted Kennedy's involvement in the fatal 1969 car accident that claims the life of a young campaign strategist, Mary Jo Kopechne. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2128830" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-chappaquiddick.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-chappaquiddick.mp3</guid>
+            <pubDate>Thu, 5 Apr 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:57</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>罗杰斯公园 Rogers Park 2018.04.06 北美上映</title>
 
             <itunes:subtitle>Two Chicago couples struggle to keep their love alive when secrets and long-simmering resentments rise to the surface. - IMDb</itunes:subtitle>
