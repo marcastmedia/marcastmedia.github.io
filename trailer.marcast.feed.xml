@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>业余选手 Amateur 2018.04.06 北美上映</title>
+
+            <itunes:subtitle>A young basketball player struggles to fit in with his new team. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A young basketball player struggles to fit in with his new team. - IMDb</itunes:summary>
+            
+            <description>A young basketball player struggles to fit in with his new team. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A young basketball player struggles to fit in with his new team. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2526231" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-amateur.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-amateur.mp3</guid>
+            <pubDate>Fri, 6 Apr 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:22</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>大熊猫们 Pandas 2018.04.06 北美上映</title>
 
             <itunes:subtitle>In the mountains of Sichuan, China, a researcher forms a bond with Qian Qian, a panda who is about to experience nature for the first time. - IMDb</itunes:subtitle>
