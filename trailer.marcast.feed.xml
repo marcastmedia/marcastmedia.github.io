@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>贝鲁特 Beirut 2018.04.11 北美上映</title>
+
+            <itunes:subtitle>Caught in the crossfires of civil war, CIA operatives must send a former U.S. diplomat to negotiate for the life of a friend he left behind. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Caught in the crossfires of civil war, CIA operatives must send a former U.S. diplomat to negotiate for the life of a friend he left behind. - IMDb</itunes:summary>
+            
+            <description>Caught in the crossfires of civil war, CIA operatives must send a former U.S. diplomat to negotiate for the life of a friend he left behind. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Caught in the crossfires of civil war, CIA operatives must send a former U.S. diplomat to negotiate for the life of a friend he left behind. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2664675" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-beirut.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-beirut.mp3</guid>
+            <pubDate>Sun, 8 Apr 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:30</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>业余选手 Amateur 2018.04.06 NETFLIX 上映</title>
 
             <itunes:subtitle>A young basketball player struggles to fit in with his new team. - IMDb</itunes:subtitle>
