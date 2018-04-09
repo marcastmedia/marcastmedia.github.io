@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>再生骑士 The Rider 2018.04.13 北美上映</title>
+
+            <itunes:subtitle>After suffering a near fatal head injury, a young cowboy undertakes a search for new identity and what it means to be a man in the heartland of America. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>After suffering a near fatal head injury, a young cowboy undertakes a search for new identity and what it means to be a man in the heartland of America. - IMDb</itunes:summary>
+            
+            <description>After suffering a near fatal head injury, a young cowboy undertakes a search for new identity and what it means to be a man in the heartland of America. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[After suffering a near fatal head injury, a young cowboy undertakes a search for new identity and what it means to be a man in the heartland of America. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2344002" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-the-rider.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-the-rider.mp3</guid>
+            <pubDate>Mon, 9 Apr 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:10</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>扎马 Zama 2018.04.13 北美上映</title>
+
+            <itunes:subtitle>Based on the novel by Antonio Di Benedetto written in 1956, on Don Diego de Zama, a Spanish officer of the seventeenth century settled in Asunción, who awaits his transfer to Buenos Aires. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Based on the novel by Antonio Di Benedetto written in 1956, on Don Diego de Zama, a Spanish officer of the seventeenth century settled in Asunción, who awaits his transfer to Buenos Aires. - IMDb</itunes:summary>
+            
+            <description>Based on the novel by Antonio Di Benedetto written in 1956, on Don Diego de Zama, a Spanish officer of the seventeenth century settled in Asunción, who awaits his transfer to Buenos Aires. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Based on the novel by Antonio Di Benedetto written in 1956, on Don Diego de Zama, a Spanish officer of the seventeenth century settled in Asunción, who awaits his transfer to Buenos Aires. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2122992" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-zama.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-zama.mp3</guid>
+            <pubDate>Mon, 9 Apr 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:56</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>贝鲁特 Beirut 2018.04.11 北美上映</title>
 
             <itunes:subtitle>Caught in the crossfires of civil war, CIA operatives must send a former U.S. diplomat to negotiate for the life of a friend he left behind. - IMDb</itunes:subtitle>
