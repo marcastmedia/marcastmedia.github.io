@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>斯塔比中士 Sgt. Stubby: An American Hero 2018.04.13 北美上映</title>
+
+            <itunes:subtitle>A stray dog - Sgt. Stubby - gets adopted by a soldier while training for World War I. For his valorous actions, Sgt. Stubby is still recognized as the most decorated dog in American history. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A stray dog - Sgt. Stubby - gets adopted by a soldier while training for World War I. For his valorous actions, Sgt. Stubby is still recognized as the most decorated dog in American history. - IMDb</itunes:summary>
+            
+            <description>A stray dog - Sgt. Stubby - gets adopted by a soldier while training for World War I. For his valorous actions, Sgt. Stubby is still recognized as the most decorated dog in American history. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A stray dog - Sgt. Stubby - gets adopted by a soldier while training for World War I. For his valorous actions, Sgt. Stubby is still recognized as the most decorated dog in American history. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="1715166" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-sgt-stubby.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-sgt-stubby.mp3</guid>
+            <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:10</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>再生骑士 The Rider 2018.04.13 北美上映</title>
 
             <itunes:subtitle>After suffering a near fatal head injury, a young cowboy undertakes a search for new identity and what it means to be a man in the heartland of America. - IMDb</itunes:subtitle>
