@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>博格对战麦肯罗 Borg vs McEnroe 2018.04.13 北美上映</title>
+
+            <itunes:subtitle>The story of the 1980s tennis rivalry between the placid Björn Borg and the volatile John McEnroe. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>The story of the 1980s tennis rivalry between the placid Björn Borg and the volatile John McEnroe. - IMDb</itunes:summary>
+            
+            <description>The story of the 1980s tennis rivalry between the placid Björn Borg and the volatile John McEnroe. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[The story of the 1980s tennis rivalry between the placid Björn Borg and the volatile John McEnroe. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="1787724" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-borg-vs-mcenroe.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-borg-vs-mcenroe.mp3</guid>
+            <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>拜拜德意志 Bye Bye Germany Es war einmal in Deutschland... 2018.04.13 北美上映</title>
 
             <itunes:subtitle>David Berman and his friends, all Holocaust survivors, have only one purpose: to go to America as soon as possible. For this they need money. Close to his aim, David is not only deprived of his savings but also overtaken by his shady past. - IMDb</itunes:subtitle>
