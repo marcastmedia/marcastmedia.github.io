@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>感觉良好 I Feel Pretty 2018.04.20 北美上映</title>
+
+            <itunes:subtitle>A woman struggling with insecurity wakes from a fall believing she is the most beautiful and capable woman on the planet. Her new confidence empowers her to live fearlessly, but what happens when she realizes her appearance never changed? - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A woman struggling with insecurity wakes from a fall believing she is the most beautiful and capable woman on the planet. Her new confidence empowers her to live fearlessly, but what happens when she realizes her appearance never changed? - IMDb</itunes:summary>
+            
+            <description>A woman struggling with insecurity wakes from a fall believing she is the most beautiful and capable woman on the planet. Her new confidence empowers her to live fearlessly, but what happens when she realizes her appearance never changed? - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A woman struggling with insecurity wakes from a fall believing she is the most beautiful and capable woman on the planet. Her new confidence empowers her to live fearlessly, but what happens when she realizes her appearance never changed? - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,678,019" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-i-feel-pretty.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-i-feel-pretty.mp3</guid>
+            <pubDate>Thu, 17 Apr 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:31</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>最后的柯达胶卷 Kodachrome 2018.04.20 NETFLIX 上映</title>
 
             <itunes:subtitle>Set during the final days of the admired photo development system known as Kodachrome, a father and son hit the road in order to reach the Kansas photo lab before it closes its doors for good. - IMDb</itunes:subtitle>
