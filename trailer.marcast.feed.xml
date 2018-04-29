@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>大脚冒险王 The Son of Bigfoot 2018.05.01 北美上映</title>
+
+            <itunes:subtitle>A teenage boy journeys to find his missing father only to discover that he's actually Bigfoot. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A teenage boy journeys to find his missing father only to discover that he's actually Bigfoot. - IMDb</itunes:summary>
+            
+            <description>A teenage boy journeys to find his missing father only to discover that he's actually Bigfoot. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A teenage boy journeys to find his missing father only to discover that he's actually Bigfoot. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="1,748,601" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-the-son-bigfoot.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-the-son-bigfoot.mp3</guid>
+            <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>明日之屋 The House of Tomorrow 2018.04.27 北美上映</title>
 
             <itunes:subtitle>The film tells futurist, architect, and inventor R. Buckminster Fuller's incredible story through two teens hoping to get laid, become punk gods, and survive high school. - IMDb</itunes:subtitle>
