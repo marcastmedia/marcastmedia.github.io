@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>伊比萨 Ibiza 2018.05.25 NETFLIX 上映</title>
+
+            <itunes:subtitle>A young American woman and her two best friends seek out a hot DJ in Spain. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A young American woman and her two best friends seek out a hot DJ in Spain. - IMDb</itunes:summary>
+            
+            <description>A young American woman and her two best friends seek out a hot DJ in Spain. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A young American woman and her two best friends seek out a hot DJ in Spain. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,763,824" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-ibiza.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-ibiza.mp3</guid>
+            <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:36</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>未来世界 Future World 2018.05.25 北美上映</title>
 
             <itunes:subtitle>A young boy searches a future world wasteland for a rumored cure for his dying mother. - IMDb</itunes:subtitle>
