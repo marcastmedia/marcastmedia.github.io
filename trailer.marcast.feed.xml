@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>游侠索罗：星战外传 Solo: A Star Wars Story 2018.05.25 北美上映</title>
+
+            <itunes:subtitle>During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion. - IMDb</itunes:summary>
+            
+            <description>During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[During an adventure into a dark criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="1,680,056" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-solo-star-wars.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-solo-star-wars.mp3</guid>
+            <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>安德烈福音（纪录片）The Gospel According to André 2018.05.25 北美上映</title>
 
             <itunes:subtitle>From the segregated American South to the fashion capitals of the world, operatic fashion editor André Leon Talley's life and career are on full display, in a poignant portrait that includes appearances by Anna Wintour, Marc Jacobs, Tom Ford, Bethann Hardison, Valentino, and Manolo Blahnik. - IMDb</itunes:subtitle>
