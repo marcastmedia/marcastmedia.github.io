@@ -21,6 +21,69 @@
         <itunes:category text="TV &amp; Film"></itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
+    
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>呼吸 Breath 2018.06.01 北美上映</title>
+
+            <itunes:subtitle>Based on Tim Winton's award-winning and international bestselling novel set in mid-70s coastal Australia. Two teenage boys, hungry for discovery, form an unlikely friendship with a mysterious older adventurer who pushes them to take risks that will have a lasting and profound impact on their lives. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Based on Tim Winton's award-winning and international bestselling novel set in mid-70s coastal Australia. Two teenage boys, hungry for discovery, form an unlikely friendship with a mysterious older adventurer who pushes them to take risks that will have a lasting and profound impact on their lives. - IMDb</itunes:summary>
+            
+            <description>Based on Tim Winton's award-winning and international bestselling novel set in mid-70s coastal Australia. Two teenage boys, hungry for discovery, form an unlikely friendship with a mysterious older adventurer who pushes them to take risks that will have a lasting and profound impact on their lives. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Based on Tim Winton's award-winning and international bestselling novel set in mid-70s coastal Australia. Two teenage boys, hungry for discovery, form an unlikely friendship with a mysterious older adventurer who pushes them to take risks that will have a lasting and profound impact on their lives. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,238,032" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-breath.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-breath.mp3</guid>
+            <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:04</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>美国动物 American Animals 2018.06.01 北美上映</title>
+
+            <itunes:subtitle>Four young men mistake their lives for a movie and attempt one of the most audacious heists in U.S. history. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Four young men mistake their lives for a movie and attempt one of the most audacious heists in U.S. history. - IMDb</itunes:summary>
+            
+            <description>Four young men mistake their lives for a movie and attempt one of the most audacious heists in U.S. history. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Four young men mistake their lives for a movie and attempt one of the most audacious heists in U.S. history. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,087,984" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-american-animals.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-american-animals.mp3</guid>
+            <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:54</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>夏日将止 All Summers End 2018.06.01 北美上映</title>
+
+            <itunes:subtitle>After a summer prank goes awry, a teenage boy falls in love while grappling with his guilty conscience. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>After a summer prank goes awry, a teenage boy falls in love while grappling with his guilty conscience. - IMDb</itunes:summary>
+            
+            <description>After a summer prank goes awry, a teenage boy falls in love while grappling with his guilty conscience. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[After a summer prank goes awry, a teenage boy falls in love while grappling with his guilty conscience. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="1,463,135" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-all-summers-end.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-all-summers-end.mp3</guid>
+            <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:15</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 
     <item>
         <itunes:author>Marcast</itunes:author>
