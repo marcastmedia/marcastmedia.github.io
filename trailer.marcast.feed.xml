@@ -21,6 +21,27 @@
         <itunes:category text="TV &amp; Film"></itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>罗丹 Rodin 2018.06.01 北美上映</title>
+
+            <itunes:subtitle>An account of the famous French sculptor's romance with Camille Claudel. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>An account of the famous French sculptor's romance with Camille Claudel. - IMDb</itunes:summary>
+            
+            <description>An account of the famous French sculptor's romance with Camille Claudel. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[An account of the famous French sculptor's romance with Camille Claudel. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,339,178" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-rodin.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-rodin.mp3</guid>
+            <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:10</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     
     <item>
         <itunes:author>Marcast</itunes:author>
