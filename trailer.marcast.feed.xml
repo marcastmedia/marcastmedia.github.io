@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>绝命升级 Upgrade 2018.06.01 北美上映</title>
+
+            <itunes:subtitle>Set in the near-future, technology controls nearly all aspects of life. But when Grey, a self-identified technophobe, has his world turned upside down, his only hope for revenge is an experimental computer chip implant called Stem. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Set in the near-future, technology controls nearly all aspects of life. But when Grey, a self-identified technophobe, has his world turned upside down, his only hope for revenge is an experimental computer chip implant called Stem. - IMDb</itunes:summary>
+            
+            <description>Set in the near-future, technology controls nearly all aspects of life. But when Grey, a self-identified technophobe, has his world turned upside down, his only hope for revenge is an experimental computer chip implant called Stem. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Set in the near-future, technology controls nearly all aspects of life. But when Grey, a self-identified technophobe, has his world turned upside down, his only hope for revenge is an experimental computer chip implant called Stem. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,609,179" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-upgrade.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-upgrade.mp3</guid>
+            <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:27</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>罗丹 Rodin 2018.06.01 北美上映</title>
 
             <itunes:subtitle>An account of the famous French sculptor's romance with Camille Claudel. - IMDb</itunes:subtitle>
