@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>11月13日：巴黎袭击（纪录片）November 13:Attack on Paris 2018.06.01 NETFLIX 上映</title>
+
+            <itunes:subtitle>Documentary chronicling the terrorist attacks in Paris on November 13, 2015. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Documentary chronicling the terrorist attacks in Paris on November 13, 2015. - IMDb</itunes:summary>
+            
+            <description>Documentary chronicling the terrorist attacks in Paris on November 13, 2015. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Documentary chronicling the terrorist attacks in Paris on November 13, 2015. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,594,969" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-november-13.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-november-13.mp3</guid>
+            <pubDate>Fri, 1 Jun 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:26</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>绝命升级 Upgrade 2018.06.01 北美上映</title>
 
             <itunes:subtitle>Set in the near-future, technology controls nearly all aspects of life. But when Grey, a self-identified technophobe, has his world turned upside down, his only hope for revenge is an experimental computer chip implant called Stem. - IMDb</itunes:subtitle>
