@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>超感猎杀（完结篇）Sense8 Finale 2018.06.08 NETFLIX 上映</title>
+
+            <itunes:subtitle>Finally.</itunes:subtitle>
+            
+            <itunes:summary>Finally.</itunes:summary>
+            
+            <description>Finally.</description>
+            
+            <content:encoded>
+                <![CDATA[Finally.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,387,661" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-sense8-finale.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-sense8-finale.mp3</guid>
+            <pubDate>Fri, 8 Jun 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:13</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>瞒天过海（美人篇）Ocean's Eight 2018.06.08 北美上映</title>
 
             <itunes:subtitle>Debbie Ocean gathers an all-female crew to attempt an impossible heist at New York City's yearly Met Gala. - IMDb</itunes:subtitle>
@@ -38,7 +59,7 @@
             
             <enclosure length="2,396,856" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-oceans-8.mp3"/>
             <guid>http://p375c09dc.bkt.clouddn.com/trailer-oceans-8.mp3</guid>
-            <pubDate>Thu, 7 Jun 2018 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 7 Jun 2018 00:00:00 +0000</pubDate>
             <itunes:duration>02:13</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
