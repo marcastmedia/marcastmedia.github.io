@@ -21,6 +21,69 @@
         <itunes:category text="TV &amp; Film"></itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
+    
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>加布埃尔与群山 Gabriel and the Mountain 2018.06.15 北美上映</title>
+
+            <itunes:subtitle>Before entering a prestigious American university, Gabriel Buchmann decided to travel the world for one year, his backpack full of dreams. After ten months on the road, he arrived in Kenya determined to discover the African continent. Until he reached the top of Mount Mulanje, Malawi, his last destination. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Before entering a prestigious American university, Gabriel Buchmann decided to travel the world for one year, his backpack full of dreams. After ten months on the road, he arrived in Kenya determined to discover the African continent. Until he reached the top of Mount Mulanje, Malawi, his last destination. - IMDb</itunes:summary>
+            
+            <description>Before entering a prestigious American university, Gabriel Buchmann decided to travel the world for one year, his backpack full of dreams. After ten months on the road, he arrived in Kenya determined to discover the African continent. Until he reached the top of Mount Mulanje, Malawi, his last destination. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Before entering a prestigious American university, Gabriel Buchmann decided to travel the world for one year, his backpack full of dreams. After ten months on the road, he arrived in Kenya determined to discover the African continent. Until he reached the top of Mount Mulanje, Malawi, his last destination. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="1,995,615" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-gabriel-and-the-mountain.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-gabriel-and-the-mountain.mp3</guid>
+            <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:48</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>高蒂传 Gotti 2018.06.15 北美上映</title>
+
+            <itunes:subtitle>The story of crime boss John Gotti and his son. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>The story of crime boss John Gotti and his son. - IMDb</itunes:summary>
+            
+            <description>The story of crime boss John Gotti and his son. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[The story of crime boss John Gotti and his son. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,353,388" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-gotti.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-gotti.mp3</guid>
+            <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:11</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>超人总动员2 The Incredibles 2 2018.06.15 北美上映</title>
+
+            <itunes:subtitle>Bob Parr (Mr. Incredible) is left to care for Jack-Jack while Helen (Elastigirl) is out saving the world. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Bob Parr (Mr. Incredible) is left to care for Jack-Jack while Helen (Elastigirl) is out saving the world. - IMDb</itunes:summary>
+            
+            <description>Bob Parr (Mr. Incredible) is left to care for Jack-Jack while Helen (Elastigirl) is out saving the world. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Bob Parr (Mr. Incredible) is left to care for Jack-Jack while Helen (Elastigirl) is out saving the world. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,446,175" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-the-incredibles-2.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-the-incredibles-2.mp3</guid>
+            <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:17</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 
     <item>
         <itunes:author>Marcast</itunes:author>
