@@ -22,6 +22,27 @@
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
 
+     <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>甜蜜圈套 Set It Up 2018.06.15 NETFLIX 上映</title>
+
+            <itunes:subtitle>Two corporate executive assistants hatch a plan to match-make their two bosses. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Two corporate executive assistants hatch a plan to match-make their two bosses. - IMDb</itunes:summary>
+            
+            <description>Two corporate executive assistants hatch a plan to match-make their two bosses. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Two corporate executive assistants hatch a plan to match-make their two bosses. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,513,467" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-set-it-up.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-set-it-up.mp3</guid>
+            <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <item>
         <itunes:author>Marcast</itunes:author>
             <title>欲望故事 Lust Stories 2018.06.15 NETFLIX 上映</title>
