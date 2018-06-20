@@ -21,6 +21,27 @@
         <itunes:category text="TV &amp; Film"></itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>阿拉比 Araby 2018.06.22 北美上映</title>
+
+            <itunes:subtitle>Andre is a young boy that lives in an industrial neighborhood in Ouro Preto, Brazil, near an old aluminum factory. One day he finds a notebook from one of the factory workers. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Andre is a young boy that lives in an industrial neighborhood in Ouro Preto, Brazil, near an old aluminum factory. One day he finds a notebook from one of the factory workers. - IMDb</itunes:summary>
+            
+            <description>Andre is a young boy that lives in an industrial neighborhood in Ouro Preto, Brazil, near an old aluminum factory. One day he finds a notebook from one of the factory workers. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Andre is a young boy that lives in an industrial neighborhood in Ouro Preto, Brazil, near an old aluminum factory. One day he finds a notebook from one of the factory workers. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,305,225" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-araby.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-araby.mp3</guid>
+            <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:22</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     
     <item>
         <itunes:author>Marcast</itunes:author>
