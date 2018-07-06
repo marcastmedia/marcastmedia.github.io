@@ -22,6 +22,48 @@
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
 
+     <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>惠特尼（纪录片）Whitney 2018.07.06 北美上映</title>
+
+            <itunes:subtitle>An in-depth look at the life and music of Whitney Houston.  - IMDb</itunes:subtitle>
+            
+            <itunes:summary>An in-depth look at the life and music of Whitney Houston.  - IMDb</itunes:summary>
+            
+            <description>An in-depth look at the life and music of Whitney Houston.  - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[An in-depth look at the life and music of Whitney Houston.  - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="1,925,398" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-whitney.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-whitney.mp3</guid>
+            <pubDate>Fri, 6 Jul 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:44</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>莫斯 Moss 2018.07.06 北美上映</title>
+
+            <itunes:subtitle>In this Southern Gothic coming-of-age tale, an isolated and troubled young man, Moss, meets a mysterious and beautiful hiker on the banks of the river near his home on his eighteenth birthday. She guides him on a journey of self-discovery and helps him overcome the tragic death of his mother and the shadow it has cast on his relationship with his detached father. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>In this Southern Gothic coming-of-age tale, an isolated and troubled young man, Moss, meets a mysterious and beautiful hiker on the banks of the river near his home on his eighteenth birthday. She guides him on a journey of self-discovery and helps him overcome the tragic death of his mother and the shadow it has cast on his relationship with his detached father. - IMDb</itunes:summary>
+            
+            <description>In this Southern Gothic coming-of-age tale, an isolated and troubled young man, Moss, meets a mysterious and beautiful hiker on the banks of the river near his home on his eighteenth birthday. She guides him on a journey of self-discovery and helps him overcome the tragic death of his mother and the shadow it has cast on his relationship with his detached father. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[In this Southern Gothic coming-of-age tale, an isolated and troubled young man, Moss, meets a mysterious and beautiful hiker on the banks of the river near his home on his eighteenth birthday. She guides him on a journey of self-discovery and helps him overcome the tragic death of his mother and the shadow it has cast on his relationship with his detached father. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="1,963,850" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-moss.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-moss.mp3</guid>
+            <pubDate>Fri, 6 Jul 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:46</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <item>
         <itunes:author>Marcast</itunes:author>
             <title>我不是药神 Dying to Survive 2018.07.05 中国大陆上映</title>
