@@ -22,7 +22,28 @@
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
 
-     <item>
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>均衡惩罚2 The Equalizer 2 2018.07.20 北美上映</title>
+
+            <itunes:subtitle>Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?  - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?  - IMDb</itunes:summary>
+            
+            <description>Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?  - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?  - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,868,314" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-the-equalizer2.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-the-equalizer2.mp3</guid>
+            <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:43</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
         <itunes:author>Marcast</itunes:author>
             <title>第三度嫌疑人The Third Murder 三度目の殺人 2018.07.20 北美上上映</title>
 
