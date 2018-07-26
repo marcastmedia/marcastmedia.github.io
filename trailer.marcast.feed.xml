@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>碟中谍6：全面瓦解 Mission:Impossible - Fallout 2018.07.27 北美上映</title>
+
+            <itunes:subtitle>Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong. - IMDb</itunes:summary>
+            
+            <description>Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,716,177" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-mission-impossible6.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-mission-impossible6.mp3</guid>
+            <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>流血之刃（纪录片）The Bleeding Edge 2018.07.27 北美上映</title>
 
             <itunes:subtitle>A look at the unforeseen consequences of advanced technological devices used in the medical field. - IMDb</itunes:subtitle>
