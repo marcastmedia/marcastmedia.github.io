@@ -22,7 +22,28 @@
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
 
-     <item>
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>希望永青泉 Hope Springs Eternal 2018.08.10 北美上映</title>
+
+            <itunes:subtitle>When 18 year old Hope Gracin suddenly finds herself in remission from end-stage cancer, she must learn to live without an expiration date. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>When 18 year old Hope Gracin suddenly finds herself in remission from end-stage cancer, she must learn to live without an expiration date. - IMDb</itunes:summary>
+            
+            <description>When 18 year old Hope Gracin suddenly finds herself in remission from end-stage cancer, she must learn to live without an expiration date. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[When 18 year old Hope Gracin suddenly finds herself in remission from end-stage cancer, she must learn to live without an expiration date. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,296,128" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-hope-springs-eternal.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-hope-springs-eternal.mp3</guid>
+            <pubDate>Thu, 9 Aug 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:07</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
         <itunes:author>Marcast</itunes:author>
             <title>教与国家（纪录片）Church &amp; State 2018.08.10 北美上映</title>
 
