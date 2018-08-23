@@ -22,6 +22,48 @@
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
 
+     <item>
+        <itunes:author>Marcast</itunes:author>
+            <title> 春宵苦短，少女前进吧 夜は短し歩けよ乙女 Night Is Short, Walk On Girl 2018.08.24 北美上映</title>
+
+            <itunes:subtitle>The story of the titular girl known only as "Otome" and her insanely long night of partying and drinking-complete with a book fair, festival, and many adventures in between. It is also the story of "Senpai," her upper class man who has been attempting to get closer to her by "coincidentally" running into her again and again. However, on this night, meeting up with her may be the greatest challenge of his life. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>The story of the titular girl known only as "Otome" and her insanely long night of partying and drinking-complete with a book fair, festival, and many adventures in between. It is also the story of "Senpai," her upper class man who has been attempting to get closer to her by "coincidentally" running into her again and again. However, on this night, meeting up with her may be the greatest challenge of his life. - IMDb</itunes:summary>
+            
+            <description>The story of the titular girl known only as "Otome" and her insanely long night of partying and drinking-complete with a book fair, festival, and many adventures in between. It is also the story of "Senpai," her upper class man who has been attempting to get closer to her by "coincidentally" running into her again and again. However, on this night, meeting up with her may be the greatest challenge of his life. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[The story of the titular girl known only as "Otome" and her insanely long night of partying and drinking-complete with a book fair, festival, and many adventures in between. It is also the story of "Senpai," her upper class man who has been attempting to get closer to her by "coincidentally" running into her again and again. However, on this night, meeting up with her may be the greatest challenge of his life. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,028,216" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-night-is-short-walk-on-girl.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-night-is-short-walk-on-girl.mp3</guid>
+            <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>01:50</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>玛咔拉 Makala 2018.08.24 北美上映</title>
+
+            <itunes:subtitle>Trials tribulation dreams and aspirations of a young farmer earning a living making and selling charcoal in Congo. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Trials tribulation dreams and aspirations of a young farmer earning a living making and selling charcoal in Congo. - IMDb</itunes:summary>
+            
+            <description>Trials tribulation dreams and aspirations of a young farmer earning a living making and selling charcoal in Congo. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Trials tribulation dreams and aspirations of a young farmer earning a living making and selling charcoal in Congo. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,443,250" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-makala.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-makala.mp3</guid>
+            <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:16</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <item>
         <itunes:author>Marcast</itunes:author>
             <title>最后的谢幕 Last Curtain Call 2018.08.24 北美上映</title>
