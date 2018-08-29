@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>联合复仇 Reprisal 2018.08.31 北美上映</title>
+
+            <itunes:subtitle>A veteran looks to raise money for his son's healthcare by teaming up with another vet to track down criminals. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A veteran looks to raise money for his son's healthcare by teaming up with another vet to track down criminals. - IMDb</itunes:summary>
+            
+            <description>A veteran looks to raise money for his son's healthcare by teaming up with another vet to track down criminals. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A veteran looks to raise money for his son's healthcare by teaming up with another vet to track down criminals. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,329,983" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-reprisal.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-reprisal.mp3</guid>
+            <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:09</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>崽之抉择 Pick of the Litter 2018.08.31 北美上映</title>
 
             <itunes:subtitle>Pick of the Litter follows a litter of puppies from the moment they're born and begin their quest to become Guide Dogs for the Blind, the ultimate canine career. Cameras follow these pups through a two-year odyssey as they train to become dogs whose ultimate responsibility is to protect their blind partners from harm. Along the way, the dogs meet a community of dedicated individuals who train them to do amazing, life-changing things in the service of their human. The stakes are high and not every dog can make the cut. Only the best of the best. The pick of the litter. - IMDb</itunes:subtitle>
