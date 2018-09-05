@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>消失的乘客 Lost Fare 2018.09.07 北美上映</title>
+
+            <itunes:subtitle>Based on true events and characters. An 11 year old disabled girl, routinely pimped out by her prostitute mother, is saved by a suicidal cab driver. Together, they go on a journey of redemption that forever changes their lives.  - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Based on true events and characters. An 11 year old disabled girl, routinely pimped out by her prostitute mother, is saved by a suicidal cab driver. Together, they go on a journey of redemption that forever changes their lives.  - IMDb</itunes:summary>
+            
+            <description>Based on true events and characters. An 11 year old disabled girl, routinely pimped out by her prostitute mother, is saved by a suicidal cab driver. Together, they go on a journey of redemption that forever changes their lives.  - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Based on true events and characters. An 11 year old disabled girl, routinely pimped out by her prostitute mother, is saved by a suicidal cab driver. Together, they go on a journey of redemption that forever changes their lives.  - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-lost-fare.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-lost-fare.mp3</guid>
+            <pubDate>Wed, 5 Sep 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>草间弥生：无限（纪录片）Kusama: Infinity 2018.09.07 北美上映</title>
 
             <itunes:subtitle>Artist Yayoi Kusama and experts discuss her life and work, from her modest beginnings in Japan to becoming an internationally renowned artist. - IMDb</itunes:subtitle>
