@@ -21,6 +21,22 @@
         <itunes:category text="Society &amp; Culture"></itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>020180909：遗憾谁都有，但不要太多</title>
+            <itunes:subtitle>贝索斯的「遗憾最小化框架」（regret minimization framework）对我们有什么用</itunes:subtitle>
+            <itunes:summary>贝索斯的「遗憾最小化框架」（regret minimization framework）对我们有什么用</itunes:summary>
+            <description>贝索斯的「遗憾最小化框架」（regret minimization framework）对我们有什么用</description>
+            <content:encoded>
+                <![CDATA[贝索斯的「遗憾最小化框架」（regret minimization framework）对我们有什么用<a href="https://marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="12,862,939" type="audio/mpeg" url="http://p2hv16wzi.bkt.clouddn.com/009-regret-mini-framework.mp3"/>
+            <guid>http://p2hv16wzi.bkt.clouddn.com/009-regret-mini-framework.mp3</guid>
+            <pubDate>Mon, 10 Oct 2017 00:00:00 +0000</pubDate>
+            <itunes:duration>12:47</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
         
     <item>
         <itunes:author>Marcast</itunes:author>
