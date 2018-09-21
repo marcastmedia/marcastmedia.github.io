@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>摆湖之歌 The Song of Sway Lake 2018.09.21 北美上映</title>
+
+            <itunes:subtitle>Music collector Ollie Sway recruits his only friend, a rowdy Russian drifter, to help him steal a 78 record from his own family's estate. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Music collector Ollie Sway recruits his only friend, a rowdy Russian drifter, to help him steal a 78 record from his own family's estate. - IMDb</itunes:summary>
+            
+            <description>Music collector Ollie Sway recruits his only friend, a rowdy Russian drifter, to help him steal a 78 record from his own family's estate. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Music collector Ollie Sway recruits his only friend, a rowdy Russian drifter, to help him steal a 78 record from his own family's estate. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-the-song-of-sway-lake.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-the-song-of-sway-lake.mp3</guid>
+            <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>姊妹兄弟 The Sisters Brothers 2018.09.21 北美上映</title>
 
             <itunes:subtitle>In 1850s Oregon, a gold prospector is chased by the infamous duo of assassins, the Sisters brothers. - IMDb</itunes:subtitle>
