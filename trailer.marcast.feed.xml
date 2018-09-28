@@ -22,6 +22,48 @@
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
 
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>牧师 The Padre 2018.09.28 北美上映</title>
+
+            <itunes:subtitle>It tells the story of the Padre (Roth), a small-time con man on the run from his dogged pursuers, U.S. Court Justice Nemes (Nolte) and local police officer Gaspar (Guzmán). When the Padre is caught mid-con, he flees the scene in a stolen car, unaware that a precocious 16-year-old girl, Lena (Henriquez), is stowing away in the back seat. After she blackmails him into letting her join his journey, the duo plan their biggest heist yet - not always aware of the dangers of working with each other and the law closing in on them. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>It tells the story of the Padre (Roth), a small-time con man on the run from his dogged pursuers, U.S. Court Justice Nemes (Nolte) and local police officer Gaspar (Guzmán). When the Padre is caught mid-con, he flees the scene in a stolen car, unaware that a precocious 16-year-old girl, Lena (Henriquez), is stowing away in the back seat. After she blackmails him into letting her join his journey, the duo plan their biggest heist yet - not always aware of the dangers of working with each other and the law closing in on them. - IMDb</itunes:summary>
+            
+            <description>It tells the story of the Padre (Roth), a small-time con man on the run from his dogged pursuers, U.S. Court Justice Nemes (Nolte) and local police officer Gaspar (Guzmán). When the Padre is caught mid-con, he flees the scene in a stolen car, unaware that a precocious 16-year-old girl, Lena (Henriquez), is stowing away in the back seat. After she blackmails him into letting her join his journey, the duo plan their biggest heist yet - not always aware of the dangers of working with each other and the law closing in on them. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[It tells the story of the Padre (Roth), a small-time con man on the run from his dogged pursuers, U.S. Court Justice Nemes (Nolte) and local police officer Gaspar (Guzmán). When the Padre is caught mid-con, he flees the scene in a stolen car, unaware that a precocious 16-year-old girl, Lena (Henriquez), is stowing away in the back seat. After she blackmails him into letting her join his journey, the duo plan their biggest heist yet - not always aware of the dangers of working with each other and the law closing in on them. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-the-padre.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-the-padre.mp3</guid>
+            <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>塞缪尔计划 The Samuel Project 2018.09.28 北美上映</title>
+
+            <itunes:subtitle>Eli, an outcast teen, connects with his isolated grandfather Samuel for the first time, and uncovers his surprising past, when he makes his grandpa the subject of an animated art project for school. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Eli, an outcast teen, connects with his isolated grandfather Samuel for the first time, and uncovers his surprising past, when he makes his grandpa the subject of an animated art project for school. - IMDb</itunes:summary>
+            
+            <description>Eli, an outcast teen, connects with his isolated grandfather Samuel for the first time, and uncovers his surprising past, when he makes his grandpa the subject of an animated art project for school. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Eli, an outcast teen, connects with his isolated grandfather Samuel for the first time, and uncovers his surprising past, when he makes his grandpa the subject of an animated art project for school. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-the-samuel-project.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-the-samuel-project.mp3</guid>
+            <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
      <item>
         <itunes:author>Marcast</itunes:author>
             <title>脚手架 Scaffolding 2018.09.28 北美上映</title>
@@ -43,7 +85,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
 
-     <item>
+    <item>
         <itunes:author>Marcast</itunes:author>
             <title>零三年夏天 Summer '03 2018.09.28 北美上映</title>
 
