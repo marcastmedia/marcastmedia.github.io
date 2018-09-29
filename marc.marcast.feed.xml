@@ -24,6 +24,22 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>180929：被忽视的城市（一）</title>
+            <itunes:subtitle>「每天，纽约人要喝下 46 万加仑啤酒，吃掉 350 万磅肉，消耗 21 英里长的牙线。在这座城市里，每天有 250 人死去，460 人出生，15 万人戴着玻璃或塑料假眼行走；这里还有 500 名巫师、600 尊雕塑和纪念碑、30 万只鸽子······」</itunes:subtitle>
+            <itunes:summary>「每天，纽约人要喝下 46 万加仑啤酒，吃掉 350 万磅肉，消耗 21 英里长的牙线。在这座城市里，每天有 250 人死去，460 人出生，15 万人戴着玻璃或塑料假眼行走；这里还有 500 名巫师、600 尊雕塑和纪念碑、30 万只鸽子······」</itunes:summary>
+            <description>「每天，纽约人要喝下 46 万加仑啤酒，吃掉 350 万磅肉，消耗 21 英里长的牙线。在这座城市里，每天有 250 人死去，460 人出生，15 万人戴着玻璃或塑料假眼行走；这里还有 500 名巫师、600 尊雕塑和纪念碑、30 万只鸽子······」</description>
+            <content:encoded>
+                <![CDATA[「每天，纽约人要喝下 46 万加仑啤酒，吃掉 350 万磅肉，消耗 21 英里长的牙线。在这座城市里，每天有 250 人死去，460 人出生，15 万人戴着玻璃或塑料假眼行走；这里还有 500 名巫师、600 尊雕塑和纪念碑、30 万只鸽子······」<a href="https://marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="24,497,988" type="audio/mpeg" url="http://p2hv16wzi.bkt.clouddn.com/011-fame-and-obscurity-01.mp3"/>
+            <guid>http://p2hv16wzi.bkt.clouddn.com/011-fame-and-obscurity-01.mp3</guid>
+            <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>16:36</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>180923：你没那么好，也没那么糟：好感鸿沟和印象落差</title>
             <itunes:subtitle>什么是 The Liking Gap （「好感鸿沟」或「印象落差」）？以及知道它的的存在，对我们有什么用？</itunes:subtitle>
             <itunes:summary>什么是 The Liking Gap （「好感鸿沟」或「印象落差」）？以及知道它的的存在，对我们有什么用？</itunes:summary>
