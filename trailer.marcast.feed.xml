@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>佐伊和宇航员 Zoe and the Astronaut 2018.10.19 北美上映</title>
+
+            <itunes:subtitle>Zoe has suffered with Leukemia her whole life. When her condition worsens, she's given months to live. One day, a Young Astronaut crash lands near her home. Zoe spends her last days showing the Astronaut the wonders of Planet Earth. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Zoe has suffered with Leukemia her whole life. When her condition worsens, she's given months to live. One day, a Young Astronaut crash lands near her home. Zoe spends her last days showing the Astronaut the wonders of Planet Earth. - IMDb</itunes:summary>
+            
+            <description>Zoe has suffered with Leukemia her whole life. When her condition worsens, she's given months to live. One day, a Young Astronaut crash lands near her home. Zoe spends her last days showing the Astronaut the wonders of Planet Earth. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Zoe has suffered with Leukemia her whole life. When her condition worsens, she's given months to live. One day, a Young Astronaut crash lands near her home. Zoe spends her last days showing the Astronaut the wonders of Planet Earth. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://p375c09dc.bkt.clouddn.com/trailer-zoe-and-astro.mp3"/>
+            <guid>http://p375c09dc.bkt.clouddn.com/trailer-zoe-and-astro.mp3</guid>
+            <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>野生生活 Wildlife 2018.10.19 北美上映</title>
 
             <itunes:subtitle>A boy witnesses his parents' marriage falling apart after his mother finds another man. - IMDb</itunes:subtitle>
