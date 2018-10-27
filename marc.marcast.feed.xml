@@ -17,7 +17,7 @@
             <itunes:name>Marcast</itunes:name>
             <itunes:email>marclee@marcastmedia.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://marcastmedia.com/marcast-marcjournal.png"/>
+        <itunes:image href="http://marcastmedia.com/marcast-marc-audiolog-artwork.png"/>
         <itunes:category text="Society &amp; Culture"></itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
