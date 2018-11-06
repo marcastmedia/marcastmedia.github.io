@@ -17,7 +17,7 @@
             <itunes:name>Marcast</itunes:name>
             <itunes:email>hello@marcastmedia.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="http://marcastmedia.com/marcast-coming-soon-artwork.png"/>
+        <itunes:image href="http://comingsoon.oss-cn-beijing.aliyuncs.com/marcast-trailer-cover.png"/>
         <itunes:category text="TV &amp; Film"></itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
