@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>光之声 Vox Lux 2018.12.07 北美上映</title>
+
+            <itunes:subtitle>An unusual set of circumstances brings unexpected success to a pop star. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>An unusual set of circumstances brings unexpected success to a pop star. - IMDb</itunes:summary>
+            
+            <description>An unusual set of circumstances brings unexpected success to a pop star. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[An unusual set of circumstances brings unexpected success to a pop star. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2018/trailer-vox-lux.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2018/trailer-vox-lux.mp3</guid>
+            <pubDate>Fri, 7 Dec 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>花漾男人 Swimming with Men 2018.12.07 北美上映</title>
 
             <itunes:subtitle>A man who is suffering a mid-life crisis finds new meaning in his life as part of an all-male, middle-aged, amateur synchronised swimming team. - IMDb</itunes:subtitle>
