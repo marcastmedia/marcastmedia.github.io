@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>密室逃脱 Escape Room 19.01.04 北美上映</title>
+
+            <itunes:subtitle>Six strangers find themselves in circumstances beyond their control, and must use their wits to survive. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Six strangers find themselves in circumstances beyond their control, and must use their wits to survive. - IMDb</itunes:summary>
+            
+            <description>Six strangers find themselves in circumstances beyond their control, and must use their wits to survive. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Six strangers find themselves in circumstances beyond their control, and must use their wits to survive. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-escape-room.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-escape-room.mp3</guid>
+            <pubDate>Thu, 3 Jan 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>纪录片 圣餐 Communion Komunia 19.01.04 北美上映</title>
+
+            <itunes:subtitle>Living amid domestic instability and teenaged volatility, a sister and brother play out their lives on camera. At fourteen, Ola is already functioning as the woman of the house, cooking and cleaning for her lethargic father and helping her energetic autistic brother, Nikodem, prepare for his first Holy Communion. Throughout, she longs for her mother, whose absence is never explained, yet always deeply felt. As the date of Communion nears, it becomes an opportunity for the family to meet up and Ola is entirely responsible for planning the perfect family celebration. Communion is a portrait of young womanhood and crash course in growing up that teaches us that no failure is final, and that change is possible and needed, especially when love is in question. - RottenTomatoes</itunes:subtitle>
+            
+            <itunes:summary>Living amid domestic instability and teenaged volatility, a sister and brother play out their lives on camera. At fourteen, Ola is already functioning as the woman of the house, cooking and cleaning for her lethargic father and helping her energetic autistic brother, Nikodem, prepare for his first Holy Communion. Throughout, she longs for her mother, whose absence is never explained, yet always deeply felt. As the date of Communion nears, it becomes an opportunity for the family to meet up and Ola is entirely responsible for planning the perfect family celebration. Communion is a portrait of young womanhood and crash course in growing up that teaches us that no failure is final, and that change is possible and needed, especially when love is in question. - RottenTomatoes</itunes:summary>
+            
+            <description>Living amid domestic instability and teenaged volatility, a sister and brother play out their lives on camera. At fourteen, Ola is already functioning as the woman of the house, cooking and cleaning for her lethargic father and helping her energetic autistic brother, Nikodem, prepare for his first Holy Communion. Throughout, she longs for her mother, whose absence is never explained, yet always deeply felt. As the date of Communion nears, it becomes an opportunity for the family to meet up and Ola is entirely responsible for planning the perfect family celebration. Communion is a portrait of young womanhood and crash course in growing up that teaches us that no failure is final, and that change is possible and needed, especially when love is in question. - RottenTomatoes</description>
+            
+            <content:encoded>
+                <![CDATA[Living amid domestic instability and teenaged volatility, a sister and brother play out their lives on camera. At fourteen, Ola is already functioning as the woman of the house, cooking and cleaning for her lethargic father and helping her energetic autistic brother, Nikodem, prepare for his first Holy Communion. Throughout, she longs for her mother, whose absence is never explained, yet always deeply felt. As the date of Communion nears, it becomes an opportunity for the family to meet up and Ola is entirely responsible for planning the perfect family celebration. Communion is a portrait of young womanhood and crash course in growing up that teaches us that no failure is final, and that change is possible and needed, especially when love is in question. - RottenTomatoes<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-communion.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-communion.mp3</guid>
+            <pubDate>Thu, 3 Jan 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>看守人 The Vanishing 19.01.04 北美上映</title>
 
             <itunes:subtitle>Three lighthouse keepers on the remote Flannan Isles find a hidden trunk of gold, leading to their mysterious disappearance. - IMDb</itunes:subtitle>
