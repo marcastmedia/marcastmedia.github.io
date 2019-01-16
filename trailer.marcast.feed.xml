@@ -21,6 +21,48 @@
         <itunes:category text="TV &amp; Film"></itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
+    
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>拳击手之恋 Mukkabaaz The Brawler 19.01.18 北美上映</title>
+
+            <itunes:subtitle>In 1975, a Bayonne, New Jersey underdog boxer gets a shot to fight the champ. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>In 1975, a Bayonne, New Jersey underdog boxer gets a shot to fight the champ. - IMDb</itunes:summary>
+            
+            <description>In 1975, a Bayonne, New Jersey underdog boxer gets a shot to fight the champ. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[In 1975, a Bayonne, New Jersey underdog boxer gets a shot to fight the champ. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-brawler.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-brawler.mp3</guid>
+            <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>成人生活技能 Adult Life Skills</title>
+
+            <itunes:subtitle>Anna is stuck: she's approaching 30, living like a hermit in her mum's garden shed and wondering why the suffragettes ever bothered. She spends her days making videos using her thumbs as actors - thumbs that bicker about things like whether Yogi Bear is a moral or existential nihilist. But Anna doesn't show these videos to anyone and no one knows what they are for. A week before her birthday her Mum serves her an ultimatum - she needs to move out of the shed, get a haircut that doesn't put her gender in question and stop dressing like a homeless teenager. Naturally, Anna tells her Mum to "back the f-off". However, when her school friend comes to visit, Anna's self-imposed isolation becomes impossible to maintain. Soon she is entangled with a troubled eight year old boy obsessed with Westerns, and the local estate agent whose awkward interpersonal skills continually undermine his attempts to seduce her. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Anna is stuck: she's approaching 30, living like a hermit in her mum's garden shed and wondering why the suffragettes ever bothered. She spends her days making videos using her thumbs as actors - thumbs that bicker about things like whether Yogi Bear is a moral or existential nihilist. But Anna doesn't show these videos to anyone and no one knows what they are for. A week before her birthday her Mum serves her an ultimatum - she needs to move out of the shed, get a haircut that doesn't put her gender in question and stop dressing like a homeless teenager. Naturally, Anna tells her Mum to "back the f-off". However, when her school friend comes to visit, Anna's self-imposed isolation becomes impossible to maintain. Soon she is entangled with a troubled eight year old boy obsessed with Westerns, and the local estate agent whose awkward interpersonal skills continually undermine his attempts to seduce her. - IMDb</itunes:summary>
+            
+            <description>Anna is stuck: she's approaching 30, living like a hermit in her mum's garden shed and wondering why the suffragettes ever bothered. She spends her days making videos using her thumbs as actors - thumbs that bicker about things like whether Yogi Bear is a moral or existential nihilist. But Anna doesn't show these videos to anyone and no one knows what they are for. A week before her birthday her Mum serves her an ultimatum - she needs to move out of the shed, get a haircut that doesn't put her gender in question and stop dressing like a homeless teenager. Naturally, Anna tells her Mum to "back the f-off". However, when her school friend comes to visit, Anna's self-imposed isolation becomes impossible to maintain. Soon she is entangled with a troubled eight year old boy obsessed with Westerns, and the local estate agent whose awkward interpersonal skills continually undermine his attempts to seduce her. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Anna is stuck: she's approaching 30, living like a hermit in her mum's garden shed and wondering why the suffragettes ever bothered. She spends her days making videos using her thumbs as actors - thumbs that bicker about things like whether Yogi Bear is a moral or existential nihilist. But Anna doesn't show these videos to anyone and no one knows what they are for. A week before her birthday her Mum serves her an ultimatum - she needs to move out of the shed, get a haircut that doesn't put her gender in question and stop dressing like a homeless teenager. Naturally, Anna tells her Mum to "back the f-off". However, when her school friend comes to visit, Anna's self-imposed isolation becomes impossible to maintain. Soon she is entangled with a troubled eight year old boy obsessed with Westerns, and the local estate agent whose awkward interpersonal skills continually undermine his attempts to seduce her. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-adult-life-skills.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-adult-life-skills.mp3</guid>
+            <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 
     <item>
         <itunes:author>Marcast</itunes:author>
