@@ -210,6 +210,27 @@
             <itunes:duration>02:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Grace and Frankie Season 5 19.01.18 NETFLIX 上映</title>
+
+            <itunes:subtitle>In Grace and Frankie, Jane Fonda (“Grace”) and Lily Tomlin (“Frankie”) star as two women whose lives are suddenly turned upside down when their husbands reveal they are gay and leave them for each other. Both sparring partners and partners-in-crime, they form an unlikely bond to face an uncertain future together and discover a new definition of “family,” with laughter, tears and plenty of mood enhancers along the way. - Netflix</itunes:subtitle>
+            
+            <itunes:summary>In Grace and Frankie, Jane Fonda (“Grace”) and Lily Tomlin (“Frankie”) star as two women whose lives are suddenly turned upside down when their husbands reveal they are gay and leave them for each other. Both sparring partners and partners-in-crime, they form an unlikely bond to face an uncertain future together and discover a new definition of “family,” with laughter, tears and plenty of mood enhancers along the way. - Netflix</itunes:summary>
+            
+            <description>In Grace and Frankie, Jane Fonda (“Grace”) and Lily Tomlin (“Frankie”) star as two women whose lives are suddenly turned upside down when their husbands reveal they are gay and leave them for each other. Both sparring partners and partners-in-crime, they form an unlikely bond to face an uncertain future together and discover a new definition of “family,” with laughter, tears and plenty of mood enhancers along the way. - Netflix</description>
+            
+            <content:encoded>
+                <![CDATA[In Grace and Frankie, Jane Fonda (“Grace”) and Lily Tomlin (“Frankie”) star as two women whose lives are suddenly turned upside down when their husbands reveal they are gay and leave them for each other. Both sparring partners and partners-in-crime, they form an unlikely bond to face an uncertain future together and discover a new definition of “family,” with laughter, tears and plenty of mood enhancers along the way. - Netflix<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-grace-frankie.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-grace-frankie.mp3</guid>
+            <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 
     <item>
         <itunes:author>Marcast</itunes:author>
