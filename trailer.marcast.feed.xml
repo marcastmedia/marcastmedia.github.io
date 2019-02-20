@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>七色彩虹 3 Total Dhamaal 19.02.22 北美上映</title>
+
+            <itunes:subtitle>The third installment of the Dhamaal film series. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>The third installment of the Dhamaal film series. - IMDb</itunes:summary>
+            
+            <description>The third installment of the Dhamaal film series. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[The third installment of the Dhamaal film series. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-total-dhamaal.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-total-dhamaal.mp3</guid>
+            <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>石油大亨 The Iron Orchard 19.02.22 北美上映</title>
+
+            <itunes:subtitle>"The Iron Orchard" is the story of Jim McNeely, a young man thrust into the vibrant and brutal West Texas oilfields in 1939, who works his way through the ranks to ultimately become a formidable wildcatter. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>"The Iron Orchard" is the story of Jim McNeely, a young man thrust into the vibrant and brutal West Texas oilfields in 1939, who works his way through the ranks to ultimately become a formidable wildcatter. - IMDb</itunes:summary>
+            
+            <description>"The Iron Orchard" is the story of Jim McNeely, a young man thrust into the vibrant and brutal West Texas oilfields in 1939, who works his way through the ranks to ultimately become a formidable wildcatter. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA["The Iron Orchard" is the story of Jim McNeely, a young man thrust into the vibrant and brutal West Texas oilfields in 1939, who works his way through the ranks to ultimately become a formidable wildcatter. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-iron-orchard.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-iron-orchard.mp3</guid>
+            <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Run the Race 19.02.22 北美上映</title>
 
             <itunes:subtitle>Against the backdrop of high school football and track, two brothers in a small Southern town face escalating problems with two different world views, straining - but ultimately strengthening - the bonds of brotherhood. - IMDb</itunes:subtitle>
