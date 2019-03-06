@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>I'm Not Here 19.03.08 北美上映</title>
+
+            <itunes:subtitle>A man struggles with the tragic memories of his past to make sense of his present, but soon realizes that time isn't the enemy he thinks it is. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A man struggles with the tragic memories of his past to make sense of his present, but soon realizes that time isn't the enemy he thinks it is. - IMDb</itunes:summary>
+            
+            <description>A man struggles with the tragic memories of his past to make sense of his present, but soon realizes that time isn't the enemy he thinks it is. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A man struggles with the tragic memories of his past to make sense of his present, but soon realizes that time isn't the enemy he thinks it is. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-im-not-here.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-im-not-here.mp3</guid>
+            <pubDate>Wed, 6 Mar 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Gloria Bell 19.03.08 北美上映</title>
+
+            <itunes:subtitle>A free-spirited woman in her 50s seeks out love at L.A. dance clubs. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A free-spirited woman in her 50s seeks out love at L.A. dance clubs. - IMDb</itunes:summary>
+            
+            <description>A free-spirited woman in her 50s seeks out love at L.A. dance clubs. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A free-spirited woman in her 50s seeks out love at L.A. dance clubs. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-gloria-bell.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-gloria-bell.mp3</guid>
+            <pubDate>Wed, 6 Mar 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>纪录片 Ferrante Fever 19.03.08 北美上映</title>
 
             <itunes:subtitle>Hillary Clinton, Roberto Saviano, Jonathan Franzen and others weigh-in on the Elena Ferrante "craze" and what makes her work - and her mysterious persona - so uniquely captivating.</itunes:subtitle>
