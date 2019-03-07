@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>The Kid 19.08.03 北美上映</title>
+
+            <itunes:subtitle>The story of a young boy who witnesses Billy the Kid's encounter with Sheriff Pat Garrett. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>The story of a young boy who witnesses Billy the Kid's encounter with Sheriff Pat Garrett. - IMDb</itunes:summary>
+            
+            <description>The story of a young boy who witnesses Billy the Kid's encounter with Sheriff Pat Garrett. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[The story of a young boy who witnesses Billy the Kid's encounter with Sheriff Pat Garrett. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-kid.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-kid.mp3</guid>
+            <pubDate>Thu, 7 Mar 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>I'm Not Here 19.03.08 北美上映</title>
 
             <itunes:subtitle>A man struggles with the tragic memories of his past to make sense of his present, but soon realizes that time isn't the enemy he thinks it is. - IMDb</itunes:subtitle>
