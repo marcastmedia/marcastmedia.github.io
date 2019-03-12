@@ -18,7 +18,9 @@
             <itunes:email>marclee@marcastmedia.com</itunes:email>
         </itunes:owner>
         <itunes:image href="http://marcastmedia.com/marcast-yvonne-cover.png"/>
-        <itunes:category text="Society &amp; Culture"></itunes:category>
+        <itunes:category text="Society &amp; Culture">
+        <itunes:category text="Places &amp; Travel"/>
+        </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
 

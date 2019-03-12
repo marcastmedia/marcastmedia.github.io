@@ -18,7 +18,9 @@
             <itunes:email>hello@marcastmedia.com</itunes:email>
         </itunes:owner>
         <itunes:image href="http://marcastmedia.com/marcast-fullstack-copywriter-artwork.png"/>
-        <itunes:category text="Business"></itunes:category>
+        <itunes:category text="Business">
+        <itunes:category text="Management &amp; Marketing"/>
+        </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
 
