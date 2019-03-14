@@ -8,9 +8,9 @@
         <link>https://marcastmedia.com/</link> 
         <atom:link href="https://marcastmedia.com/marc.marcast.feed.xml" rel="self" type="application/rss+xml"/>
         <title>李马克的声音日志 Marc Lee's audiolog</title>
-        <itunes:subtitle>Marc Lee's audiolog 行走，声音，成长史。| 微信公众号：Marcast | 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
-        <itunes:summary>Marc Lee's audiolog，行走，声音，成长史。 | 微信公众号：Marcast | 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
-        <description>Marc Lee's audiolog，行走，声音，成长史。 | 微信公众号：Marcast | 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
+        <itunes:subtitle>Marc Lee's audiolog 行走，声音，成长史。| 微信公众号 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
+        <itunes:summary>Marc Lee's audiolog，行走，声音，成长史。 | 微信公众号 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
+        <description>Marc Lee's audiolog，行走，声音，成长史。 | 微信公众号 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
         <itunes:author>Marcast</itunes:author>
         <copyright>Marcast</copyright>
         <itunes:owner>
