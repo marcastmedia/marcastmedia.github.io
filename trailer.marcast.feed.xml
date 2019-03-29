@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>计划之外 Unplanned 19.03.29 北美上映</title>
+
+            <itunes:subtitle>Abby Johnson is one of the youngest Planned Parenthood directors in the US. After she is asked to assist in an abortion at thirteen weeks gestation she instead resigns, becoming an anti-abortion activist. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Abby Johnson is one of the youngest Planned Parenthood directors in the US. After she is asked to assist in an abortion at thirteen weeks gestation she instead resigns, becoming an anti-abortion activist. - IMDb</itunes:summary>
+            
+            <description>Abby Johnson is one of the youngest Planned Parenthood directors in the US. After she is asked to assist in an abortion at thirteen weeks gestation she instead resigns, becoming an anti-abortion activist. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Abby Johnson is one of the youngest Planned Parenthood directors in the US. After she is asked to assist in an abortion at thirteen weeks gestation she instead resigns, becoming an anti-abortion activist. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-unplanned.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-unplanned.mp3</guid>
+            <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>纪录片 The Legend of Cocaine Island 19.03.29 NETFLIX 上映</title>
 
             <itunes:subtitle>Rodney Hyden is an American dreamer: a small business owner and family man from Central Florida. But after he’s wiped out by the Great Recession, Rodney hears a story that could be his ticket out of his mounting debt: a tale of a map, an island and buried treasure. Fueled by a combination of economic desperation and blissful ignorance, Rodney hatches a plan to retrieve a possibly mythical $2 million stash of cocaine from its reported Caribbean hiding place. With the help of a colorful group of misfits - and without prior drug-running experience - Rodney sets out in pursuit of his very own American dream, with surprising results. - Netflix</itunes:subtitle>
