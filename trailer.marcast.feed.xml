@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>The White Crow 19.04.26 北美上映</title>
+
+            <itunes:subtitle>The story of Rudolf Nureyev's defection to the West. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>The story of Rudolf Nureyev's defection to the West. - IMDb</itunes:summary>
+            
+            <description>The story of Rudolf Nureyev's defection to the West. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[The story of Rudolf Nureyev's defection to the West. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-white-crow.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-white-crow.mp3</guid>
+            <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Queen of Diamonds 19.04.26 北美上映</title>
+
+            <itunes:subtitle>In this drama, a female blackjack dealer becomes a juggler as she struggles to cope with her job, her search for her lost husband, and her responsibility of caring for an elderly man in a motel. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>In this drama, a female blackjack dealer becomes a juggler as she struggles to cope with her job, her search for her lost husband, and her responsibility of caring for an elderly man in a motel. - IMDb</itunes:summary>
+            
+            <description>In this drama, a female blackjack dealer becomes a juggler as she struggles to cope with her job, her search for her lost husband, and her responsibility of caring for an elderly man in a motel. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[In this drama, a female blackjack dealer becomes a juggler as she struggles to cope with her job, her search for her lost husband, and her responsibility of caring for an elderly man in a motel. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trialer-queen-of-diamonds.mp3"/>
+            <guid>http://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trialer-queen-of-diamonds.mp3</guid>
+            <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>记录剧集 Street Food Seaon 1 19.04.26 NETFLIX 上映</title>
 
             <itunes:subtitle>From the creators of Chef's Table, Street Food takes viewers to some of the world's most vibrant cities to explore the rich culture of street food all over the globe. Season one explores nine countries across Asia, from the hawker stalls of Singapore to the food carts of India. Each episode highlights the stories of perseverance and culture that bring life to each country's cuisine. - Netflix</itunes:subtitle>
