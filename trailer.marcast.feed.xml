@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Toy Story 4 19.06.21 中国大陆/北美上映</title>
+
+            <itunes:subtitle>When a new toy called "Forky" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>When a new toy called "Forky" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy. - IMDb</itunes:summary>
+            
+            <description>When a new toy called "Forky" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[When a new toy called "Forky" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-toy-story-4.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-toy-story-4.mp3</guid>
+            <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Wild Rose 19.06.21 北美上映</title>
+
+            <itunes:subtitle>A musician from Glasgow dreams of becoming a Nashville star. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A musician from Glasgow dreams of becoming a Nashville star. - IMDb</itunes:summary>
+            
+            <description>A musician from Glasgow dreams of becoming a Nashville star. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A musician from Glasgow dreams of becoming a Nashville star. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-wild-rose.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-wild-rose.mp3</guid>
+            <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Leto 19.06.07 北美上映</title>
 
             <itunes:subtitle>A love triangle emerges around a rock and roll musician, his protege and his wife in 1980s Russia. - IMDb</itunes:subtitle>
