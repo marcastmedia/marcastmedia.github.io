@@ -24,21 +24,42 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>Yesterday 19.06.28 北美上映</title>
+            <title>Midsommar 19.07.03 北美上映</title>
 
-            <itunes:subtitle>A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate timeline where they never existed. - IMDb</itunes:subtitle>
+            <itunes:subtitle>A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult. - IMDb</itunes:subtitle>
             
-            <itunes:summary>A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate timeline where they never existed. - IMDb</itunes:summary>
+            <itunes:summary>A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult. - IMDb</itunes:summary>
             
-            <description>A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate timeline where they never existed. - IMDb</description>
+            <description>A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult. - IMDb</description>
             
             <content:encoded>
-                <![CDATA[A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate timeline where they never existed. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+                <![CDATA[A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
             </content:encoded>
             
-            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-yesterday.mp3"/>
-            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-yesterday.mp3</guid>
-            <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-midsommar.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-midsommar.mp3</guid>
+            <pubDate>Tue, 2 Jul 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Spider-Man: Far from Home 19.07.02 北美上映</title>
+
+            <itunes:subtitle>Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever. - IMDb</itunes:summary>
+            
+            <description>Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-spider-man-far.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-spider-man-far.mp3</guid>
+            <pubDate>Mon, 1 Jul 2019 00:00:00 +0000</pubDate>
             <itunes:duration>02:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
