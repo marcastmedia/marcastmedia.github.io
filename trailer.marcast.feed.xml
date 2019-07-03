@@ -24,6 +24,69 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>美剧 Stranger Things 3 19.07.04 北美上映</title>
+
+            <itunes:subtitle>Stranger Things 3: It’s 1985 in Hawkins, Indiana, and summer's heating up. School’s out, there’s a brand new mall in town, and the Hawkins crew are on the cusp of adulthood. Romance blossoms and complicates the group’s dynamic, and they’ll have to figure out how to grow up without growing apart. Meanwhile, danger looms. When the town’s threatened by enemies old and new, Eleven and her friends are reminded that evil never ends; it evolves. Now they’ll have to band together to survive, and remember that friendship is always stronger than fear. - Netflix</itunes:subtitle>
+            
+            <itunes:summary>Stranger Things 3: It’s 1985 in Hawkins, Indiana, and summer's heating up. School’s out, there’s a brand new mall in town, and the Hawkins crew are on the cusp of adulthood. Romance blossoms and complicates the group’s dynamic, and they’ll have to figure out how to grow up without growing apart. Meanwhile, danger looms. When the town’s threatened by enemies old and new, Eleven and her friends are reminded that evil never ends; it evolves. Now they’ll have to band together to survive, and remember that friendship is always stronger than fear. - Netflix</itunes:summary>
+            
+            <description>Stranger Things 3: It’s 1985 in Hawkins, Indiana, and summer's heating up. School’s out, there’s a brand new mall in town, and the Hawkins crew are on the cusp of adulthood. Romance blossoms and complicates the group’s dynamic, and they’ll have to figure out how to grow up without growing apart. Meanwhile, danger looms. When the town’s threatened by enemies old and new, Eleven and her friends are reminded that evil never ends; it evolves. Now they’ll have to band together to survive, and remember that friendship is always stronger than fear. - Netflix</description>
+            
+            <content:encoded>
+                <![CDATA[Stranger Things 3: It’s 1985 in Hawkins, Indiana, and summer's heating up. School’s out, there’s a brand new mall in town, and the Hawkins crew are on the cusp of adulthood. Romance blossoms and complicates the group’s dynamic, and they’ll have to figure out how to grow up without growing apart. Meanwhile, danger looms. When the town’s threatened by enemies old and new, Eleven and her friends are reminded that evil never ends; it evolves. Now they’ll have to band together to survive, and remember that friendship is always stronger than fear. - Netflix<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-stranger-things-s3.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-stranger-things-s3.mp3</guid>
+            <pubDate>Wed, 3 Jul 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>The Return of Martin Guerre 19.07.05 北美上映</title>
+
+            <itunes:subtitle>In medieval France, some villagers challenge a man's claim of identity when he (as he says) returns home from some time in the army. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>In medieval France, some villagers challenge a man's claim of identity when he (as he says) returns home from some time in the army. - IMDb</itunes:summary>
+            
+            <description>In medieval France, some villagers challenge a man's claim of identity when he (as he says) returns home from some time in the army. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[In medieval France, some villagers challenge a man's claim of identity when he (as he says) returns home from some time in the army. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-return-of-martin.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-return-of-martin.mp3</guid>
+            <pubDate>Wed, 3 Jul 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>纪录片 Marianne &amp; Leonard: Words of Love 19.07.05 北美上映</title>
+
+            <itunes:subtitle>An in-depth look at the relationship between the late musician Leonard Cohen and his Norwegian muse Marianne Ihlen. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>An in-depth look at the relationship between the late musician Leonard Cohen and his Norwegian muse Marianne Ihlen. - IMDb</itunes:summary>
+            
+            <description>An in-depth look at the relationship between the late musician Leonard Cohen and his Norwegian muse Marianne Ihlen. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[An in-depth look at the relationship between the late musician Leonard Cohen and his Norwegian muse Marianne Ihlen. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-marianne-leonard.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-marianne-leonard.mp3</guid>
+            <pubDate>Wed, 3 Jul 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Midsommar 19.07.03 北美上映</title>
 
             <itunes:subtitle>A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult. - IMDb</itunes:subtitle>
