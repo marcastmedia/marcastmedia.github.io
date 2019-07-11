@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Suber 19.07.12 北美上映</title>
+
+            <itunes:subtitle>A detective recruits his Uber driver into an unexpected night of adventure. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A detective recruits his Uber driver into an unexpected night of adventure. - IMDb</itunes:summary>
+            
+            <description>A detective recruits his Uber driver into an unexpected night of adventure. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A detective recruits his Uber driver into an unexpected night of adventure. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-stuber.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-stuber.mp3</guid>
+            <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>纪录片 Sea of Shadows 19.07.12 北美上映</title>
+
+            <itunes:subtitle>The vaquita, the world's smallest whale, is near extinction as its habitat is destroyed by Mexican cartels and Chinese mafia, who harvest the swim bladder of the totoaba fish, the "cocaine of the sea." Environmental activists, Mexican navy and undercover investigators are fighting back against this illegal multi-million-dollar business. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>The vaquita, the world's smallest whale, is near extinction as its habitat is destroyed by Mexican cartels and Chinese mafia, who harvest the swim bladder of the totoaba fish, the "cocaine of the sea." Environmental activists, Mexican navy and undercover investigators are fighting back against this illegal multi-million-dollar business. - IMDb</itunes:summary>
+            
+            <description>The vaquita, the world's smallest whale, is near extinction as its habitat is destroyed by Mexican cartels and Chinese mafia, who harvest the swim bladder of the totoaba fish, the "cocaine of the sea." Environmental activists, Mexican navy and undercover investigators are fighting back against this illegal multi-million-dollar business. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[The vaquita, the world's smallest whale, is near extinction as its habitat is destroyed by Mexican cartels and Chinese mafia, who harvest the swim bladder of the totoaba fish, the "cocaine of the sea." Environmental activists, Mexican navy and undercover investigators are fighting back against this illegal multi-million-dollar business. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-sea-of-shadows.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-sea-of-shadows.mp3</guid>
+            <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Point Blank 19.07.12 NETFLIX 上映</title>
 
             <itunes:subtitle>When his pregnant wife is kidnapped and held as collateral, Paul, an ER nurse, must team with the badly injured career criminal and murder suspect under his charge in order to save the lives of his wife and unborn child. Pitted against rival gangs and a deadly ring of corrupt cops, the unlikely duo find a way to survive together in the fight of their lives. A gritty, action-packed thriller starring Anthony Mackie and Frank Grillo. - Netflix</itunes:subtitle>
