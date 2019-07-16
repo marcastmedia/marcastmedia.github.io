@@ -24,7 +24,70 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>Suber 19.07.12 北美上映</title>
+            <title>Comedians in Cars Getting Coffee 19.07.19 NETFLIX 上映</title>
+
+            <itunes:subtitle>Jerry Seinfeld's roving talk show combines coffee, laughs, and vintage cars into quirky, caffeine-filled adventures with the sharpest minds in comedy. This season’s guests include: Eddie Murphy, Seth Rogen, Ricky Gervais, Matthew Broderick, Jamie Foxx, Sebastian Maniscalco, Martin Short, Mario Joyner, Melissa Villaseñor, Bridget Everett, and Barry Marder. - Netflix</itunes:subtitle>
+            
+            <itunes:summary>Jerry Seinfeld's roving talk show combines coffee, laughs, and vintage cars into quirky, caffeine-filled adventures with the sharpest minds in comedy. This season’s guests include: Eddie Murphy, Seth Rogen, Ricky Gervais, Matthew Broderick, Jamie Foxx, Sebastian Maniscalco, Martin Short, Mario Joyner, Melissa Villaseñor, Bridget Everett, and Barry Marder. - Netflix</itunes:summary>
+            
+            <description>Jerry Seinfeld's roving talk show combines coffee, laughs, and vintage cars into quirky, caffeine-filled adventures with the sharpest minds in comedy. This season’s guests include: Eddie Murphy, Seth Rogen, Ricky Gervais, Matthew Broderick, Jamie Foxx, Sebastian Maniscalco, Martin Short, Mario Joyner, Melissa Villaseñor, Bridget Everett, and Barry Marder. - Netflix</description>
+            
+            <content:encoded>
+                <![CDATA[Jerry Seinfeld's roving talk show combines coffee, laughs, and vintage cars into quirky, caffeine-filled adventures with the sharpest minds in comedy. This season’s guests include: Eddie Murphy, Seth Rogen, Ricky Gervais, Matthew Broderick, Jamie Foxx, Sebastian Maniscalco, Martin Short, Mario Joyner, Melissa Villaseñor, Bridget Everett, and Barry Marder. - Netflix<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-comedians-get-coffee-s11.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-comedians-get-coffee-s11.mp3</guid>
+            <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Sword of Trust 19.07.19 北美上映</title>
+
+            <itunes:subtitle>Cynthia and Mary show up to collect Cynthia's inheritance from her deceased grandfather, but the only item she receives is an antique sword that was believed by her grandfather to be proof that the South won the Civil War. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Cynthia and Mary show up to collect Cynthia's inheritance from her deceased grandfather, but the only item she receives is an antique sword that was believed by her grandfather to be proof that the South won the Civil War. - IMDb</itunes:summary>
+            
+            <description>Cynthia and Mary show up to collect Cynthia's inheritance from her deceased grandfather, but the only item she receives is an antique sword that was believed by her grandfather to be proof that the South won the Civil War. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Cynthia and Mary show up to collect Cynthia's inheritance from her deceased grandfather, but the only item she receives is an antique sword that was believed by her grandfather to be proof that the South won the Civil War. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-sword-of-trust.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-sword-of-trust.mp3</guid>
+            <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>The Lion King 19.07.19 北美上映</title>
+
+            <itunes:subtitle>After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery. - IMDb</itunes:summary>
+            
+            <description>After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-lion-king.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-lion-king.mp3</guid>
+            <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Stuber 19.07.12 北美上映</title>
 
             <itunes:subtitle>A detective recruits his Uber driver into an unexpected night of adventure. - IMDb</itunes:subtitle>
             
