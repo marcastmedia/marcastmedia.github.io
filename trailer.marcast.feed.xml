@@ -21,6 +21,48 @@
         <itunes:category text="TV &amp; Film"></itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
+        
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>The Mountain 19.07.26 北美上映</title>
+
+            <itunes:subtitle>The story of a young man who, after losing his mother, goes to work with a doctor specializing in lobotomies and therapies. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>The story of a young man who, after losing his mother, goes to work with a doctor specializing in lobotomies and therapies. - IMDb</itunes:summary>
+            
+            <description>The story of a young man who, after losing his mother, goes to work with a doctor specializing in lobotomies and therapies. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[The story of a young man who, after losing his mother, goes to work with a doctor specializing in lobotomies and therapies. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-mountain.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-mountain.mp3</guid>
+            <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>The Ground Beneath My Feet 19.07.26 北美上映</title>
+
+            <itunes:subtitle>Lola controls her personal life with the same ruthless efficiency she uses to optimize profits in her job as a business consultant. But when a tragic event forces the past back into her life, Lola's grip on reality seems to slips away. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Lola controls her personal life with the same ruthless efficiency she uses to optimize profits in her job as a business consultant. But when a tragic event forces the past back into her life, Lola's grip on reality seems to slips away. - IMDb</itunes:summary>
+            
+            <description>Lola controls her personal life with the same ruthless efficiency she uses to optimize profits in her job as a business consultant. But when a tragic event forces the past back into her life, Lola's grip on reality seems to slips away. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Lola controls her personal life with the same ruthless efficiency she uses to optimize profits in her job as a business consultant. But when a tragic event forces the past back into her life, Lola's grip on reality seems to slips away. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-ground-beneth.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-ground-beneth.mp3</guid>
+            <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 
     <item>
         <itunes:author>Marcast</itunes:author>
