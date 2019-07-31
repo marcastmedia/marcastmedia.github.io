@@ -26,12 +26,28 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>全栈文案002：「拿零食当饭吃的人拥有世间最深的孤独。」</title>
-            <itunes:subtitle>文案写作与共情能力</itunes:subtitle>
-            <itunes:summary>文案写作与共情能力</itunes:summary>
-            <description>文案写作与共情能力</description>
+            <title>全栈文案#003: 魔岛不会凭空出现: 创意的生成</title>
+            <itunes:subtitle>本期我们重点解读 James Webb Young 的经典小书《创意的生成》(A Technique for Producing Ideas)</itunes:subtitle>
+            <itunes:summary>本期我们重点解读 James Webb Young 的经典小书《创意的生成》(A Technique for Producing Ideas)</itunes:summary>
+            <description>本期我们重点解读 James Webb Young 的经典小书《创意的生成》(A Technique for Producing Ideas)</description>
             <content:encoded>
-                <![CDATA[文案写作与共情能力<a href="https://marcastmedia.com/">Marcast</a>]]>.
+                <![CDATA[本期我们重点解读 James Webb Young 的经典小书《创意的生成》(A Technique for Producing Ideas)<a href="https://marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="28793093" type="audio/mpeg" url="https://fullstackcopywriter.oss-cn-beijing.aliyuncs.com/fc2019/003-a-technique-for-producing-ideas.mp3"/>
+            <guid>https://fullstackcopywriter.oss-cn-beijing.aliyuncs.com/fc2019/003-a-technique-for-producing-ideas.mp3</guid>
+            <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>30:10</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>全栈文案#002:「拿零食当饭吃的人拥有世间最深的孤独。」</title>
+            <itunes:subtitle>文案创作与共情能力</itunes:subtitle>
+            <itunes:summary>文案创作与共情能力</itunes:summary>
+            <description>文案创作与共情能力</description>
+            <content:encoded>
+                <![CDATA[文案创作与共情能力<a href="https://marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
             <enclosure length="28793093" type="audio/mpeg" url="http://fullstackcopywriter.oss-cn-beijing.aliyuncs.com/fc2017/002-sympathy-copy.mp3"/>
             <guid>http://fullstackcopywriter.oss-cn-beijing.aliyuncs.com/fc2017/002-sympathy-copy.mp3</guid>
@@ -42,12 +58,12 @@
         
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>全栈文案001：「我们买的从来不是产品，而是更好的自己。」</title>
-            <itunes:subtitle>给人制造憧憬感的文案</itunes:subtitle>
-            <itunes:summary>给人制造憧憬感的文案</itunes:summary>
-            <description>给人制造憧憬感的文案</description>
+            <title>全栈文案#001:「我们买的从来不是产品，而是更好的自己。」</title>
+            <itunes:subtitle>「憧憬型」文案的吸引力</itunes:subtitle>
+            <itunes:summary>「憧憬型」文案的吸引力</itunes:summary>
+            <description>「憧憬型」文案的吸引力</description>
             <content:encoded>
-                <![CDATA[给人制造憧憬感的文案<a href="https://marcastmedia.com/">Marcast</a>]]>.
+                <![CDATA[「憧憬型」文案的吸引力<a href="https://marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
             <enclosure length="26315279" type="audio/mpeg" url="http://fullstackcopywriter.oss-cn-beijing.aliyuncs.com/fc2017/001-vision-copy.mp3"/>
             <guid>http://fullstackcopywriter.oss-cn-beijing.aliyuncs.com/fc2017/001-vision-copy.mp3</guid>
