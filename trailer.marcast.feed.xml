@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Madness in the Method 19.08.02 北美上映</title>
+
+            <itunes:subtitle>Jason Mewes, attempting method acting in order to gain more respect for himself in Hollywood, slowly descends into madness. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Jason Mewes, attempting method acting in order to gain more respect for himself in Hollywood, slowly descends into madness. - IMDb</itunes:summary>
+            
+            <description>Jason Mewes, attempting method acting in order to gain more respect for himself in Hollywood, slowly descends into madness. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Jason Mewes, attempting method acting in order to gain more respect for himself in Hollywood, slowly descends into madness. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-madness-method.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-madness-method.mp3</guid>
+            <pubDate>Thu, 1 Aug 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Luce 19.08.02 北美上映</title>
+
+            <itunes:subtitle>A married couple is forced to reckon with their idealized image of their son, adopted from war-torn Eritrea, after an alarming discovery by a devoted high school teacher threatens his status as an all-star student. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A married couple is forced to reckon with their idealized image of their son, adopted from war-torn Eritrea, after an alarming discovery by a devoted high school teacher threatens his status as an all-star student. - IMDb</itunes:summary>
+            
+            <description>A married couple is forced to reckon with their idealized image of their son, adopted from war-torn Eritrea, after an alarming discovery by a devoted high school teacher threatens his status as an all-star student. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A married couple is forced to reckon with their idealized image of their son, adopted from war-torn Eritrea, after an alarming discovery by a devoted high school teacher threatens his status as an all-star student. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-luce.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-luce.mp3</guid>
+            <pubDate>Thu, 1 Aug 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>纪录片 Love Antosha 19.08.02 北美上映</title>
 
             <itunes:subtitle>A portrait of the extraordinary life and career of actor Anton Yelchin. - IMDb</itunes:subtitle>
