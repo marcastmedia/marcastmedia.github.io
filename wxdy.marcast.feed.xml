@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+>
+<channel>
+        <link>https://marcastmedia.com/</link> 
+        <atom:link href="https://marcastmedia.com/wxdy.marcast.feed.xml" rel="self" type="application/rss+xml"/>
+        <title>务虚多言</title>
+        <itunes:subtitle>务虚多言</itunes:subtitle>
+        <itunes:summary>Yolling / 月饼 / 海蜇 三位青年的技术观察与人文反思 | 本播客由 Marcast Media 荣誉出品 | WX/WB: @Marcast / 联系邮件: hello@marcastmedia.com</itunes:summary>
+        <description>Yolling / 月饼 / 海蜇 三位青年的技术观察与人文反思 | 本播客由 Marcast Media 荣誉出品 | WX/WB: @Marcast / 联系邮件: hello@marcastmedia.com</description>
+        <itunes:author>Marcast</itunes:author>
+        <copyright>Marcast</copyright>
+        <itunes:owner>
+            <itunes:name>Marcast</itunes:name>
+            <itunes:email>hello@marcastmedia.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://marcastmedia.com/marcast-wxdy-cover.jpg"/>
+        <itunes:category text="Technology">
+        </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>务虚多言Vol.2: 赛博朋克与睡眠的终结</title>
+            <itunes:subtitle>睡眠APP，高蛋白代餐粉，电击手环……科技对人类生活的渗透已经到达了前所未有的深度。我们用科技追踪测量自我，同时也被科技公司们追踪着测量着；我们用互联网搜集信息，直到自身也变成了浩瀚的互联网数据的一部分。这一期节目里，我们从机器的偏见说到偶像练习生，聊了聊赛博朋克之奥义与睡眠的终结，顺便怀念了一下曾经那个有权利什么都不做的年代。本期主播：Yolling / 月饼 / 海蜇</itunes:subtitle>
+            <itunes:summary>睡眠APP，高蛋白代餐粉，电击手环……科技对人类生活的渗透已经到达了前所未有的深度。我们用科技追踪测量自我，同时也被科技公司们追踪着测量着；我们用互联网搜集信息，直到自身也变成了浩瀚的互联网数据的一部分。这一期节目里，我们从机器的偏见说到偶像练习生，聊了聊赛博朋克之奥义与睡眠的终结，顺便怀念了一下曾经那个有权利什么都不做的年代。本期主播：Yolling / 月饼 / 海蜇</itunes:summary>
+            <description>睡眠APP，高蛋白代餐粉，电击手环……科技对人类生活的渗透已经到达了前所未有的深度。我们用科技追踪测量自我，同时也被科技公司们追踪着测量着；我们用互联网搜集信息，直到自身也变成了浩瀚的互联网数据的一部分。这一期节目里，我们从机器的偏见说到偶像练习生，聊了聊赛博朋克之奥义与睡眠的终结，顺便怀念了一下曾经那个有权利什么都不做的年代。本期主播：Yolling / 月饼 / 海蜇</description>
+            <content:encoded>
+                <![CDATA[本期主播：Yolling / 月饼 / 海蜇 | 本期内容：睡眠APP，高蛋白代餐粉，电击手环……科技对人类生活的渗透已经到达了前所未有的深度。我们用科技追踪测量自我，同时也被科技公司们追踪着测量着；我们用互联网搜集信息，直到自身也变成了浩瀚的互联网数据的一部分。这一期节目里，我们从机器的偏见说到偶像练习生，聊了聊赛博朋克之奥义与睡眠的终结，顺便怀念了一下曾经那个有权利什么都不做的年代。<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="61,969,891" type="audio/mpeg" url="https://wuxuduoyan.oss-cn-beijing.aliyuncs.com/wxdy-002.mp3"/>
+            <guid>https://wuxuduoyan.oss-cn-beijing.aliyuncs.com/wxdy-002.mp3</guid>
+            <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>32:16</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>务虚多言Vol.1: 一场有关当代技术观察和思考的意识流讨论</title>
+            <itunes:subtitle>我们最初打算聊一聊智能手机和社交媒体给我们带来的生理心理宏观微观的变化，但很快场面就控制不住了！我们从互联网时代的定制化信息获取模式，一路聊到数据和历史的云存储。在《寻梦环游记》和大都会博物馆的米开朗基罗展里，我们想问，在全息时代、AI时代的前夕，人类的记忆还重要吗？本期主播：Yolling / 月饼 / 海蜇</itunes:subtitle>
+            <itunes:summary>我们最初打算聊一聊智能手机和社交媒体给我们带来的生理心理宏观微观的变化，但很快场面就控制不住了！我们从互联网时代的定制化信息获取模式，一路聊到数据和历史的云存储。在《寻梦环游记》和大都会博物馆的米开朗基罗展里，我们想问，在全息时代、AI时代的前夕，人类的记忆还重要吗？本期主播：Yolling / 月饼 / 海蜇</itunes:summary>
+            <description>我们最初打算聊一聊智能手机和社交媒体给我们带来的生理心理宏观微观的变化，但很快场面就控制不住了！我们从互联网时代的定制化信息获取模式，一路聊到数据和历史的云存储。在《寻梦环游记》和大都会博物馆的米开朗基罗展里，我们想问，在全息时代、AI时代的前夕，人类的记忆还重要吗？本期主播：Yolling / 月饼 / 海蜇</description>
+            <content:encoded>
+                <![CDATA[本期内容：我们最初打算聊一聊智能手机和社交媒体给我们带来的生理心理宏观微观的变化，但很快场面就控制不住了！我们从互联网时代的定制化信息获取模式，一路聊到数据和历史的云存储。在《寻梦环游记》和大都会博物馆的米开朗基罗展里，我们想问，在全息时代、AI时代的前夕，人类的记忆还重要吗？本期主播：Yolling / 月饼 / 海蜇<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="65,107,929" type="audio/mpeg" url="https://wuxuduoyan.oss-cn-beijing.aliyuncs.com/wxdy-001.mp3"/>
+            <guid>https://wuxuduoyan.oss-cn-beijing.aliyuncs.com/wxdy-001.mp3</guid>
+            <pubDate>Sun, 7 Jan 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>33:54</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>
