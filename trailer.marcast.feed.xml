@@ -24,7 +24,49 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>Killerman 19.08.30 </title>
+            <title>Styling Hollywood Season 1 19.08.30 NETFLIX</title>
+
+            <itunes:subtitle>Styling Hollywood is a series following celebrity stylist Jason Bolden and his interior designer husband Adair Curtis as they run their lifestyle company JSN STUDIO while balancing marriage and life’s ups and downs. With their talented crew of colorful employees, watch as they curate "Black Girl Magic" for some of Hollywood’s biggest stars including Taraji P. Henson, Gabrielle Union, Eve, and Ava DuVernay (just to name a few). - Netflix</itunes:subtitle>
+            
+            <itunes:summary>Styling Hollywood is a series following celebrity stylist Jason Bolden and his interior designer husband Adair Curtis as they run their lifestyle company JSN STUDIO while balancing marriage and life’s ups and downs. With their talented crew of colorful employees, watch as they curate "Black Girl Magic" for some of Hollywood’s biggest stars including Taraji P. Henson, Gabrielle Union, Eve, and Ava DuVernay (just to name a few). - Netflix</itunes:summary>
+            
+            <description>Styling Hollywood is a series following celebrity stylist Jason Bolden and his interior designer husband Adair Curtis as they run their lifestyle company JSN STUDIO while balancing marriage and life’s ups and downs. With their talented crew of colorful employees, watch as they curate "Black Girl Magic" for some of Hollywood’s biggest stars including Taraji P. Henson, Gabrielle Union, Eve, and Ava DuVernay (just to name a few). - Netflix</description>
+            
+            <content:encoded>
+                <![CDATA[Styling Hollywood is a series following celebrity stylist Jason Bolden and his interior designer husband Adair Curtis as they run their lifestyle company JSN STUDIO while balancing marriage and life’s ups and downs. With their talented crew of colorful employees, watch as they curate "Black Girl Magic" for some of Hollywood’s biggest stars including Taraji P. Henson, Gabrielle Union, Eve, and Ava DuVernay (just to name a few). - Netflix<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-styling-hollywood.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-styling-hollywood.mp3</guid>
+            <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Official Secrets 19.08.30</title>
+
+            <itunes:subtitle>The true story of a British whistleblower who leaked information to the press about an illegal NSA spy operation designed to push the UN Security Council into sanctioning the 2003 invasion of Iraq. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>The true story of a British whistleblower who leaked information to the press about an illegal NSA spy operation designed to push the UN Security Council into sanctioning the 2003 invasion of Iraq. - IMDb</itunes:summary>
+            
+            <description>The true story of a British whistleblower who leaked information to the press about an illegal NSA spy operation designed to push the UN Security Council into sanctioning the 2003 invasion of Iraq. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[The true story of a British whistleblower who leaked information to the press about an illegal NSA spy operation designed to push the UN Security Council into sanctioning the 2003 invasion of Iraq. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-official-sercrets.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-official-sercrets.mp3</guid>
+            <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Killerman 19.08.30</title>
 
             <itunes:subtitle>Moe Diamond is a New York City money launderer who wakes up with no memory and millions of dollars in stolen cash and drugs. He must soon scour the streets in search of answers while trying to dodge a crew of violent and crooked cops. - IMDb</itunes:subtitle>
             
