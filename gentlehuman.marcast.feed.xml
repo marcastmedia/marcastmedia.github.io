@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+>
+<channel>
+        <link>https://marcastmedia.com/</link> 
+        <atom:link href="https://marcastmedia.com/wxdy.marcast.feed.xml" rel="self" type="application/rss+xml"/>
+        <title>温柔人类 GentleHuman (podcast)</title>
+        <itunes:subtitle>温柔人类 GentleHuman (podcast)</itunes:subtitle>
+        <itunes:summary>用生活的语言谈论生活，以常识的视角反思常识。这里是 Yolling / 月饼 / 海蜇有关科技与人文的「务虚会谈」。如果你有任何想法，欢迎与我们互动：weibo: @务虚多言 / 邮件: wuxuduoyan@hotmail.com / 本播客由 Marcast Media 荣誉出品，商务合作联系: hello@marcastmedia.com</itunes:summary>
+        <description>用生活的语言谈论生活，以常识的视角反思常识。这里是 Yolling / 月饼 / 海蜇有关科技与人文的「务虚会谈」。如果你有任何想法，欢迎与我们互动：weibo: @务虚多言 / 邮件: wuxuduoyan@hotmail.com / 本播客由 Marcast Media 荣誉出品，商务合作联系: hello@marcastmedia.com</description>
+        <itunes:author>Marcast</itunes:author>
+        <copyright>Marcast</copyright>
+        <itunes:owner>
+            <itunes:name>Marcast</itunes:name>
+            <itunes:email>hello@marcastmedia.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://marcastmedia.com/marcast-wxdy-cover.jpg"/>
+        <itunes:category text="Technology">
+        </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>test: 带一份普鲁斯特问卷去书店</title>
+            <itunes:subtitle>我们最初打算聊一聊智能手机和社交媒体给我们带来的生理心理宏观微观的变化，但很快场面就控制不住了！我们从互联网时代的定制化信息获取模式，一路聊到数据和历史的云存储。在《寻梦环游记》和大都会博物馆的米开朗基罗展里，我们想问，在全息时代、AI时代的前夕，人类的记忆还重要吗？本期主播：Yolling / 月饼 / 海蜇</itunes:subtitle>
+            <itunes:summary>我们最初打算聊一聊智能手机和社交媒体给我们带来的生理心理宏观微观的变化，但很快场面就控制不住了！我们从互联网时代的定制化信息获取模式，一路聊到数据和历史的云存储。在《寻梦环游记》和大都会博物馆的米开朗基罗展里，我们想问，在全息时代、AI时代的前夕，人类的记忆还重要吗？本期主播：Yolling / 月饼 / 海蜇</itunes:summary>
+            <description>我们最初打算聊一聊智能手机和社交媒体给我们带来的生理心理宏观微观的变化，但很快场面就控制不住了！我们从互联网时代的定制化信息获取模式，一路聊到数据和历史的云存储。在《寻梦环游记》和大都会博物馆的米开朗基罗展里，我们想问，在全息时代、AI时代的前夕，人类的记忆还重要吗？本期主播：Yolling / 月饼 / 海蜇</description>
+            <content:encoded>
+                <![CDATA[本期内容：我们最初打算聊一聊智能手机和社交媒体给我们带来的生理心理宏观微观的变化，但很快场面就控制不住了！我们从互联网时代的定制化信息获取模式，一路聊到数据和历史的云存储。在《寻梦环游记》和大都会博物馆的米开朗基罗展里，我们想问，在全息时代、AI时代的前夕，人类的记忆还重要吗？本期主播：Yolling / 月饼 / 海蜇<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="65,107,929" type="audio/mpeg" url="https://wuxuduoyan.oss-cn-beijing.aliyuncs.com/wxdy-001.mp3"/>
+            <guid>https://wuxuduoyan.oss-cn-beijing.aliyuncs.com/wxdy-001.mp3</guid>
+            <pubDate>Sun, 7 Jan 2018 00:00:00 +0000</pubDate>
+            <itunes:duration>33:54</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>

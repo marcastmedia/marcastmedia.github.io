@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+>
+<channel>
+        <link>https://marcastmedia.com/</link> 
+        <atom:link href="https://marcastmedia.com/proust.marcast.feed.xml" rel="self" type="application/rss+xml"/>
+        <title>请回答，普鲁斯特</title>
+        <itunes:subtitle>请回答，普鲁斯特</itunes:subtitle>
+        <itunes:summary>请你回答一份「普鲁斯特问卷」| 本播客由 Marcast Media 制作出品，wb/wx: @Marcast，商务合作联系: hello@marcastmedia.com</itunes:summary>
+        <description>请你回答一份「普鲁斯特问卷」| 本播客由 Marcast Media 制作出品，wb/wx: @Marcast，商务合作联系: hello@marcastmedia.com</description>
+        <itunes:author>Marcast</itunes:author>
+        <copyright>Marcast</copyright>
+        <itunes:owner>
+            <itunes:name>Marcast</itunes:name>
+            <itunes:email>hello@marcastmedia.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://marcastmedia.com/marcast-proust-cover.jpg"/>
+        <itunes:category text="Philosophy">
+        </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>test: 带一份普鲁斯特问卷去书店</title>
+            <itunes:subtitle>南京先锋书店里的「普鲁斯特问卷」</itunes:subtitle>
+            <itunes:summary>南京先锋书店里的「普鲁斯特问卷」</itunes:summary>
+            <description>南京先锋书店里的「普鲁斯特问卷」</description>
+            <content:encoded>
+                <![CDATA[本期内容：南京先锋书店里的<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="14,796,710" type="audio/mpeg" url="https://proustqa.oss-cn-beijing.aliyuncs.com/000-proust-bookstore.mp3"/>
+            <guid>https://proustqa.oss-cn-beijing.aliyuncs.com/000-proust-bookstore.mp3</guid>
+            <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>29:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>
