@@ -19,9 +19,13 @@
         </itunes:owner>
         <itunes:image href="http://marcastmedia.com/marcast-gh-cover.png"/>
         <itunes:category text="Arts">
-            </itunes:category>
+            <itunes:category text="Books" /> 
+        </itunes:category>
         <itunes:category text="History">
-            </itunes:category>
+        </itunes:category>
+        <itunes:category text="Society &amp; Culture">
+             <itunes:category text="Places &amp; Travel" />
+        </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
 
