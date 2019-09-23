@@ -18,7 +18,8 @@
             <itunes:email>hello@marcastmedia.com</itunes:email>
         </itunes:owner>
         <itunes:image href="http://marcastmedia.com/marcast-proust-cover.jpg"/>
-        <itunes:category text="Philosophy">
+        <itunes:category text="Society &amp; Culture">
+        <itunes:category text="Philosophy"/>
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
