@@ -6,18 +6,18 @@
 >
 <channel>
         <link>https://marcastmedia.com/</link> 
-        <atom:link href="https://marcastmedia.com/wxdy.marcast.feed.xml" rel="self" type="application/rss+xml"/>
-        <title>午夜飞行 Vol de nuit</title>
-        <itunes:subtitle>午夜飞行 Vol de nuit</itunes:subtitle>
-        <itunes:summary>用生活的语言谈论生活，以常识的视角反思常识。这里是 Yolling / 月饼 / 海蜇有关科技与人文的「务虚会谈」。如果你有任何想法，欢迎与我们互动：weibo: @务虚多言 / 邮件: wuxuduoyan@hotmail.com / 本播客由 Marcast Media 荣誉出品，商务合作联系: hello@marcastmedia.com</itunes:summary>
-        <description>用生活的语言谈论生活，以常识的视角反思常识。这里是 Yolling / 月饼 / 海蜇有关科技与人文的「务虚会谈」。如果你有任何想法，欢迎与我们互动：weibo: @务虚多言 / 邮件: wuxuduoyan@hotmail.com / 本播客由 Marcast Media 荣誉出品，商务合作联系: hello@marcastmedia.com</description>
+        <atom:link href="https://marcastmedia.com/wyfx.marcast.feed.xml" rel="self" type="application/rss+xml"/>
+        <title>午夜飞行 Vol de nuit (podcast)</title>
+        <itunes:subtitle>午夜飞行 Vol de nuit (podcast)</itunes:subtitle>
+        <itunes:summary>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com</itunes:summary>
+        <description>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com</description>
         <itunes:author>Marcast</itunes:author>
         <copyright>Marcast</copyright>
         <itunes:owner>
             <itunes:name>Marcast</itunes:name>
             <itunes:email>hello@marcastmedia.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="http://marcastmedia.com/marcast-wxdy-cover.jpg"/>
+        <itunes:image href="http://marcastmedia.com/marcast-wyfx-cover.jpg"/>
         <itunes:category text="Technology">
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
@@ -25,17 +25,17 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>务虚多言Vol.1: 开篇意识流讨论</title>
-            <itunes:subtitle>我们最初打算聊一聊智能手机和社交媒体给我们带来的生理心理宏观微观的变化，但很快场面就控制不住了！我们从互联网时代的定制化信息获取模式，一路聊到数据和历史的云存储。在《寻梦环游记》和大都会博物馆的米开朗基罗展里，我们想问，在全息时代、AI时代的前夕，人类的记忆还重要吗？本期主播：Yolling / 月饼 / 海蜇</itunes:subtitle>
-            <itunes:summary>我们最初打算聊一聊智能手机和社交媒体给我们带来的生理心理宏观微观的变化，但很快场面就控制不住了！我们从互联网时代的定制化信息获取模式，一路聊到数据和历史的云存储。在《寻梦环游记》和大都会博物馆的米开朗基罗展里，我们想问，在全息时代、AI时代的前夕，人类的记忆还重要吗？本期主播：Yolling / 月饼 / 海蜇</itunes:summary>
-            <description>我们最初打算聊一聊智能手机和社交媒体给我们带来的生理心理宏观微观的变化，但很快场面就控制不住了！我们从互联网时代的定制化信息获取模式，一路聊到数据和历史的云存储。在《寻梦环游记》和大都会博物馆的米开朗基罗展里，我们想问，在全息时代、AI时代的前夕，人类的记忆还重要吗？本期主播：Yolling / 月饼 / 海蜇</description>
+            <title>全新预告: 午夜飞行 Vol de nuit (podcast)</title>
+            <itunes:subtitle>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com</itunes:subtitle>
+            <itunes:summary>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com</itunes:summary>
+            <description>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com</description>
             <content:encoded>
-                <![CDATA[本期内容：我们最初打算聊一聊智能手机和社交媒体给我们带来的生理心理宏观微观的变化，但很快场面就控制不住了！我们从互联网时代的定制化信息获取模式，一路聊到数据和历史的云存储。在《寻梦环游记》和大都会博物馆的米开朗基罗展里，我们想问，在全息时代、AI时代的前夕，人类的记忆还重要吗？本期主播：Yolling / 月饼 / 海蜇<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+                <![CDATA[本期内容：用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
-            <enclosure length="65,107,929" type="audio/mpeg" url="https://wuxuduoyan.oss-cn-beijing.aliyuncs.com/wxdy-001.mp3"/>
-            <guid>https://wuxuduoyan.oss-cn-beijing.aliyuncs.com/wxdy-001.mp3</guid>
-            <pubDate>Sun, 7 Jan 2018 00:00:00 +0000</pubDate>
-            <itunes:duration>33:54</itunes:duration>
+            <enclosure length="8,561,408" type="audio/mpeg" url="https://voldenuit.oss-cn-beijing.aliyuncs.com/000-trailer-new.mp3"/>
+            <guid>https://voldenuit.oss-cn-beijing.aliyuncs.com/000-trailer-new.mp3</guid>
+            <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>03:11</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
