@@ -18,7 +18,17 @@
             <itunes:email>hello@marcastmedia.com</itunes:email>
         </itunes:owner>
         <itunes:image href="http://marcastmedia.com/marcast-wyfx-cover.jpg"/>
-        <itunes:category text="Technology">
+        <itunes:category text="Society &amp; Culture">
+        <itunes:category text="Places &amp; Travel" />
+        </itunes:category>
+        <itunes:category text="Society &amp; Culture">
+        <itunes:category text="Documentary" />
+        </itunes:category>
+        <itunes:category text="Society &amp; Culture">
+        <itunes:category text="Personal Journals" />
+        </itunes:category>
+        <itunes:category text="Arts">
+        <itunes:category text="Books" />
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
