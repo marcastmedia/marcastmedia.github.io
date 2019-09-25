@@ -29,7 +29,7 @@
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>1</itunes:episode>
         <itunes:season>1</itunes:season>
-        <title>辞职出走</title>
+        <title>连续加班两周，我咳出了血</title>
             <itunes:subtitle>真人纪实播客《Yvonne陪你去流浪》S01E01 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</itunes:subtitle>
             <itunes:summary>真人纪实播客《Yvonne陪你去流浪》S01E01 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</itunes:summary>
             <description>真人纪实播客《Yvonne陪你去流浪》S01E01 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</description>
@@ -46,7 +46,7 @@
     <item>
         <itunes:author>Marcast</itunes:author>
             <title>播客预告：Yvonne陪你去流浪(Podcast)</title>
-            
+
             <itunes:subtitle>2017 年末，Yvonne 和男友小明哥从上海一家知名的广告制作公司辞职，开始了一种被他们称作是“流浪”式的生活。他们都会去到哪里？他们如何维持生计？他们一路上都会遇到怎样的困难？通过这档真人纪实 Podcast，来听听他们他们在路上的故事。本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</itunes:subtitle>
 
             <itunes:summary>2017 年末，Yvonne 和男友小明哥从上海一家知名的广告制作公司辞职，开始了一种被他们称作是“流浪”式的生活。他们都会去到哪里？他们如何维持生计？他们一路上都会遇到怎样的困难？通过这档真人纪实 Podcast，来听听他们他们在路上的故事。本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</itunes:summary>
@@ -59,7 +59,7 @@
 
             <enclosure length="8,484,976" type="audio/mpeg" url="https://yvonnepodcast.oss-cn-beijing.aliyuncs.com/yvonne-podcast-001.mp3"/>
             <guid>https://yvonnepodcast.oss-cn-beijing.aliyuncs.com/yvonne-podcast-001.mp3</guid>
-            <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+            <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
             <itunes:duration>03:09</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
