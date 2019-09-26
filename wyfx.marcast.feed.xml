@@ -36,14 +36,14 @@
     <item>
         <itunes:author>Marcast</itunes:author>
             <title>全新预告: 午夜飞行 Vol de nuit (podcast)</title>
-            <itunes:subtitle>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com</itunes:subtitle>
-            <itunes:summary>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com</itunes:summary>
-            <description>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com</description>
+            <itunes:subtitle>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:subtitle>
+            <itunes:summary>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:summary>
+            <description>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</description>
             <content:encoded>
-                <![CDATA[本期内容：用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+                <![CDATA[本期内容：用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行 Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
-            <enclosure length="8,561,408" type="audio/mpeg" url="https://voldenuit.oss-cn-beijing.aliyuncs.com/000-trailer-new.mp3"/>
-            <guid>https://voldenuit.oss-cn-beijing.aliyuncs.com/000-trailer-new.mp3</guid>
+            <enclosure length="8,561,408" type="audio/mpeg" url="https://voldenuit.oss-cn-beijing.aliyuncs.com/wyfx-trailer-new.mp3"/>
+            <guid>https://voldenuit.oss-cn-beijing.aliyuncs.com/wyfx-trailer-new.mp3</guid>
             <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
             <itunes:duration>03:11</itunes:duration>
         <itunes:explicit>no</itunes:explicit>

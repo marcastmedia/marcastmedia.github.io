@@ -24,6 +24,115 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Marcast 新播客预告: 午夜飞行 Vol de nuit (podcast)</title>
+
+            <itunes:subtitle>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:subtitle>
+            
+            <itunes:summary>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:summary>
+            
+            <description>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</description>
+            
+            <content:encoded>
+                <![CDATA[用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+
+            <itunes:image href="http://marcastmedia.com/marcast-wyfx-cover.jpg"/>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://voldenuit.oss-cn-beijing.aliyuncs.com/wyfx-trailer-new.mp3"/>
+            <guid>https://voldenuit.oss-cn-beijing.aliyuncs.com/wyfx-trailer-new.mp3</guid>
+            <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Marcast 新播客预告: Yvonne 陪你去流浪 (podcast)</title>
+
+            <itunes:subtitle>2017 年末，Yvonne 和男友小明哥从上海一家知名的广告制作公司辞职，开始了一种被他们称作是“流浪”式的生活。他们都会去到哪里？他们如何维持生计？他们一路上都会遇到怎样的困难？通过这档真人纪实 Podcast，来听听他们他们在路上的故事。本播客由 Marcast Media 制作出品。 | 微博/微信: @Yvonne陪你去流浪 | 微博/微信: @Marcast | 合作联系：marclee@marcastmedia.com</itunes:subtitle>
+            
+            <itunes:summary>2017 年末，Yvonne 和男友小明哥从上海一家知名的广告制作公司辞职，开始了一种被他们称作是“流浪”式的生活。他们都会去到哪里？他们如何维持生计？他们一路上都会遇到怎样的困难？通过这档真人纪实 Podcast，来听听他们他们在路上的故事。本播客由 Marcast Media 制作出品。 | 微博/微信: @Yvonne陪你去流浪 | 微博/微信: @Marcast | 合作联系：marclee@marcastmedia.com</itunes:summary>
+            
+            <description>2017 年末，Yvonne 和男友小明哥从上海一家知名的广告制作公司辞职，开始了一种被他们称作是“流浪”式的生活。他们都会去到哪里？他们如何维持生计？他们一路上都会遇到怎样的困难？通过这档真人纪实 Podcast，来听听他们他们在路上的故事。本播客由 Marcast Media 制作出品。 | 微博/微信: @Yvonne陪你去流浪 | 微博/微信: @Marcast | 合作联系：marclee@marcastmedia.com</description>
+            
+            <content:encoded>
+                <![CDATA[2017 年末，Yvonne 和男友小明哥从上海一家知名的广告制作公司辞职，开始了一种被他们称作是“流浪”式的生活。他们都会去到哪里？他们如何维持生计？他们一路上都会遇到怎样的困难？通过这档真人纪实 Podcast，来听听他们他们在路上的故事。本播客由 Marcast Media 制作出品。 | 微博/微信: @Yvonne陪你去流浪 | 微博/微信: @Marcast | 合作联系：marclee@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <itunes:image href="http://marcastmedia.com/marcast-yvonne-cover.png"/>
+
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://yvonnepodcast.oss-cn-beijing.aliyuncs.com/yvonne-podcast-trailer.mp3"/>
+            <guid>https://yvonnepodcast.oss-cn-beijing.aliyuncs.com/yvonne-podcast-trailer.mp3</guid>
+            <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Judy 19.09.27</title>
+
+            <itunes:subtitle>Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts. - IMDb</itunes:summary>
+            
+            <description>Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-judy.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-judy.mp3</guid>
+            <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Anthropocene: The Human Epoch 19.09.27</title>
+
+            <itunes:subtitle>Filmmakers travel to six continents and 20 countries to document the impact humans have made on the planet. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Filmmakers travel to six continents and 20 countries to document the impact humans have made on the planet. - IMDb</itunes:summary>
+            
+            <description>Filmmakers travel to six continents and 20 countries to document the impact humans have made on the planet. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Filmmakers travel to six continents and 20 countries to document the impact humans have made on the planet. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-anthropocene.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-anthropocene.mp3</guid>
+            <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Abominable 19.09.27</title>
+
+            <itunes:subtitle>A magical Yeti must return to his family. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A magical Yeti must return to his family. - IMDb</itunes:summary>
+            
+            <description>A magical Yeti must return to his family. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A magical Yeti must return to his family. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-abominable.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-abominable.mp3</guid>
+            <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>The Politician Season 1 19.09.27 NETFLIX</title>
 
             <itunes:subtitle>Payton Hobart (Ben Platt), a wealthy student from Santa Barbara, California, has known since age seven that he's going to be President of the United States. But first he'll have to navigate the most treacherous political landscape of all: Saint Sebastian High School. To get elected Student Body President, secure a spot at Harvard, and stay on his singular path to success, Payton will have to outsmart his ruthless classmates without sacrificing his own morality and carefully crafted image. Created by Ryan Murphy, Brad Falchuk and Ian Brennan, The Politician offers a comedic and satirical glimpse into just what it takes to make a politician. - Netflix</itunes:subtitle>
