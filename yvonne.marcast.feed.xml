@@ -26,12 +26,28 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-        <title>S01E01: 一场大病敲醒我，是时候给自己按个暂停了</title>
-            <itunes:subtitle>真人纪实播客《Yvonne陪你去流浪》第一季第一集 S01E01 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</itunes:subtitle>
-            <itunes:summary>真人纪实播客《Yvonne陪你去流浪》第一季第一集 S01E01 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</itunes:summary>
-            <description>真人纪实播客《Yvonne陪你去流浪》第一季第一集 S01E01 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</description>
+        <title>S01E02: 钱的问题，以及啤酒瓶和圣诞节</title>
+            <itunes:subtitle>辞职出走并不浪漫，日常生活还要继续：真人纪实播客《Yvonne陪你去流浪》第一季第二集 S01E02 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</itunes:subtitle>
+            <itunes:summary>辞职出走并不浪漫，日常生活还要继续：真人纪实播客《Yvonne陪你去流浪》第一季第二集 S01E02 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</itunes:summary>
+            <description>辞职出走并不浪漫，日常生活还要继续：真人纪实播客《Yvonne陪你去流浪》第一季第二集 S01E02 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</description>
             <content:encoded>
-                <![CDATA[真人纪实播客《Yvonne陪你去流浪》S01E01 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+                <![CDATA[辞职出走并不浪漫，日常生活还要继续：真人纪实播客《Yvonne陪你去流浪》第一季第二集 S01E02 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="52,962,508" type="audio/mpeg" url="https://yvonnepodcast.oss-cn-beijing.aliyuncs.com/yvonne-podcast-002.mp3"/>
+            <guid>https://yvonnepodcast.oss-cn-beijing.aliyuncs.com/yvonne-podcast-002.mp3</guid>
+            <pubDate>Wed, 2 Oct 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>21:41</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+        <title>S01E01: 一场大病敲醒我，是时候给自己按个暂停了</title>
+            <itunes:subtitle>辞职出走并不浪漫，日常生活还要继续：真人纪实播客《Yvonne陪你去流浪》第一季第一集 S01E01 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</itunes:subtitle>
+            <itunes:summary>辞职出走并不浪漫，日常生活还要继续：真人纪实播客《Yvonne陪你去流浪》第一季第一集 S01E01 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</itunes:summary>
+            <description>辞职出走并不浪漫，日常生活还要继续：真人纪实播客《Yvonne陪你去流浪》第一季第一集 S01E01 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com</description>
+            <content:encoded>
+                <![CDATA[辞职出走并不浪漫，日常生活还要继续：真人纪实播客《Yvonne陪你去流浪》S01E01 | 本播客由 Marcast Media 制作出品。 | wx/wb: @Yvonne陪你去流浪 | wx/wb: @Marcast | 商务合作联系：marclee@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
             <enclosure length="58,033,216" type="audio/mpeg" url="https://yvonnepodcast.oss-cn-beijing.aliyuncs.com/yvonne-podcast-001.mp3"/>
             <guid>https://yvonnepodcast.oss-cn-beijing.aliyuncs.com/yvonne-podcast-001.mp3</guid>
