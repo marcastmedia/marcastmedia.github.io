@@ -24,6 +24,75 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Jexi 19.10.11</title>
+
+            <itunes:subtitle>A comedy about what can happen when you love your phone more than anything else in your life. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A comedy about what can happen when you love your phone more than anything else in your life. - IMDb</itunes:summary>
+            
+            <description>A comedy about what can happen when you love your phone more than anything else in your life. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A comedy about what can happen when you love your phone more than anything else in your life. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+
+            <itunes:image href="http://marcastmedia.com/marcast-wyfx-cover.jpg"/>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-jexi.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-jexi.mp3</guid>
+            <pubDate>Tue, 8 Oct 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Gemini Man 19.10.11</title>
+
+            <itunes:subtitle>An over-the-hill hitman faces off against a younger clone of himself. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>An over-the-hill hitman faces off against a younger clone of himself. - IMDb</itunes:summary>
+            
+            <description>An over-the-hill hitman faces off against a younger clone of himself. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[An over-the-hill hitman faces off against a younger clone of himself. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+
+            <itunes:image href="http://marcastmedia.com/marcast-wyfx-cover.jpg"/>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-gemini-man.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-gemini-man.mp3</guid>
+            <pubDate>Tue, 8 Oct 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>El Camino: A Breaking Bad Movie 19.10.11</title>
+
+            <itunes:subtitle>The Netflix Television Event EL CAMINO: A BREAKING BAD MOVIE reunites fans with Jesse Pinkman (Emmy-winner Aaron Paul). In the wake of his dramatic escape from captivity, Jesse must come to terms with his past in order to forge some kind of future. This gripping thriller is written and directed by Vince Gilligan, the creator of Breaking Bad. The movie is produced by Mark Johnson, Melissa Bernstein, Charles Newirth, Diane Mercer and Aaron Paul, in association with Sony Pictures Television. - Netflix</itunes:subtitle>
+            
+            <itunes:summary>The Netflix Television Event EL CAMINO: A BREAKING BAD MOVIE reunites fans with Jesse Pinkman (Emmy-winner Aaron Paul). In the wake of his dramatic escape from captivity, Jesse must come to terms with his past in order to forge some kind of future. This gripping thriller is written and directed by Vince Gilligan, the creator of Breaking Bad. The movie is produced by Mark Johnson, Melissa Bernstein, Charles Newirth, Diane Mercer and Aaron Paul, in association with Sony Pictures Television. - Netflix</itunes:summary>
+            
+            <description>The Netflix Television Event EL CAMINO: A BREAKING BAD MOVIE reunites fans with Jesse Pinkman (Emmy-winner Aaron Paul). In the wake of his dramatic escape from captivity, Jesse must come to terms with his past in order to forge some kind of future. This gripping thriller is written and directed by Vince Gilligan, the creator of Breaking Bad. The movie is produced by Mark Johnson, Melissa Bernstein, Charles Newirth, Diane Mercer and Aaron Paul, in association with Sony Pictures Television. - Netflix</description>
+            
+            <content:encoded>
+                <![CDATA[The Netflix Television Event EL CAMINO: A BREAKING BAD MOVIE reunites fans with Jesse Pinkman (Emmy-winner Aaron Paul). In the wake of his dramatic escape from captivity, Jesse must come to terms with his past in order to forge some kind of future. This gripping thriller is written and directed by Vince Gilligan, the creator of Breaking Bad. The movie is produced by Mark Johnson, Melissa Bernstein, Charles Newirth, Diane Mercer and Aaron Paul, in association with Sony Pictures Television. - Netflix<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+
+            <itunes:image href="http://marcastmedia.com/marcast-wyfx-cover.jpg"/>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-el-camino.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-el-camino.mp3</guid>
+            <pubDate>Mon, 7 Oct 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Marcast 新播客预告: 午夜飞行 Vol de nuit (podcast)</title>
 
             <itunes:subtitle>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:subtitle>
