@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>The Sky Is Pink 19.10.11</title>
+
+            <itunes:subtitle>It is based on the love story of a couple spanning 25 years, told through the lens of their spunky teenage daughter Aisha Chaudhary, who was diagnosed with a Pulmonary fibrosis. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>It is based on the love story of a couple spanning 25 years, told through the lens of their spunky teenage daughter Aisha Chaudhary, who was diagnosed with a Pulmonary fibrosis. - IMDb</itunes:summary>
+            
+            <description>It is based on the love story of a couple spanning 25 years, told through the lens of their spunky teenage daughter Aisha Chaudhary, who was diagnosed with a Pulmonary fibrosis. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[It is based on the love story of a couple spanning 25 years, told through the lens of their spunky teenage daughter Aisha Chaudhary, who was diagnosed with a Pulmonary fibrosis. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-sky-is-pink.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-sky-is-pink.mp3</guid>
+            <pubDate>Wed, 9 Oct 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Jexi 19.10.11</title>
 
             <itunes:subtitle>A comedy about what can happen when you love your phone more than anything else in your life. - IMDb</itunes:subtitle>
