@@ -8,9 +8,9 @@
         <link>https://marcastmedia.com/</link> 
         <atom:link href="https://marcastmedia.com/trailer.marcast.feed.xml" rel="self" type="application/rss+xml"/>
         <title>即将上映 Coming Soon (podcast)</title>
-        <itunes:subtitle>有哪些电影要上映了？| 微信 / 微博 / 即刻：@Marcast | 邮件：hello@marcastmedia.com</itunes:subtitle>
-        <itunes:summary>有哪些电影要上映了？| 微信 / 微博 / 即刻：@Marcast | 邮件：hello@marcastmedia.com</itunes:summary>
-        <description>有哪些电影要上映了？| 微信 / 微博 / 即刻：@Marcast | 邮件：hello@marcastmedia.com</description>
+        <itunes:subtitle>有哪些电影要上映了？| 微信 / 微博：@Marcast | 邮件：hello@marcastmedia.com</itunes:subtitle>
+        <itunes:summary>有哪些电影要上映了？| 微信 / 微博：@Marcast | 邮件：hello@marcastmedia.com</itunes:summary>
+        <description>有哪些电影要上映了？| 微信 / 微博：@Marcast | 邮件：hello@marcastmedia.com</description>
         <itunes:author>Marcast</itunes:author>
         <copyright>Marcast</copyright>
         <itunes:owner>
@@ -35,8 +35,6 @@
             <content:encoded>
                 <![CDATA[A comedy about what can happen when you love your phone more than anything else in your life. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
             </content:encoded>
-
-            <itunes:image href="http://marcastmedia.com/marcast-wyfx-cover.jpg"/>
             
             <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-jexi.mp3"/>
             <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-jexi.mp3</guid>
@@ -58,8 +56,6 @@
             <content:encoded>
                 <![CDATA[An over-the-hill hitman faces off against a younger clone of himself. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
             </content:encoded>
-
-            <itunes:image href="http://marcastmedia.com/marcast-wyfx-cover.jpg"/>
             
             <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-gemini-man.mp3"/>
             <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-gemini-man.mp3</guid>
@@ -81,8 +77,6 @@
             <content:encoded>
                 <![CDATA[The Netflix Television Event EL CAMINO: A BREAKING BAD MOVIE reunites fans with Jesse Pinkman (Emmy-winner Aaron Paul). In the wake of his dramatic escape from captivity, Jesse must come to terms with his past in order to forge some kind of future. This gripping thriller is written and directed by Vince Gilligan, the creator of Breaking Bad. The movie is produced by Mark Johnson, Melissa Bernstein, Charles Newirth, Diane Mercer and Aaron Paul, in association with Sony Pictures Television. - Netflix<a href="https://www.marcastmedia.com/">Marcast</a>]]>
             </content:encoded>
-
-            <itunes:image href="http://marcastmedia.com/marcast-wyfx-cover.jpg"/>
             
             <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-el-camino.mp3"/>
             <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-el-camino.mp3</guid>
