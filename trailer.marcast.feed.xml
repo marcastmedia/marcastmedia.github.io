@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>The Addams Family 19.10.11</title>
+
+            <itunes:subtitle>An animated version of Charles Addams' series of cartoons about a peculiar, ghoulish family. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>An animated version of Charles Addams' series of cartoons about a peculiar, ghoulish family. - IMDb</itunes:summary>
+            
+            <description>An animated version of Charles Addams' series of cartoons about a peculiar, ghoulish family. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[An animated version of Charles Addams' series of cartoons about a peculiar, ghoulish family. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-addams-family.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-addams-family.mp3</guid>
+            <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>The Sky Is Pink 19.10.11</title>
 
             <itunes:subtitle>It is based on the love story of a couple spanning 25 years, told through the lens of their spunky teenage daughter Aisha Chaudhary, who was diagnosed with a Pulmonary fibrosis. - IMDb</itunes:subtitle>
