@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>The King 19.11.01 NETFLIX</title>
+
+            <itunes:subtitle>Hal (Timothée Chalamet), wayward prince and reluctant heir to the English throne, has turned his back on royal life and is living among the people. But when his tyrannical father dies, Hal is crowned King Henry V and is forced to embrace the life he had previously tried to escape. Now the young king must navigate the palace politics, chaos and war his father left behind, and the emotional strings of his past life — including his relationship with his closest friend and mentor, the ageing alcoholic knight, John Falstaff (Joel Edgerton). - Netflix</itunes:subtitle>
+            
+            <itunes:summary>Hal (Timothée Chalamet), wayward prince and reluctant heir to the English throne, has turned his back on royal life and is living among the people. But when his tyrannical father dies, Hal is crowned King Henry V and is forced to embrace the life he had previously tried to escape. Now the young king must navigate the palace politics, chaos and war his father left behind, and the emotional strings of his past life — including his relationship with his closest friend and mentor, the ageing alcoholic knight, John Falstaff (Joel Edgerton). - Netflix</itunes:summary>
+            
+            <description>Hal (Timothée Chalamet), wayward prince and reluctant heir to the English throne, has turned his back on royal life and is living among the people. But when his tyrannical father dies, Hal is crowned King Henry V and is forced to embrace the life he had previously tried to escape. Now the young king must navigate the palace politics, chaos and war his father left behind, and the emotional strings of his past life — including his relationship with his closest friend and mentor, the ageing alcoholic knight, John Falstaff (Joel Edgerton). - Netflix</description>
+            
+            <content:encoded>
+                <![CDATA[Hal (Timothée Chalamet), wayward prince and reluctant heir to the English throne, has turned his back on royal life and is living among the people. But when his tyrannical father dies, Hal is crowned King Henry V and is forced to embrace the life he had previously tried to escape. Now the young king must navigate the palace politics, chaos and war his father left behind, and the emotional strings of his past life — including his relationship with his closest friend and mentor, the ageing alcoholic knight, John Falstaff (Joel Edgerton). - Netflix<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="2,184,951" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-king.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-king.mp3</guid>
+            <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Terminator: Dark Fate 19.11.01</title>
 
             <itunes:subtitle>Sarah Connor and a hybrid cyborg human must protect a young girl from a newly modified liquid Terminator from the future. - IMDb</itunes:subtitle>
