@@ -24,6 +24,29 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Marcast 新播客预告: 请回答，普鲁斯特 (podcast)</title>
+
+            <itunes:subtitle>《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答《普鲁斯特问卷》的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。| 本播客由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:subtitle>
+            
+            <itunes:summary>《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答《普鲁斯特问卷》的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。| 本播客由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:summary>
+            
+            <description>《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答《普鲁斯特问卷》的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。| 本播客由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</description>
+            
+            <content:encoded>
+                <![CDATA[《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答《普鲁斯特问卷》的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。| 本播客由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+
+            <itunes:image href="http://marcastmedia.com/marcast-proust-cover.jpg"/>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://proustqa.oss-cn-beijing.aliyuncs.com/proust-podcast-trailer.mp3"/>
+            <guid>https://proustqa.oss-cn-beijing.aliyuncs.com/proust-podcast-trailer.mp3</guid>
+            <pubDate>Thu, 7 Nov 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Primal 19.11.07 </title>
 
             <itunes:subtitle>A big-game hunter for zoos has booked passage on a Greek shipping freighter with a fresh haul of exotic and deadly animals from the Amazon, including a rare white Jaguar - along with a political assassin being extradited to the U.S in secret. Two days into the journey, the assassin escapes and releases the captive animals, throwing the ship into chaos.- IMDb</itunes:subtitle>
