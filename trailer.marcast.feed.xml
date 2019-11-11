@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Charlie's Angels 19.11.15</title>
+
+            <itunes:subtitle>When a young systems engineer blows the whistle on a dangerous technology, Charlie's Angels are called into action, putting their lives on the line to protect us all. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>When a young systems engineer blows the whistle on a dangerous technology, Charlie's Angels are called into action, putting their lives on the line to protect us all. - IMDb</itunes:summary>
+            
+            <description>When a young systems engineer blows the whistle on a dangerous technology, Charlie's Angels are called into action, putting their lives on the line to protect us all. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[When a young systems engineer blows the whistle on a dangerous technology, Charlie's Angels are called into action, putting their lives on the line to protect us all. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-charlies-angels.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-charlies-angels.mp3</guid>
+            <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Everybody's Everything 19.11.15</title>
+
+            <itunes:subtitle>A look at the life of genre blending artist and style icon, Lil Peep. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A look at the life of genre blending artist and style icon, Lil Peep. - IMDb</itunes:summary>
+            
+            <description>A look at the life of genre blending artist and style icon, Lil Peep. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A look at the life of genre blending artist and style icon, Lil Peep. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-everybody-everything.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-everybody-everything.mp3</guid>
+            <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Marcast 新播客预告: 请回答，普鲁斯特 (podcast)</title>
 
             <itunes:subtitle>《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答《普鲁斯特问卷》的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。| 本播客由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:subtitle>
