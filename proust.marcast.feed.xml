@@ -26,6 +26,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>糊糊：你不能保证选择另外一条路就一定能收获什么，很多东西都有 trade-off</title>
+
+            <itunes:subtitle>本期嘉宾：糊糊，创业者，播客 Casticle 主播 /《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答《普鲁斯特问卷》的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。| 本播客由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:subtitle>
+            
+            <itunes:summary>本期嘉宾：糊糊，创业者，播客 Casticle 主播 /《《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答《普鲁斯特问卷》的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。| 本播客由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:summary>
+            
+            <description>本期嘉宾：糊糊，创业者，播客 Casticle 主播 /《《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答《普鲁斯特问卷》的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。| 本播客由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</description>
+            
+            <content:encoded>
+                <![CDATA[本期嘉宾：糊糊，创业者，播客 Casticle 主播 /《《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答《普鲁斯特问卷》的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。| 本播客由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="69,385,937" type="audio/mpeg" url="https://proustqa.oss-cn-beijing.aliyuncs.com/proust-podcast-001.mp3"/>
+            <guid>https://proustqa.oss-cn-beijing.aliyuncs.com/proust-podcast-001.mp3</guid>
+            <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>28:22</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Coming Soon: 请回答，普鲁斯特</title>
 
             <itunes:subtitle>《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答《普鲁斯特问卷》的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。| 本播客由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:subtitle>
