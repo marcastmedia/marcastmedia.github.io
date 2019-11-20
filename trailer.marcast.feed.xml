@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Frozen II 19.11.22</title>
+
+            <itunes:subtitle>Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom. - IMDb</itunes:summary>
+            
+            <description>Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-frozen-2.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-frozen-2.mp3</guid>
+            <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>The Knight Before Christmas 19.11.21 NETFLIX</title>
+
+            <itunes:subtitle>A medieval English knight is magically transported to the present day where he falls for a high school science teacher who is disillusioned by love. - Netflix</itunes:subtitle>
+            
+            <itunes:summary>A medieval English knight is magically transported to the present day where he falls for a high school science teacher who is disillusioned by love. - Netflix</itunes:summary>
+            
+            <description>A medieval English knight is magically transported to the present day where he falls for a high school science teacher who is disillusioned by love. - Netflix</description>
+            
+            <content:encoded>
+                <![CDATA[A medieval English knight is magically transported to the present day where he falls for a high school science teacher who is disillusioned by love. - Netflix<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-knight-%20before-christmas.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-the-knight-%20before-christmas.mp3</guid>
+            <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>A Beautiful Day In The Neighborhood 19.11.22</title>
 
             <itunes:subtitle>Based on the true story of a real-life friendship between Fred Rogers and journalist Tom Junod. - IMDb</itunes:subtitle>
