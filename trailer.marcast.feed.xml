@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Bombshell 19.12.20</title>
+
+            <itunes:subtitle>A group of women decide to take on Fox News head Roger Ailes and the toxic atmosphere he presided over at the network. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A group of women decide to take on Fox News head Roger Ailes and the toxic atmosphere he presided over at the network. - IMDb</itunes:summary>
+            
+            <description>A group of women decide to take on Fox News head Roger Ailes and the toxic atmosphere he presided over at the network. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A group of women decide to take on Fox News head Roger Ailes and the toxic atmosphere he presided over at the network. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-bombshell.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-bombshell.mp3</guid>
+            <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Cats 19.12.20</title>
+
+            <itunes:subtitle>A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life. - IMDb</itunes:summary>
+            
+            <description>A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-cats.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-cats.mp3</guid>
+            <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Star Wars: The Rise of Skywalker 19.12.20</title>
 
             <itunes:subtitle>The surviving Resistance faces the First Order once more in the final chapter of the Skywalker saga. - IMDb</itunes:subtitle>
