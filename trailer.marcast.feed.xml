@@ -24,6 +24,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>A Vida Invisível Invisible Life 19.12.20</title>
+
+            <itunes:subtitle>Two sisters born in Rio de Janeiro make their way through life, each mistakenly believing the other is living out her dreams half a world away. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Two sisters born in Rio de Janeiro make their way through life, each mistakenly believing the other is living out her dreams half a world away. - IMDb</itunes:summary>
+            
+            <description>Two sisters born in Rio de Janeiro make their way through life, each mistakenly believing the other is living out her dreams half a world away. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Two sisters born in Rio de Janeiro make their way through life, each mistakenly believing the other is living out her dreams half a world away. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-invisible-life.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2019/trailer-invisible-life.mp3</guid>
+            <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Bombshell 19.12.20</title>
 
             <itunes:subtitle>A group of women decide to take on Fox News head Roger Ailes and the toxic atmosphere he presided over at the network. - IMDb</itunes:subtitle>
