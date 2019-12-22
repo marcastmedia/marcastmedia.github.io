@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+>
+<channel>
+        <link>https://marcastmedia.com/</link> 
+        <atom:link href="https://marcastmedia.com/yolling.marcast.feed.xml" rel="self" type="application/rss+xml"/>
+        <title>银河系漫游手册 (podcast)</title>
+        <itunes:subtitle>银河系漫游手册 (podcast)</itunes:subtitle>
+        <itunes:summary>放松呼吸，和 Yolling 一起跟着音乐漫游银河系</itunes:summary>
+        <description>放松呼吸，和 Yolling 一起跟着音乐漫游银河系</description>
+        <itunes:author>Marcast</itunes:author>
+        <copyright>Marcast</copyright>
+        <itunes:owner>
+            <itunes:name>Marcast</itunes:name>
+            <itunes:email>hello@marcastmedia.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://marcastmedia.com/marcast-yolling-cover.jpg"/>
+        <itunes:category text="Society &amp; Culture">
+        <itunes:category text="Personal Journals"/>
+        </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>银河系漫游手册 Vol.1: 银河之歌</title>
+            <itunes:subtitle>本期歌单：
+1. Intro - The XX
+2. Galaxy - Stephane Pompougnac
+3. 梦里蓝天 - 张国荣
+4. Secure the galactic perimeter
+5. How to disappear completely - Radiohead
+6. A pure person - 林强</itunes:subtitle>
+            <itunes:summary>本期歌单：
+1. Intro - The XX
+2. Galaxy - Stephane Pompougnac
+3. 梦里蓝天 - 张国荣
+4. Secure the galactic perimeter
+5. How to disappear completely - Radiohead
+6. A pure person - 林强</itunes:summary>
+            <description>本期歌单：
+1. Intro - The XX
+2. Galaxy - Stephane Pompougnac
+3. 梦里蓝天 - 张国荣
+4. Secure the galactic perimeter
+5. How to disappear completely - Radiohead
+6. A pure person - 林强</description>
+            <content:encoded>
+                <![CDATA[本期内容：本期歌单：
+1. Intro - The XX
+2. Galaxy - Stephane Pompougnac
+3. 梦里蓝天 - 张国荣
+4. Secure the galactic perimeter
+5. How to disappear completely - Radiohead
+6. A pure person - 林强<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="46,748,314" type="audio/mpeg" url="https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-001.mp3"/>
+            <guid>https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-001.mp3</guid>
+            <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>31:46</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>
