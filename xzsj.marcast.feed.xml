@@ -26,6 +26,22 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>贤者时间 #000: 你在「即刻」最讨厌谁? 3! 2! 1!</title>
+            <itunes:subtitle>作为先导集，小张和治治为 即刻/Jellow 制作了一期特别节目。治治作为客串主持人，问了小张若干个犀利问题，聊了聊室友「爆红」之后的心路历程。《贤者时间》是一档从女性视角观察人类并好奇为什么所有人类都这么奇怪的播客节目，由小张和治治主持。本播客由 Marcast Media 荣誉出品。</itunes:subtitle>
+            <itunes:summary>作为先导集，小张和治治为 即刻/Jellow 制作了一期特别节目。治治作为客串主持人，问了小张若干个犀利问题，聊了聊室友「爆红」之后的心路历程。《贤者时间》是一档从女性视角观察人类并好奇为什么所有人类都这么奇怪的播客节目，由小张和治治主持。本播客由 Marcast Media 荣誉出品。</itunes:summary>
+            <description>作为先导集，小张和治治为 即刻/Jellow 制作了一期特别节目。治治作为客串主持人，问了小张若干个犀利问题，聊了聊室友「爆红」之后的心路历程。《贤者时间》是一档从女性视角观察人类并好奇为什么所有人类都这么奇怪的播客节目，由小张和治治主持。本播客由 Marcast Media 荣誉出品。</description>
+            <content:encoded>
+                <![CDATA[作为先导集，小张和治治为 即刻/Jellow 制作了一期特别节目。治治作为客串主持人，问了小张若干个犀利问题，聊了聊室友「爆红」之后的心路历程。<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="60,351,261" type="audio/mpeg" url="https://xzsj-podcast.oss-cn-beijing.aliyuncs.com/xzsj-podcast-000.mp3"/>
+            <guid>https://xzsj-podcast.oss-cn-beijing.aliyuncs.com/xzsj-podcast-000.mp3</guid>
+            <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+            <itunes:duration>24:59</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>贤者时间 test</title>
             <itunes:subtitle>《贤者时间》是一档从女性视角观察人类并好奇为什么所有人类都这么奇怪的播客节目，由 Marcast Media 制作出品。</itunes:subtitle>
             <itunes:summary>《贤者时间》是一档从女性视角观察人类并好奇为什么所有人类都这么奇怪的播客节目，由 Marcast Media 制作出品。</itunes:summary>
