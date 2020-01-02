@@ -26,29 +26,6 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>Marcast 新播客预告: 温柔人类 GentleHuman (podcast)</title>
-
-            <itunes:subtitle>11 月 25 日正式上线。由 GentleHuman 和 Marcast Media 联合制作出品，《温柔人类》是一档不一样的人文艺术类播客节目，由艺术作者 cher 主持。cher 不想照本宣科那些所有人都能读到的东西，而是从当代生活的角度出发，为你解读不一样的艺术和历史。一千个读者眼中有一千个哈姆雷特，cher 想和你一起，做第一千零一个。微博: @GentleHuman温柔人类，微信: GentleHuman | Marcast Media 微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com</itunes:subtitle>
-            
-            <itunes:summary>11 月 25 日正式上线。由 GentleHuman 和 Marcast Media 联合制作出品，《温柔人类》是一档不一样的人文艺术类播客节目，由艺术作者 cher 主持。cher 不想照本宣科那些所有人都能读到的东西，而是从当代生活的角度出发，为你解读不一样的艺术和历史。一千个读者眼中有一千个哈姆雷特，cher 想和你一起，做第一千零一个。微博: @GentleHuman温柔人类，微信: GentleHuman | Marcast Media 微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com</itunes:summary>
-            
-            <description>11 月 25 日正式上线。由 GentleHuman 和 Marcast Media 联合制作出品，《温柔人类》是一档不一样的人文艺术类播客节目，由艺术作者 cher 主持。cher 不想照本宣科那些所有人都能读到的东西，而是从当代生活的角度出发，为你解读不一样的艺术和历史。一千个读者眼中有一千个哈姆雷特，cher 想和你一起，做第一千零一个。微博: @GentleHuman温柔人类，微信: GentleHuman | Marcast Media 微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com</description>
-            
-            <content:encoded>
-                <![CDATA[11 月 25 日正式上线。由 GentleHuman 和 Marcast Media 联合制作出品，《温柔人类》是一档不一样的人文艺术类播客节目，由艺术作者 cher 主持。cher 不想照本宣科那些所有人都能读到的东西，而是从当代生活的角度出发，为你解读不一样的艺术和历史。一千个读者眼中有一千个哈姆雷特，cher 想和你一起，做第一千零一个。微博: @GentleHuman温柔人类，微信: GentleHuman | Marcast Media 微博/微信: @Marcast，商务合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>
-            </content:encoded>
-
-            <itunes:image href="http://marcastmedia.com/marcast-gh-cover.png"/>
-            
-            <enclosure length="7,541,914" type="audio/mpeg" url="https://gentlehuman.oss-cn-beijing.aliyuncs.com/gentlehuman-podcast-trailer.mp3"/>
-            <guid>https://gentlehuman.oss-cn-beijing.aliyuncs.com/gentlehuman-podcast-trailer.mp3</guid>
-            <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
-            <itunes:duration>03:00</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <itunes:author>Marcast</itunes:author>
             <title>糊糊：你不能保证选择另外一条路就一定能收获什么，很多东西都有 trade-off</title>
 
             <itunes:subtitle>本期回答者：糊糊 / 中文播客节目 Casticle 的主播及制作人 (casticle.fm)，以外语技能在科技行业和市场研究领域谋生的北漂。擅长科技产品、互联网内容及社区的本地化及国际化。曾全职供职于国际知名旅行平台、国内长期霸榜短视频产品的出海团队以及国内某人工智能独角兽，业余为诸多培训项目及品牌市场研究担任同传译员。多本图书及杂志译者兼校审。目前，她正在经营一家新时代的语言服务工作室「Wordspill」，致力于为每位客户，提供精良周到的原创外语内容及任何类型的语言服务。遗憾的是，由于繁忙的业务和必要的懒惰，糊糊与她的队友至今仍未做好 Wordspill 的官方网站。/《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答「普鲁斯特问卷」(The Proust Questionaire) 里的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。| 本播客由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:subtitle>
@@ -86,52 +63,6 @@
             <guid>https://proustqa.oss-cn-beijing.aliyuncs.com/proust-podcast-trailer.mp3</guid>
             <pubDate>Thu, 7 Nov 2019 00:00:00 +0000</pubDate>
             <itunes:duration>02:35</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <itunes:author>Marcast</itunes:author>
-            <title>Marcast 新播客预告: 午夜飞行 Vol de nuit (podcast)</title>
-
-            <itunes:subtitle>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:subtitle>
-            
-            <itunes:summary>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:summary>
-            
-            <description>用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</description>
-            
-            <content:encoded>
-                <![CDATA[用声音收藏城市，以飞行遇见繁星。《午夜飞行》是一档关注旅行、城市、文化与生活的播客节目，由 VC 制作/主持，力求用声音呈现多彩的城市故事。微博: @午夜飞行Official，微信: 午夜飞行 | 本节目由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>
-            </content:encoded>
-
-            <itunes:image href="http://marcastmedia.com/marcast-wyfx-cover.jpg"/>
-            
-            <enclosure length="2,184,951" type="audio/mpeg" url="https://voldenuit.oss-cn-beijing.aliyuncs.com/wyfx-trailer-new.mp3"/>
-            <guid>https://voldenuit.oss-cn-beijing.aliyuncs.com/wyfx-trailer-new.mp3</guid>
-            <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-            <itunes:duration>02:00</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <itunes:author>Marcast</itunes:author>
-            <title>Marcast 新播客预告: Yvonne 陪你去流浪 (podcast)</title>
-
-            <itunes:subtitle>2017 年末，Yvonne 和男友小明哥从上海一家知名的广告制作公司辞职，开始了一种被他们称作是“流浪”式的生活。他们都会去到哪里？他们如何维持生计？他们一路上都会遇到怎样的困难？通过这档真人纪实 Podcast，来听听他们他们在路上的故事。本播客由 Marcast Media 制作出品。 | 微博/微信: @Yvonne陪你去流浪 | 微博/微信: @Marcast | 合作联系：marclee@marcastmedia.com</itunes:subtitle>
-            
-            <itunes:summary>2017 年末，Yvonne 和男友小明哥从上海一家知名的广告制作公司辞职，开始了一种被他们称作是“流浪”式的生活。他们都会去到哪里？他们如何维持生计？他们一路上都会遇到怎样的困难？通过这档真人纪实 Podcast，来听听他们他们在路上的故事。本播客由 Marcast Media 制作出品。 | 微博/微信: @Yvonne陪你去流浪 | 微博/微信: @Marcast | 合作联系：marclee@marcastmedia.com</itunes:summary>
-            
-            <description>2017 年末，Yvonne 和男友小明哥从上海一家知名的广告制作公司辞职，开始了一种被他们称作是“流浪”式的生活。他们都会去到哪里？他们如何维持生计？他们一路上都会遇到怎样的困难？通过这档真人纪实 Podcast，来听听他们他们在路上的故事。本播客由 Marcast Media 制作出品。 | 微博/微信: @Yvonne陪你去流浪 | 微博/微信: @Marcast | 合作联系：marclee@marcastmedia.com</description>
-            
-            <content:encoded>
-                <![CDATA[2017 年末，Yvonne 和男友小明哥从上海一家知名的广告制作公司辞职，开始了一种被他们称作是“流浪”式的生活。他们都会去到哪里？他们如何维持生计？他们一路上都会遇到怎样的困难？通过这档真人纪实 Podcast，来听听他们他们在路上的故事。本播客由 Marcast Media 制作出品。 | 微博/微信: @Yvonne陪你去流浪 | 微博/微信: @Marcast | 合作联系：marclee@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>
-            </content:encoded>
-            
-            <itunes:image href="http://marcastmedia.com/marcast-yvonne-cover.png"/>
-
-            <enclosure length="2,184,951" type="audio/mpeg" url="https://yvonnepodcast.oss-cn-beijing.aliyuncs.com/yvonne-podcast-trailer.mp3"/>
-            <guid>https://yvonnepodcast.oss-cn-beijing.aliyuncs.com/yvonne-podcast-trailer.mp3</guid>
-            <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-            <itunes:duration>02:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
 
