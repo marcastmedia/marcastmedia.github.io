@@ -7,10 +7,10 @@
 <channel>
         <link>https://marcastmedia.com/</link> 
         <atom:link href="https://marcastmedia.com/bme.marcast.feed.xml" rel="self" type="application/rss+xml"/>
-        <title>借你耳朵 Be My Ear (podcast)</title>
+        <title>Be My Ear (podcast)</title>
         <itunes:subtitle>借你耳朵 Be My Ear (podcast)</itunes:subtitle>
-        <itunes:summary>一款简单的、身临其境的白噪音播客，由 Marcast Media 制作出品。</itunes:summary>
-        <description>一款简单的、身临其境的白噪音播客，由 Marcast Media 制作出品。</description>
+        <itunes:summary>一款简单的的白噪音播客，由 Marcast Media 制作出品。微信/微博：@Marcast</itunes:summary>
+        <description>一款简单的的白噪音播客，由 Marcast Media 制作出品。微信/微博：@Marcast</description>
         <itunes:author>Marcast</itunes:author>
         <copyright>Marcast</copyright>
         <itunes:owner>
@@ -26,12 +26,12 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>借你耳朵 Be My Ear - BME #001</title>
-            <itunes:subtitle>一款简单的、身临其境的白噪音播客，由 Marcast Media 制作出品。</itunes:subtitle>
-            <itunes:summary>一款简单的、身临其境的白噪音播客，由 Marcast Media 制作出品。</itunes:summary>
-            <description>一款简单的、身临其境的白噪音播客，由 Marcast Media 制作出品。</description>
+            <title>test: Be My Ear (podcast)</title>
+            <itunes:subtitle>一款简单的的白噪音播客，由 Marcast Media 制作出品。微信/微博：@Marcast</itunes:subtitle>
+            <itunes:summary>一款简单的的白噪音播客，由 Marcast Media 制作出品。微信/微博：@Marcast</itunes:summary>
+            <description>一款简单的的白噪音播客，由 Marcast Media 制作出品。微信/微博：@Marcast</description>
             <content:encoded>
-                <![CDATA[一款简单的、身临其境的白噪音播客，由 Marcast Media 制作出品。<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+                <![CDATA[一款简单的的白噪音播客，由 Marcast Media 制作出品。微信/微博：@Marcast<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
             <enclosure length="12,946,207" type="audio/mpeg" url="https://bemyear.oss-cn-beijing.aliyuncs.com/bme-test.mp3"/>
             <guid>https://bemyear.oss-cn-beijing.aliyuncs.com/bme-test.mp3</guid>
