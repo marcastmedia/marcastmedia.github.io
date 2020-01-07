@@ -26,6 +26,50 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>银河系漫游手册 Vol.2: 白夜的梦</title>
+            <itunes:subtitle>本期主播：Jennifer
+本期歌单：
+1. Cannons - Youth Lagoon
+2. Lose my way - TOY
+3. Lullaby - The Cure
+4. Wake Up - Two Door Cinema Club
+5. 夜来香 - 小野丽莎
+6. The Winds Will Bring You Home - Estas Tonne</itunes:subtitle>
+            <itunes:summary>本期主播：Jennifer
+本期歌单：
+1. Cannons - Youth Lagoon
+2. Lose my way - TOY
+3. Lullaby - The Cure
+4. Wake Up - Two Door Cinema Club
+5. 夜来香 - 小野丽莎
+6. The Winds Will Bring You Home - Estas Tonne</itunes:summary>
+            <description>本期主播：Jennifer
+本期歌单：
+1. Cannons - Youth Lagoon
+2. Lose my way - TOY
+3. Lullaby - The Cure
+4. Wake Up - Two Door Cinema Club
+5. 夜来香 - 小野丽莎
+6. The Winds Will Bring You Home - Estas Tonne</description>
+            <content:encoded>
+                <![CDATA[本期内容：本期主播：Jennifer
+本期歌单：
+1. Cannons - Youth Lagoon
+2. Lose my way - TOY
+3. Lullaby - The Cure
+4. Wake Up - Two Door Cinema Club
+5. 夜来香 - 小野丽莎
+6. The Winds Will Bring You Home - Estas Tonne<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="31,101,707" type="audio/mpeg" url="https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-002.mp3"/>
+            <guid>https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-002.mp3</guid>
+            <pubDate>Tue, 7 Jan 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>31:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>银河系漫游手册 Vol.1: 银河之歌</title>
             <itunes:subtitle>本期歌单：
 1. Intro - The XX
