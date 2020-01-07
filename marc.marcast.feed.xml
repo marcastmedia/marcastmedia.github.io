@@ -8,9 +8,9 @@
         <link>https://marcastmedia.com/</link> 
         <atom:link href="https://marcastmedia.com/marc.marcast.feed.xml" rel="self" type="application/rss+xml"/>
         <title>李马克的声音日志 Marc Lee's audiolog (podcast)</title>
-        <itunes:subtitle>Marc Lee's audiolog 行走，声音，成长史。| 微信公众号 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
-        <itunes:summary>Marc Lee's audiolog，行走，声音，成长史。 | 微信公众号 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
-        <description>Marc Lee's audiolog，行走，声音，成长史。 | 微信公众号 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
+        <itunes:subtitle>Marc Lee's audiolog 行走，声音，成长史。| 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
+        <itunes:summary>Marc Lee's audiolog，行走，声音，成长史。 | 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
+        <description>Marc Lee's audiolog，行走，声音，成长史。 | 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
         <itunes:author>Marcast</itunes:author>
         <copyright>Marcast</copyright>
         <itunes:owner>
@@ -23,6 +23,22 @@
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>200105: 北京下雪，去便利店买饺子</title>
+            <itunes:subtitle>2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
+            <itunes:summary>2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
+            <description>2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
+            <content:encoded>
+                <![CDATA[2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com<a href="https://marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="14,484,430" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-podcast-015-snow-walking.mp3"/>
+            <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-podcast-015-snow-walking.mp3</guid>
+            <pubDate>Tue, 7 Jan 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>05:53</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 
     <item>
         <itunes:author>Marcast</itunes:author>
@@ -118,7 +134,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>190228：这就把复杂的情感变得廉价了</title>
+            <title>190228: 这就把复杂的情感变得廉价了</title>
             <itunes:subtitle>今天李马克在手机的语音备忘录里发现 2016 年的一段录音，和你分享一篇导演徐浩峰对李安电影《色，戒》的影评（节选自徐浩峰影评集《刀与星辰》）</itunes:subtitle>
             <itunes:summary>今天李马克在手机的语音备忘录里发现 2016 年的一段录音，和你分享一篇导演徐浩峰对李安电影《色，戒》的影评（节选自徐浩峰影评集《刀与星辰》）</itunes:summary>
             <description>今天李马克在手机的语音备忘录里发现 2016 年的一段录音，和你分享一篇导演徐浩峰对李安电影《色，戒》的影评（节选自徐浩峰影评集《刀与星辰》）</description>
@@ -134,7 +150,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>181103：由 IG 夺冠联想到的：Invictus</title>
+            <title>181103: 由 IG 夺冠联想到的：Invictus</title>
             <itunes:subtitle>Invictus by William Ernest Henley</itunes:subtitle>
             <itunes:summary>Invictus by William Ernest Henley</itunes:summary>
             <description>Invictus by William Ernest Henley</description>
@@ -150,7 +166,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>181001：被忽视的城市（三）</title>
+            <title>181001: 被忽视的城市（三）</title>
             <itunes:subtitle>「纽约也是一座这样的城市：一只穴居峭壁上的巨大秃鹰现在飞到了摩天大楼上，偶尔也会俯冲到中央公园、华尔街或哈德逊河上捕食一只鸽子。观鸟者曾看到过鹰隼在城市上空悠然盘旋，他们看到过鹰隼占据在大厦顶上，甚至在时报广场周围也曾见过他们。」</itunes:subtitle>
             <itunes:summary>「纽约也是一座这样的城市：一只穴居峭壁上的巨大秃鹰现在飞到了摩天大楼上，偶尔也会俯冲到中央公园、华尔街或哈德逊河上捕食一只鸽子。观鸟者曾看到过鹰隼在城市上空悠然盘旋，他们看到过鹰隼占据在大厦顶上，甚至在时报广场周围也曾见过他们。」</itunes:summary>
             <description>「纽约也是一座这样的城市：一只穴居峭壁上的巨大秃鹰现在飞到了摩天大楼上，偶尔也会俯冲到中央公园、华尔街或哈德逊河上捕食一只鸽子。观鸟者曾看到过鹰隼在城市上空悠然盘旋，他们看到过鹰隼占据在大厦顶上，甚至在时报广场周围也曾见过他们。」</description>
@@ -166,7 +182,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>180930：被忽视的城市（二）</title>
+            <title>180930: 被忽视的城市（二）</title>
             <itunes:subtitle>「纽约是一座拥有 200 个核桃贩子、30 万只鸽子、600 尊雕像和纪念碑的城市。看到那些雕像时你可以这样去理解：一位骑马将军雕像中的坐骑两只前蹄离地，意味着他战死疆场；假如坐骑一只前蹄离地，那意味着他死于战争中所受的伤；如果坐骑四蹄着地，那么这位将军很可能是寿终正寝。」</itunes:subtitle>
             <itunes:summary>「纽约是一座拥有 200 个核桃贩子、30 万只鸽子、600 尊雕像和纪念碑的城市。看到那些雕像时你可以这样去理解：一位骑马将军雕像中的坐骑两只前蹄离地，意味着他战死疆场；假如坐骑一只前蹄离地，那意味着他死于战争中所受的伤；如果坐骑四蹄着地，那么这位将军很可能是寿终正寝。」</itunes:summary>
             <description>「纽约是一座拥有 200 个核桃贩子、30 万只鸽子、600 尊雕像和纪念碑的城市。看到那些雕像时你可以这样去理解：一位骑马将军雕像中的坐骑两只前蹄离地，意味着他战死疆场；假如坐骑一只前蹄离地，那意味着他死于战争中所受的伤；如果坐骑四蹄着地，那么这位将军很可能是寿终正寝。」</description>
@@ -182,7 +198,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>180929：被忽视的城市（一）</title>
+            <title>180929: 被忽视的城市（一）</title>
             <itunes:subtitle>「每天，纽约人要喝下 46 万加仑啤酒，吃掉 350 万磅肉，消耗 21 英里长的牙线。在这座城市里，每天有 250 人死去，460 人出生，15 万人戴着玻璃或塑料假眼行走；这里还有 500 名巫师、600 尊雕塑和纪念碑、30 万只鸽子······」</itunes:subtitle>
             <itunes:summary>「每天，纽约人要喝下 46 万加仑啤酒，吃掉 350 万磅肉，消耗 21 英里长的牙线。在这座城市里，每天有 250 人死去，460 人出生，15 万人戴着玻璃或塑料假眼行走；这里还有 500 名巫师、600 尊雕塑和纪念碑、30 万只鸽子······」</itunes:summary>
             <description>「每天，纽约人要喝下 46 万加仑啤酒，吃掉 350 万磅肉，消耗 21 英里长的牙线。在这座城市里，每天有 250 人死去，460 人出生，15 万人戴着玻璃或塑料假眼行走；这里还有 500 名巫师、600 尊雕塑和纪念碑、30 万只鸽子······」</description>
@@ -198,7 +214,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>180923：你没那么好，也没那么糟：好感鸿沟和印象落差</title>
+            <title>180923: 你没那么好，也没那么糟：好感鸿沟和印象落差</title>
             <itunes:subtitle>什么是 The Liking Gap （「好感鸿沟」或「印象落差」）？以及知道它的的存在，对我们有什么用？</itunes:subtitle>
             <itunes:summary>什么是 The Liking Gap （「好感鸿沟」或「印象落差」）？以及知道它的的存在，对我们有什么用？</itunes:summary>
             <description>什么是 The Liking Gap （「好感鸿沟」或「印象落差」）？以及知道它的的存在，对我们有什么用？</description>
@@ -214,7 +230,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>180909：遗憾谁都有，但不要太多</title>
+            <title>180909: 遗憾谁都有，但不要太多</title>
             <itunes:subtitle>贝索斯的「遗憾最小化框架」（regret minimization framework）对我们有什么用</itunes:subtitle>
             <itunes:summary>贝索斯的「遗憾最小化框架」（regret minimization framework）对我们有什么用</itunes:summary>
             <description>贝索斯的「遗憾最小化框架」（regret minimization framework）对我们有什么用</description>
@@ -230,7 +246,7 @@
         
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>171005：乘索道过江未遂</title>
+            <title>171005: 乘索道过江未遂</title>
             <itunes:subtitle>国庆假期在重庆的第三天。</itunes:subtitle>
             <itunes:summary>国庆假期在重庆的第三天。</itunes:summary>
             <description>国庆假期重庆的第三天。</description>
@@ -246,7 +262,7 @@
     
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>171004：人挤人在朝天门</title>
+            <title>171004: 人挤人在朝天门</title>
             <itunes:subtitle>国庆假期在重庆的第二天。</itunes:subtitle>
             <itunes:summary>国庆假期在重庆的第二天。</itunes:summary>
             <description>国庆假期在重庆的第二天。</description>
@@ -262,7 +278,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>171003：去直辖市吃火锅</title>
+            <title>171003: 去直辖市吃火锅</title>
             <itunes:subtitle>国庆假期在重庆的第一天。</itunes:subtitle>
             <itunes:summary>国庆假期在重庆的第一天。</itunes:summary>
             <description>国庆假期在重庆的第一天。</description>
@@ -278,7 +294,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>170208：客户要我配出湖南卫视的感觉</title>
+            <title>170208: 客户要我配出湖南卫视的感觉</title>
             <itunes:subtitle>过年偷闲，我和老友张尼玛聊了聊。</itunes:subtitle>
             <itunes:summary>过年偷闲，我和老友张尼玛聊了聊。</itunes:summary>
             <description>过年偷闲，我和老友张尼玛聊了聊。</description>
@@ -294,7 +310,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>161230：你的2016</title>
+            <title>161230: 你的2016</title>
             <itunes:subtitle>和一然聊了聊各自的2016。</itunes:subtitle>
             <itunes:summary>和一然聊了聊各自的2016。</itunes:summary>
             <description>和一然聊了聊各自的2016。</description>
@@ -310,7 +326,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>161225：听说你又一个人在家刷《真爱至上》</title>
+            <title>161225: 听说你又一个人在家刷《真爱至上》</title>
             <itunes:subtitle>每年圣诞节，我周围都有好多朋友会刷一遍电影《真爱至上》。</itunes:subtitle>
             <itunes:summary>每年圣诞节，我周围都有好多朋友会刷一遍电影《真爱至上》。</itunes:summary>
             <description>每年圣诞节，我周围都有好多朋友会刷一遍电影《真爱至上》。</description>
@@ -326,7 +342,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>160730：先锋书店里的普鲁斯特问卷</title>
+            <title>160730: 先锋书店里的普鲁斯特问卷</title>
             <itunes:subtitle>在南京先锋书店，我准备了一份普鲁斯特问卷。</itunes:subtitle>
             <itunes:summary>在南京先锋书店，我准备了一份普鲁斯特问卷。</itunes:summary>
             <description>在南京先锋书店，我准备了一份普鲁斯特问卷。</description>
@@ -342,7 +358,7 @@
     
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>160627：和一位地推小哥的聊天</title>
+            <title>160627: 和一位地推小哥的聊天</title>
             <itunes:subtitle>每天下班路上，都能遇到一位某 P2P App 的地推小哥。</itunes:subtitle>
             <itunes:summary>每天下班路上，都能遇到一位某 P2P App 的地推小哥。</itunes:summary>
             <description>每天下班路上，都能遇到一位某 P2P App 的地推小哥。</description>
