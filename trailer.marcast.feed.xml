@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>1917 20.01.10</title>
+
+            <itunes:subtitle>Two young British soldiers during the First World War are given an impossible mission: deliver a message deep in enemy territory that will stop 1,600 men, and one of the soldiers' brothers, from walking straight into a deadly trap. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>Two young British soldiers during the First World War are given an impossible mission: deliver a message deep in enemy territory that will stop 1,600 men, and one of the soldiers' brothers, from walking straight into a deadly trap. - IMDb</itunes:summary>
+            
+            <description>Two young British soldiers during the First World War are given an impossible mission: deliver a message deep in enemy territory that will stop 1,600 men, and one of the soldiers' brothers, from walking straight into a deadly trap. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[Two young British soldiers during the First World War are given an impossible mission: deliver a message deep in enemy territory that will stop 1,600 men, and one of the soldiers' brothers, from walking straight into a deadly trap. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-1917.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-1917.mp3</guid>
+            <pubDate>Wed, 8 Jan 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Just Mercy 20.01.10</title>
+
+            <itunes:subtitle>World-renowned civil rights defense attorney Bryan Stevenson works to free a wrongly condemned death row prisoner. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>World-renowned civil rights defense attorney Bryan Stevenson works to free a wrongly condemned death row prisoner. - IMDb</itunes:summary>
+            
+            <description>World-renowned civil rights defense attorney Bryan Stevenson works to free a wrongly condemned death row prisoner. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[World-renowned civil rights defense attorney Bryan Stevenson works to free a wrongly condemned death row prisoner. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-just-mercy.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-just-mercy.mp3</guid>
+            <pubDate>Wed, 8 Jan 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Underwater 20.01.10</title>
 
             <itunes:subtitle>A crew of aquatic researchers work to get to safety after an earthquake devastates their subterranean laboratory. But the crew has more than the ocean seabed to fear. - IMDb</itunes:subtitle>
