@@ -26,6 +26,27 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>杨一：所有你人生的好与坏都已经经历过一次了，我不想再来一次</title>
+
+            <itunes:subtitle>本期回答者：杨一 / 数字音频初创企业 JustPod 联合创始人兼首席运营官，知名播客《忽左忽右》、《去现场》主持。/《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答「普鲁斯特问卷」(The Proust Questionaire) 里的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。/ 本播客由 Marcast Media 制作出品，wb/wx: @Marcast，合作联系: hello@marcastmedia.com</itunes:subtitle>
+            
+            <itunes:summary>本期回答者：杨一 / 数字音频初创企业 JustPod 联合创始人兼首席运营官，知名播客《忽左忽右》、《去现场》主持。/《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答「普鲁斯特问卷」(The Proust Questionaire) 里的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。/ 本播客由 Marcast Media 制作出品，wb/wx: @Marcast，合作联系: hello@marcastmedia.com</itunes:summary>
+            
+            <description>本期回答者：杨一 / 数字音频初创企业 JustPod 联合创始人兼首席运营官，知名播客《忽左忽右》、《去现场》主持。/《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答「普鲁斯特问卷」(The Proust Questionaire) 里的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。/ 本播客由 Marcast Media 制作出品，wb/wx: @Marcast，合作联系: hello@marcastmedia.com</description>
+            
+            <content:encoded>
+                <![CDATA[本期回答者：杨一 / 数字音频初创企业 JustPod 联合创始人兼首席运营官，知名播客《忽左忽右》、《去现场》主持。/《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答「普鲁斯特问卷」(The Proust Questionaire) 里的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。/ 本播客由 Marcast Media 制作出品，wb/wx: @Marcast，合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://proustqa.oss-cn-beijing.aliyuncs.com/proust-podcast-002.mp3"/>
+            <guid>https://proustqa.oss-cn-beijing.aliyuncs.com/proust-podcast-002.mp3</guid>
+            <pubDate>Thu, 9 Jan 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>糊糊：你不能保证选择另外一条路就一定能收获什么，很多东西都有 trade-off</title>
 
             <itunes:subtitle>本期回答者：糊糊 / 中文播客节目 Casticle 的主播及制作人 (casticle.fm)，以外语技能在科技行业和市场研究领域谋生的北漂。擅长科技产品、互联网内容及社区的本地化及国际化。曾全职供职于国际知名旅行平台、国内长期霸榜短视频产品的出海团队以及国内某人工智能独角兽，业余为诸多培训项目及品牌市场研究担任同传译员。多本图书及杂志译者兼校审。目前，她正在经营一家新时代的语言服务工作室「Wordspill」，致力于为每位客户，提供精良周到的原创外语内容及任何类型的语言服务。遗憾的是，由于繁忙的业务和必要的懒惰，糊糊与她的队友至今仍未做好 Wordspill 的官方网站。/《请回答，普鲁斯特》是一档诚实问答型 podcast。每一期，我们会请一位嘉宾来到节目里，回答「普鲁斯特问卷」(The Proust Questionaire) 里的 35 个问题。通过这样的问答，让我们来听听不同的人对自己、对生活和对世界的理解。同时，通过他人的回答，也让我们反观自己，加深对自己的理解。| 本播客由 Marcast Media 制作出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com</itunes:subtitle>
@@ -75,8 +96,8 @@
             <content:encoded>
                 <![CDATA[本期内容：南京先锋书店里的<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
-            <enclosure length="14,796,710" type="audio/mpeg" url="https://proustqa.oss-cn-beijing.aliyuncs.com/000-proust-bookstore.mp3"/>
-            <guid>https://proustqa.oss-cn-beijing.aliyuncs.com/000-proust-bookstore.mp3</guid>
+            <enclosure length="14,796,710" type="audio/mpeg" url="https://proustqa.oss-cn-beijing.aliyuncs.com/proust-podcast-000.mp3"/>
+            <guid>https://proustqa.oss-cn-beijing.aliyuncs.com/proust-podcast-000.mp3</guid>
             <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
             <itunes:duration>29:21</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
