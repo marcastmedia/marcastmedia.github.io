@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Bad Boys for Life 20.01.17</title>
+
+            <itunes:subtitle>The Bad Boys Mike Lowrey and Marcus Burnett are back together for one last ride in the highly anticipated Bad Boys for Life. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>The Bad Boys Mike Lowrey and Marcus Burnett are back together for one last ride in the highly anticipated Bad Boys for Life. - IMDb</itunes:summary>
+            
+            <description>The Bad Boys Mike Lowrey and Marcus Burnett are back together for one last ride in the highly anticipated Bad Boys for Life. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[The Bad Boys Mike Lowrey and Marcus Burnett are back together for one last ride in the highly anticipated Bad Boys for Life. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-bad-boys-for-life.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-bad-boys-for-life.mp3</guid>
+            <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Dolittle 20.01.17</title>
+
+            <itunes:subtitle>A physician discovers that he can talk to animals. - IMDb</itunes:subtitle>
+            
+            <itunes:summary>A physician discovers that he can talk to animals. - IMDb</itunes:summary>
+            
+            <description>A physician discovers that he can talk to animals. - IMDb</description>
+            
+            <content:encoded>
+                <![CDATA[A physician discovers that he can talk to animals. - IMDb<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-dolittle.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-dolittle.mp3</guid>
+            <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>1917 20.01.10</title>
 
             <itunes:subtitle>Two young British soldiers during the First World War are given an impossible mission: deliver a message deep in enemy territory that will stop 1,600 men, and one of the soldiers' brothers, from walking straight into a deadly trap. - IMDb</itunes:subtitle>
