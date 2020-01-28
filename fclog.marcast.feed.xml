@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+>
+<channel>
+        <link>https://marcastmedia.com/</link> 
+        <atom:link href="https://marcastmedia.com/fclog.marcast.feed.xml" rel="self" type="application/rss+xml"/>
+        <title>封城日志 (podcast)</title>
+        <itunes:subtitle>封城日志 (podcast)</itunes:subtitle>
+        <itunes:summary>封城之后，城内之人。 / 本播客由 Marcast Media 和众多网友联合制作出品，微信/微博:@Marcast，邮件: hello@marcastmedia.com</itunes:summary>
+        <description>封城之后，城内之人。 / 本播客由 Marcast Media 和众多网友联合制作出品，微信/微博:@Marcast，邮件: hello@marcastmedia.com</description>
+        <itunes:author>Marcast</itunes:author>
+        <copyright>Marcast</copyright>
+        <itunes:owner>
+            <itunes:name>Marcast</itunes:name>
+            <itunes:email>hello@marcastmedia.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://marcastmedia.com/marcast-fclog-cover.jpg"/>
+        <itunes:category text="Society &amp; Culture">
+        <itunes:category text="Personal Journals"/>
+        </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>封城日志：羽高，坐标湖北武汉，20200127</title>
+            <itunes:subtitle>封城之后，城内之人。 / 本播客由 Marcast Media 和众多网友联合制作出品，微信/微博: @Marcast，邮件: hello@marcastmedia.com</itunes:subtitle>
+            <itunes:summary>封城之后，城内之人。 / 本播客由 Marcast Media 和众多网友联合制作出品，微信/微博: @Marcast，邮件: hello@marcastmedia.com</itunes:summary>
+            <description>封城之后，城内之人。 / 本播客由 Marcast Media 和众多网友联合制作出品，微信/微博: @Marcast，邮件: hello@marcastmedia.com</description>
+            <content:encoded>
+                <![CDATA[封城之后，城内之人。 / 本播客由 Marcast Media 和众多网友联合制作出品，微信/微博: @Marcast，邮件: hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="42,909,053" type="audio/mpeg" url="https://fengchenglog.oss-cn-beijing.aliyuncs.com/fclog-001.mp3"/>
+            <guid>https://fengchenglog.oss-cn-beijing.aliyuncs.com/fclog-001.mp3</guid>
+            <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>17:14</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>
