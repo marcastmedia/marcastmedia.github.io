@@ -26,6 +26,22 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>封城日志#8: 路航📍广州 20200128</title>
+            <itunes:subtitle>封城之后，城内之人。 / 本播客由 Marcast Media 和众多网友联合制作出品，微信/微博: @Marcast，邮件: hello@marcastmedia.com</itunes:subtitle>
+            <itunes:summary>封城之后，城内之人。 / 本播客由 Marcast Media 和众多网友联合制作出品，微信/微博: @Marcast，邮件: hello@marcastmedia.com</itunes:summary>
+            <description>封城之后，城内之人。 / 本播客由 Marcast Media 和众多网友联合制作出品，微信/微博: @Marcast，邮件: hello@marcastmedia.com</description>
+            <content:encoded>
+                <![CDATA[封城之后，城内之人。 / 本播客由 Marcast Media 和众多网友联合制作出品，微信/微博: @Marcast，邮件: hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="29,700,373" type="audio/mpeg" url="https://fengchenglog.oss-cn-beijing.aliyuncs.com/fclog-008.mp3"/>
+            <guid>https://fengchenglog.oss-cn-beijing.aliyuncs.com/fclog-008.mp3</guid>
+            <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>11:48</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>封城日志#7: 大口吃瓜📍湖北十堰 20200128</title>
             <itunes:subtitle>封城之后，城内之人。 / 本播客由 Marcast Media 和众多网友联合制作出品，微信/微博: @Marcast，邮件: hello@marcastmedia.com</itunes:subtitle>
             <itunes:summary>封城之后，城内之人。 / 本播客由 Marcast Media 和众多网友联合制作出品，微信/微博: @Marcast，邮件: hello@marcastmedia.com</itunes:summary>
