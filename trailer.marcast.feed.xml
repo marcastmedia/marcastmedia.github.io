@@ -24,6 +24,90 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>To All the Boys: P.S. I Still Love You 20.02.14 NETFLIX</title>
+
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            
+            <description>Listen to the trailer.</description>
+            
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-to-boys-2.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-to-boys-2.mp3</guid>
+            <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Narcos: Mexico Season 2 20.02.14 NETLIFX</title>
+
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            
+            <description>Listen to the trailer.</description>
+            
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-narcos-mexico-s2.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-narcos-mexico-s2.mp3</guid>
+            <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Fantasy Island 20.02.14</title>
+
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            
+            <description>Listen to the trailer.</description>
+            
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-fantasy-island.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-fantasy-island.mp3</guid>
+            <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Downhill 20.02.14</title>
+
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            
+            <description>Listen to the trailer.</description>
+            
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-downhill.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-downhill.mp3</guid>
+            <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Bad Boys for Life 20.01.17</title>
 
             <itunes:subtitle>The Bad Boys Mike Lowrey and Marcus Burnett are back together for one last ride in the highly anticipated Bad Boys for Life. - IMDb</itunes:subtitle>
