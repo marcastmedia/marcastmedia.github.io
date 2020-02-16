@@ -26,6 +26,22 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Cool Kids Never Have the Time (银河系漫游手册)</title>
+            <itunes:subtitle>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</itunes:subtitle>
+            <itunes:summary>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</itunes:summary>
+            <description>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</description>
+            <content:encoded>
+                <![CDATA[本期内容：放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="25,489,013" type="audio/mpeg" url="https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-005.mp3"/>
+            <guid>https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-005.mp3</guid>
+            <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>25:39</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Back to the 2015 Grammy Awards (银河系漫游手册)</title>
             <itunes:subtitle>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</itunes:subtitle>
             <itunes:summary>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</itunes:summary>
