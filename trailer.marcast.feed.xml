@@ -24,6 +24,48 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>The Last Thing He Wanted 20.02.21 NETFLIX</title>
+
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            
+            <description>Listen to the trailer.</description>
+            
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-the-last-thing-he-wanted.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-the-last-thing-he-wanted.mp3</guid>
+            <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>The Night Clerk 20.02.21</title>
+
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            
+            <description>Listen to the trailer.</description>
+            
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-the-night-clerk.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-the-night-clerk.mp3</guid>
+            <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Standing Up, Falling Down 20.02.21</title>
 
             <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
