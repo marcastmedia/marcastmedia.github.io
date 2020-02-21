@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+>
+<channel>
+        <link>https://marcastmedia.com/</link> 
+        <atom:link href="https://marcastmedia.com/email.marcast.feed.xml" rel="self" type="application/rss+xml"/>
+        <title>奇怪邮件 (podcast)</title>
+        <itunes:subtitle>我收到的奇怪邮件... The Weirdest Emails I Got. 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
+        <itunes:summary>我收到的奇怪邮件... The Weirdest Emails I Got. 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
+        <description>我收到的奇怪邮件... The Weirdest Emails I Got. 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
+        <itunes:author>Marcast</itunes:author>
+        <copyright>Marcast</copyright>
+        <itunes:owner>
+            <itunes:name>Marcast</itunes:name>
+            <itunes:email>marclee@marcastmedia.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://marcastmedia.com/marcast-email-cover.jpg"/>
+        <itunes:category text="Technology"></itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>📩 Harder &amp; Longer #奇怪邮件 </title>
+            <itunes:subtitle>我收到的奇怪邮件... The Weirdest Emails I Got. 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
+            <itunes:summary>我收到的奇怪邮件... The Weirdest Emails I Got. 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
+            <description>我收到的奇怪邮件... The Weirdest Emails I Got. 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
+            <content:encoded>
+                <![CDATA[我收到的奇怪邮件... The Weirdest Emails I Got. 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com<a href="https://marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="1,932,090" type="audio/mpeg" url="https://emailweird.oss-cn-beijing.aliyuncs.com/email-001.mp3"/>
+            <guid>https://emailweird.oss-cn-beijing.aliyuncs.com/email-001.mp3</guid>
+            <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>00:38</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+</channel>
+</rss>
