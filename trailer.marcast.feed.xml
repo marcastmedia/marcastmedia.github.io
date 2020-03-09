@@ -24,6 +24,69 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>I Still Believe 20.03.13</title>
+
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            
+            <description>Listen to the trailer.</description>
+            
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-i-still-believe.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-i-still-believe.mp3</guid>
+            <pubDate>Mon, 9 Mar 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Go Karts 20.03.13 NETFLIX</title>
+
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            
+            <description>Listen to the trailer.</description>
+            
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-go-karts.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-go-karts.mp3</guid>
+            <pubDate>Mon, 9 Mar 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Bloodride Season 1 20.03.13 NETFLIX</title>
+
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            
+            <description>Listen to the trailer.</description>
+            
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-bloodride-s1.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-bloodride-s1.mp3</guid>
+            <pubDate>Mon, 9 Mar 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Ugly Delicious Season 2 20.03.06 NETFLIX</title>
 
             <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
