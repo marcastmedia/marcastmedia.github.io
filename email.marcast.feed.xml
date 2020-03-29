@@ -24,7 +24,23 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>📩 Harder &amp; Longer #奇怪邮件 </title>
+            <title>📩 Give You My Money #奇怪邮件</title>
+            <itunes:subtitle>本集投稿来自：wandong 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
+            <itunes:summary>本集投稿来自：wandong 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
+            <description>本集投稿来自：wandong 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
+            <content:encoded>
+                <![CDATA[本集投稿来自：wandong 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com<a href="https://marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="17,321,596" type="audio/mpeg" url="https://emailweird.oss-cn-beijing.aliyuncs.com/email-002.mp3"/>
+            <guid>https://emailweird.oss-cn-beijing.aliyuncs.com/email-002.mp3</guid>
+            <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>07:03</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>📩 Harder &amp; Longer #奇怪邮件</title>
             <itunes:subtitle>我收到的奇怪邮件... The Weird Emails I Got. 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
             <itunes:summary>我收到的奇怪邮件... The Weird Emails I Got. 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
             <description>我收到的奇怪邮件... The Weird Emails I Got. 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
