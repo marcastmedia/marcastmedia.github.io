@@ -24,6 +24,22 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Murder to Mercy: The Cyntoia Brown Story 20.04.29 NETFLIX</title>
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            <description>Listen to the trailer.</description>
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-murder-to-mercy.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-murder-to-mercy.mp3</guid>
+            <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Extraction 20.04.24 NETFLIX</title>
             <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
             <itunes:summary>Listen to the trailer.</itunes:summary>
