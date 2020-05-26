@@ -24,6 +24,38 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Spelling the Dream 20.06.03 NETFLIX</title>
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            <description>Listen to the trailer.</description>
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-spelling-the-dream.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-spelling-the-dream.mp3</guid>
+            <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Somebody Feed Phil Season 3 20.05.29 NETFLIX</title>
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            <description>Listen to the trailer.</description>
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-somebody-feed-phil-s3.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-somebody-feed-phil-s3.mp3</guid>
+            <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Space Force 20.05.29 NETFLIX</title>
             <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
             <itunes:summary>Listen to the trailer.</itunes:summary>
