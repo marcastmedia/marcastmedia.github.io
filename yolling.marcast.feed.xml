@@ -26,7 +26,23 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>睡眠科学 Science of Sleep Vol.2: Good Night, and Good Luck (银河系漫游手册)</title>
+            <title>睡眠科学 Vol.3 Science of Sleep (银河系漫游手册)</title>
+            <itunes:subtitle>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</itunes:subtitle>
+            <itunes:summary>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</itunes:summary>
+            <description>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</description>
+            <content:encoded>
+                <![CDATA[本期内容：放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系<a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="9,120,614" type="audio/mpeg" url="https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-010-sleep-03.mp3"/>
+            <guid>https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-010-sleep-03.mp3</guid>
+            <pubDate>Sun, 5 Jul 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>08:27</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>睡眠科学 Vol.2 Science of Sleep (银河系漫游手册)</title>
             <itunes:subtitle>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</itunes:subtitle>
             <itunes:summary>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</itunes:summary>
             <description>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</description>
@@ -58,7 +74,7 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-            <title>睡眠科学 Science of Sleep Vol.1 (银河系漫游手册)</title>
+            <title>睡眠科学 Vol.1 Science of Sleep (银河系漫游手册)</title>
             <itunes:subtitle>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</itunes:subtitle>
             <itunes:summary>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</itunes:summary>
             <description>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</description>
