@@ -26,6 +26,25 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>#BME🏯京都二条城の行走 / Nijō Castle, Kyoto, Japan</title>
+            <itunes:subtitle>#BME🏯京都二条城の行走 / Nijō Castle, Kyoto, Japan / Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast *本播客接受音频投稿，微博/微信：@Marcast / 邮箱：hello@marcastmedia.com</itunes:subtitle>
+            <itunes:summary>#BME🏯京都二条城の行走 / Nijō Castle, Kyoto, Japan / Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast *本播客接受音频投稿，微博/微信：@Marcast / 邮箱：hello@marcastmedia.com</itunes:summary>
+            <description>#BME🏯京都二条城の行走 / Nijō Castle, Kyoto, Japan / Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast *本播客接受音频投稿，微博/微信：@Marcast / 邮箱：hello@marcastmedia.com</description>
+            <content:encoded>
+                <![CDATA[#BME🏯京都二条城の行走 / Nijō Castle, Kyoto, Japan / Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast *本播客接受音频投稿，微博/微信：@Marcast / 邮箱：hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+
+            <itunes:image href="https://bemyear.oss-cn-beijing.aliyuncs.com/bme-cover/bme-007.jpg"/>
+
+            <enclosure length="51,732,965" type="audio/mpeg" url="https://bemyear.oss-cn-beijing.aliyuncs.com/bme-008-nijo-castle.mp3"/>
+            <guid>https://bemyear.oss-cn-beijing.aliyuncs.com/bme-008-nijo-castle.mp3</guid>
+            <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>20:24</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>#BME⛩贵船神社顺流而下 / Kifune Shrine Walking Down</title>
             <itunes:subtitle>#BME⛩贵船神社顺流而下 / Kifune Shrine Walking Down / Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast *本播客接受音频投稿，微博/微信：@Marcast / 邮箱：hello@marcastmedia.com</itunes:subtitle>
             <itunes:summary>#BME⛩贵船神社顺流而下 / Kifune Shrine Walking Down / Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast *本播客接受音频投稿，微博/微信：@Marcast / 邮箱：hello@marcastmedia.com</itunes:summary>
