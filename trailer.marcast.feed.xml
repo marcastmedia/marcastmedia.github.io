@@ -24,6 +24,22 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Perry Mason: Season 1 20.07.25 HBO</title>
+            <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
+            <itunes:summary>Listen to the trailer.</itunes:summary>
+            <description>Listen to the trailer.</description>
+            <content:encoded>
+                <![CDATA[Listen to the trailer.<a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-perry-mason.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-perry-mason.mp3</guid>
+            <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Radioactive 20.07.24 Amazon Prime Video</title>
             <itunes:subtitle>Listen to the trailer.</itunes:subtitle>
             <itunes:summary>Listen to the trailer.</itunes:summary>
