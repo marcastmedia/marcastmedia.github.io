@@ -8,9 +8,9 @@
         <link>https://marcastmedia.com/</link> 
         <atom:link href="https://marcastmedia.com/marc.marcast.feed.xml" rel="self" type="application/rss+xml"/>
         <title>李马克的声音日志 Marc Lee's audiolog (podcast)</title>
-        <itunes:subtitle>Marc Lee's audiolog 行走，声音，成长史。| 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
-        <itunes:summary>Marc Lee's audiolog，行走，声音，成长史。 | 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
-        <description>Marc Lee's audiolog，行走，声音，成长史。 | 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
+        <itunes:subtitle>行走，声音，成长史。| 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
+        <itunes:summary>行走，声音，成长史。 | 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
+        <description>行走，声音，成长史。 | 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
         <itunes:author>Marcast</itunes:author>
         <copyright>Marcast</copyright>
         <itunes:owner>
@@ -23,6 +23,22 @@
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>年轻情侣最好不要去逛宜家 #200730</title>
+            <itunes:subtitle>晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino/importmedia</itunes:subtitle>
+            <itunes:summary>晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino/importmedia</itunes:summary>
+            <description>晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino/importmedia</description>
+            <content:encoded>
+                <![CDATA[晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino/importmedia<a href="https://marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="33,269,883" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-017-a-walk-with-jade.mp3"/>
+            <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-017-a-walk-with-jade.mp3</guid>
+            <pubDate>Fri, 31 JUL 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>13:32</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 
     <item>
         <itunes:author>Marcast</itunes:author>
