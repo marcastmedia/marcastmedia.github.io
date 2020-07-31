@@ -8,9 +8,9 @@
         <link>https://marcastmedia.com/</link> 
         <atom:link href="https://marcastmedia.com/marc.marcast.feed.xml" rel="self" type="application/rss+xml"/>
         <title>李马克的声音日志 Marc Lee's audiolog (podcast)</title>
-        <itunes:subtitle>行走，声音，成长史。| 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
-        <itunes:summary>行走，声音，成长史。 | 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
-        <description>行走，声音，成长史。 | 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
+        <itunes:subtitle>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</itunes:subtitle>
+        <itunes:summary>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</itunes:summary>
+        <description>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</description>
         <itunes:author>Marcast</itunes:author>
         <copyright>Marcast</copyright>
         <itunes:owner>
@@ -27,11 +27,11 @@
     <item>
         <itunes:author>Marcast</itunes:author>
             <title>年轻情侣最好不要去逛宜家 #200730</title>
-            <itunes:subtitle>晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino/importmedia</itunes:subtitle>
-            <itunes:summary>晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino/importmedia</itunes:summary>
-            <description>晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino/importmedia</description>
+            <itunes:subtitle>晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino</itunes:subtitle>
+            <itunes:summary>晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino</itunes:summary>
+            <description>晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino</description>
             <content:encoded>
-                <![CDATA[晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino/importmedia<a href="https://marcastmedia.com/">Marcast</a>]]>.
+                <![CDATA[晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino<a href="https://marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
             <enclosure length="33,269,883" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-017-a-walk-with-jade.mp3"/>
             <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-017-a-walk-with-jade.mp3</guid>
@@ -43,11 +43,11 @@
     <item>
         <itunes:author>Marcast</itunes:author>
             <title>Harder &amp; Longer #20200221</title>
-            <itunes:subtitle>Harder &amp; Longer #20200221 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
-            <itunes:summary>Harder &amp; Longer #20200221 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
-            <description>Harder &amp; Longer #20200221 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
+            <itunes:subtitle>今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</itunes:subtitle>
+            <itunes:summary>今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</itunes:summary>
+            <description>今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</description>
             <content:encoded>
-                <![CDATA[Harder &amp; Longer #20200221 微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com<a href="https://marcastmedia.com/">Marcast</a>]]>.
+                <![CDATA[今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast<a href="https://marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
             <enclosure length="1,932,090" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-016-email-001.mp3"/>
             <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-016-email-001.mp3</guid>
