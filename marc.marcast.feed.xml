@@ -8,9 +8,9 @@
         <link>https://marcastmedia.com/</link> 
         <atom:link href="https://marcastmedia.com/marc.marcast.feed.xml" rel="self" type="application/rss+xml"/>
         <title>李马克的声音日志 Marc Lee's audiolog (podcast)</title>
-        <itunes:subtitle>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</itunes:subtitle>
-        <itunes:summary>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</itunes:summary>
-        <description>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</description>
+        <itunes:subtitle>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者 微博/Twitter 私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号/Instagram/Twitter：@Marcast</itunes:subtitle>
+        <itunes:summary>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者 微博/Twitter 私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号/Instagram/Twitter：@Marcast</itunes:summary>
+        <description>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者 微博/Twitter 私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号/Instagram/Twitter：@Marcast</description>
         <itunes:author>Marcast</itunes:author>
         <copyright>Marcast</copyright>
         <itunes:owner>
@@ -27,11 +27,11 @@
     <item>
         <itunes:author>Marcast</itunes:author>
             <title>年轻情侣最好不要去逛宜家 #200730</title>
-            <itunes:subtitle>晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino</itunes:subtitle>
-            <itunes:summary>晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino</itunes:summary>
-            <description>晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino</description>
+            <itunes:subtitle><br/><p>晚饭出来的路上，和朋友聊到这个话题。</p><p>music credit: about claudia – furino</p></itunes:subtitle>
+            <itunes:summary><br/><p>晚饭出来的路上，和朋友聊到这个话题。</p><p>music credit: about claudia – furino</p></itunes:summary>
+            <description><br/><p>晚饭出来的路上，和朋友聊到这个话题。</p><p>music credit: about claudia – furino</p></description>
             <content:encoded>
-                <![CDATA[晚饭出来的路上，和朋友聊到这个话题。music credit: about claudia – furino<a href="https://marcastmedia.com/">Marcast</a>]]>.
+                <![CDATA[<br/><p>晚饭出来的路上，和朋友聊到这个话题。</p><p>music credit: about claudia – furino</p><a href="https://marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
             <enclosure length="33,269,883" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-017-a-walk-with-jade.mp3"/>
             <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-017-a-walk-with-jade.mp3</guid>
