@@ -26,6 +26,22 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>睡眠科学 Vol.4 Science of Sleep (银河系漫游手册)</title>
+            <itunes:subtitle><p>Music credits:</p><p>1. Song for Zula – Phosphorescent</p><p>2. Orange Sky – Alexi Murdoch</p><p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p></itunes:subtitle>
+            <itunes:summary><p>Music credits:</p><p>1. Song for Zula – Phosphorescent</p><p>2. Orange Sky – Alexi Murdoch</p><p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p></itunes:summary>
+            <description><p>Music credits:</p><p>1. Song for Zula – Phosphorescent</p><p>2. Orange Sky – Alexi Murdoch</p><p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p></description>
+            <content:encoded>
+                <![CDATA[<p>Music credits:</p><p>1. Song for Zula – Phosphorescent</p><p>2. Orange Sky – Alexi Murdoch</p><p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p><a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="13,542,065" type="audio/mpeg" url="https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-011-sleep-04.mp3"/>
+            <guid>https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-011-sleep-04.mp3</guid>
+            <pubDate>Sun, 2 Aug 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>13:04</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>睡眠科学 Vol.3 Science of Sleep (银河系漫游手册)</title>
             <itunes:subtitle>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</itunes:subtitle>
             <itunes:summary>放松呼吸，精神漫游，和 Yolling 一起跟着音乐游走银河系</itunes:summary>
