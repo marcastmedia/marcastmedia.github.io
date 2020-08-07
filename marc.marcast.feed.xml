@@ -8,14 +8,14 @@
         <link>https://marcastmedia.com/</link> 
         <atom:link href="https://marcastmedia.com/marc.marcast.feed.xml" rel="self" type="application/rss+xml"/>
         <title>李马克的声音日志 Marc Lee's audiolog (podcast)</title>
-        <itunes:subtitle>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者 微博/Twitter 私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号/Instagram/Twitter：@Marcast</itunes:subtitle>
-        <itunes:summary>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者 微博/Twitter 私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号/Instagram/Twitter：@Marcast</itunes:summary>
-        <description>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者 微博/Twitter 私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号/Instagram/Twitter：@Marcast</description>
+        <itunes:subtitle>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marc@marcastmedia.com 或者 微博/Twitter 私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号/Instagram/Twitter：@Marcast</itunes:subtitle>
+        <itunes:summary>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marc@marcastmedia.com 或者 微博/Twitter 私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号/Instagram/Twitter：@Marcast</itunes:summary>
+        <description>行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marc@marcastmedia.com 或者 微博/Twitter 私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号/Instagram/Twitter：@Marcast</description>
         <itunes:author>Marcast</itunes:author>
         <copyright>Marcast</copyright>
         <itunes:owner>
             <itunes:name>Marcast</itunes:name>
-            <itunes:email>marclee@marcastmedia.com</itunes:email>
+            <itunes:email>marc@marcastmedia.com</itunes:email>
         </itunes:owner>
         <itunes:image href="http://marcastmedia.com/marcast-marc-audiolog-artwork.jpg"/>
         <itunes:category text="Society &amp; Culture">
@@ -43,11 +43,11 @@
     <item>
         <itunes:author>Marcast</itunes:author>
             <title>Harder &amp; Longer #20200221</title>
-            <itunes:subtitle>今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</itunes:subtitle>
-            <itunes:summary>今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</itunes:summary>
-            <description>今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</description>
+            <itunes:subtitle>今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marc@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</itunes:subtitle>
+            <itunes:summary>今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marc@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</itunes:summary>
+            <description>今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marc@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast</description>
             <content:encoded>
-                <![CDATA[今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marclee@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast<a href="https://marcastmedia.com/">Marcast</a>]]>.
+                <![CDATA[今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marc@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast<a href="https://marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
             <enclosure length="1,932,090" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-016-email-001.mp3"/>
             <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-016-email-001.mp3</guid>
@@ -59,11 +59,11 @@
     <item>
         <itunes:author>Marcast</itunes:author>
             <title>北京下雪，去便利店买饺子 #20200105</title>
-            <itunes:subtitle>2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:subtitle>
-            <itunes:summary>2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</itunes:summary>
-            <description>2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com</description>
+            <itunes:subtitle>2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marc@marcastmedia.com</itunes:subtitle>
+            <itunes:summary>2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marc@marcastmedia.com</itunes:summary>
+            <description>2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marc@marcastmedia.com</description>
             <content:encoded>
-                <![CDATA[2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marclee@marcastmedia.com<a href="https://marcastmedia.com/">Marcast</a>]]>.
+                <![CDATA[2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marc@marcastmedia.com<a href="https://marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
             <enclosure length="14,484,430" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-015-snow-walking.mp3"/>
             <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-015-snow-walking.mp3</guid>
