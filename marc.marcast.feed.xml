@@ -26,6 +26,22 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>梦芸，近况如何 #200812</title>
+            <itunes:subtitle><br/><p>深夜配乐歌词朗读。</p><p>Music credits: 1. Ylang Ylang – FKJ</br>2. 亲密爱人 2017 – 法老 (feat. 酷癌)</p></itunes:subtitle>
+            <itunes:summary><br/><p>深夜配乐歌词朗读。</p><p>Music credits: 1. Ylang Ylang – FKJ</br>2. 亲密爱人 2017 – 法老 (feat. 酷癌)</p></itunes:summary>
+            <description><br/><p>深夜配乐歌词朗读。</p><p>Music credits: 1. Ylang Ylang – FKJ</br>2. 亲密爱人 2017 – 法老 (feat. 酷癌)</p></description>
+            <content:encoded>
+                <![CDATA[<br/><p>深夜配乐歌词朗读。</p><p>Music credits: 1. Ylang Ylang – FKJ</br>2. 亲密爱人 2017 – 法老 (feat. 酷癌)</p><a href="https://marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="33,269,883" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-019-lover-lyrics.mp3"/>
+            <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-019-lover-lyrics.mp3</guid>
+            <pubDate>Wed, 12 AUG 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>13:32</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>年轻情侣最好不要去逛宜家 #200730</title>
             <itunes:subtitle><br/><p>晚饭出来的路上，和朋友聊到这个话题。</p><p>music credit: about claudia – furino</p></itunes:subtitle>
             <itunes:summary><br/><p>晚饭出来的路上，和朋友聊到这个话题。</p><p>music credit: about claudia – furino</p></itunes:summary>
@@ -33,8 +49,8 @@
             <content:encoded>
                 <![CDATA[<br/><p>晚饭出来的路上，和朋友聊到这个话题。</p><p>music credit: about claudia – furino</p><a href="https://marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
-            <enclosure length="33,269,883" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-017-a-walk-with-jade.mp3"/>
-            <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-017-a-walk-with-jade.mp3</guid>
+            <enclosure length="33,269,883" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-018-a-walk-with-jade.mp3"/>
+            <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-018-a-walk-with-jade.mp3</guid>
             <pubDate>Fri, 31 JUL 2020 00:00:00 +0000</pubDate>
             <itunes:duration>13:32</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -49,8 +65,8 @@
             <content:encoded>
                 <![CDATA[今天收到这样一封邮件... | 行走，声音，成长史：李马克同学的声音日志 | 有事可以给我发邮件: marc@marcastmedia.com 或者微博私信：@lemarc9723，也欢迎关注我们厂牌的微博/公众号：@Marcast<a href="https://marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
-            <enclosure length="1,932,090" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-016-email-001.mp3"/>
-            <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-016-email-001.mp3</guid>
+            <enclosure length="1,932,090" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-017-email-001.mp3"/>
+            <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-017-email-001.mp3</guid>
             <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
             <itunes:duration>00:38</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -65,8 +81,8 @@
             <content:encoded>
                 <![CDATA[2020 年 1 月 5 日，北京下了新年第一场雪，还挺大。晚上饿了，去便利店买饺子。微信 / 微博：@Marcast | 邮件：marc@marcastmedia.com<a href="https://marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
-            <enclosure length="14,484,430" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-015-snow-walking.mp3"/>
-            <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-015-snow-walking.mp3</guid>
+            <enclosure length="14,484,430" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-016-snow-walking.mp3"/>
+            <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-016-snow-walking.mp3</guid>
             <pubDate>Tue, 7 Jan 2020 00:00:00 +0000</pubDate>
             <itunes:duration>05:53</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
