@@ -33,6 +33,9 @@
             <content:encoded>
                 <![CDATA[<br/><p>深夜配乐歌词朗读。</p><p>Music credits: 1. Ylang Ylang – FKJ</br>2. 亲密爱人 2017 – 法老 (feat. 酷癌)</p><a href="https://marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
+
+            <itunes:image href="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-poster-019.jpg"/>
+
             <enclosure length="22,304,720" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-019-lover-lyrics.mp3"/>
             <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-019-lover-lyrics.mp3</guid>
             <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
@@ -49,6 +52,9 @@
             <content:encoded>
                 <![CDATA[<br/><p>晚饭出来的路上，和朋友聊到这个话题。</p><p>music credit: about claudia – furino</p><a href="https://marcastmedia.com/">Marcast</a>]]>.
             </content:encoded>
+
+            <itunes:image href="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-poster-018.jpg"/>
+
             <enclosure length="33,269,883" type="audio/mpeg" url="https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-018-a-walk-with-jade.mp3"/>
             <guid>https://marcleeaudiolog.oss-cn-beijing.aliyuncs.com/marc-2020/marc-018-a-walk-with-jade.mp3</guid>
             <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
