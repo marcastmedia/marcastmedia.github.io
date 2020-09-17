@@ -26,6 +26,28 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>#BME🏮京都锦市场 / Nishiki Market (錦市場, Nishiki Ichiba), Kyoto, Japan</title>
+            <itunes:subtitle><p>#BME🏮京都锦市场 / Nishiki Market (錦市場, Nishiki Ichiba), Kyoto, Japan</p><p>Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast</p><p>本播客接受音频投稿，微博/微信：@Marcast，邮箱：hello@marcastmedia.com</p></itunes:subtitle>
+
+            <itunes:summary><p>#BME🏮京都锦市场 / Nishiki Market (錦市場, Nishiki Ichiba), Kyoto, Japan</p><p>Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast</p><p>本播客接受音频投稿，微博/微信：@Marcast，邮箱：hello@marcastmedia.com</p></itunes:summary>
+
+            <description><p>#BME🏮京都锦市场 / Nishiki Market (錦市場, Nishiki Ichiba), Kyoto, Japan</p><p>Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast</p><p>本播客接受音频投稿，微博/微信：@Marcast，邮箱：hello@marcastmedia.com</p></description>
+
+            <content:encoded>
+                <![CDATA[<p>#BME🏮京都锦市场 / Nishiki Market (錦市場, Nishiki Ichiba), Kyoto, Japan</p><p>Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast</p><p>本播客接受音频投稿，微博/微信：@Marcast，邮箱：hello@marcastmedia.com</p><a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+
+            <itunes:image href="https://bemyear.oss-cn-beijing.aliyuncs.com/bme-cover/bme-009.jpg"/>
+
+            <enclosure length="51,732,965" type="audio/mpeg" url="https://bemyear.oss-cn-beijing.aliyuncs.com/bme-009-nishiki-market.mp3"/>
+            <guid>https://bemyear.oss-cn-beijing.aliyuncs.com/bme-009-nishiki-market.mp3</guid>
+            <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>20:24</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>#BME🏯京都二条城の行走 / Nijō Castle, Kyoto, Japan</title>
             <itunes:subtitle>#BME🏯京都二条城の行走 / Nijō Castle, Kyoto, Japan / Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast *本播客接受音频投稿，微博/微信：@Marcast / 邮箱：hello@marcastmedia.com</itunes:subtitle>
             <itunes:summary>#BME🏯京都二条城の行走 / Nijō Castle, Kyoto, Japan / Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast *本播客接受音频投稿，微博/微信：@Marcast / 邮箱：hello@marcastmedia.com</itunes:summary>
