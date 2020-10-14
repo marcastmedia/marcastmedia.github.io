@@ -24,6 +24,38 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>Shithouse 20.10.16</title>
+            <itunes:subtitle>A homesick college freshman goes to a party at Shithouse and ends up spending the night with his sophomore RA who's had a shitty day and wants someone to hang out with. – IMDb</itunes:subtitle>
+            <itunes:summary>A homesick college freshman goes to a party at Shithouse and ends up spending the night with his sophomore RA who's had a shitty day and wants someone to hang out with. – IMDb</itunes:summary>
+            <description>A homesick college freshman goes to a party at Shithouse and ends up spending the night with his sophomore RA who's had a shitty day and wants someone to hang out with. – IMDb</description>
+            <content:encoded>
+                <![CDATA[A homesick college freshman goes to a party at Shithouse and ends up spending the night with his sophomore RA who's had a shitty day and wants someone to hang out with. – IMDb<a href="https://www.marcastmedia.com/"> Marcast</a>]]>
+            </content:encoded>
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-shithouse.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-shithouse.mp3</guid>
+            <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>La Révolution 20.10.16 NETFLIX</title>
+            <itunes:subtitle>1787, France. While investigating a series of mysterious murders, Joseph Guillotin - the future inventor of the world famous ‘Guillotine’ - uncovers an unknown virus: the Blue Blood. The disease, quickly spreads amongst the French aristocracy, driving them to murder ordinary people and soon leads to a rebellion… What if the French Revolution didn’t happen the way we were told? – Netflix</itunes:subtitle>
+            <itunes:summary>1787, France. While investigating a series of mysterious murders, Joseph Guillotin - the future inventor of the world famous ‘Guillotine’ - uncovers an unknown virus: the Blue Blood. The disease, quickly spreads amongst the French aristocracy, driving them to murder ordinary people and soon leads to a rebellion… What if the French Revolution didn’t happen the way we were told? – Netflix</itunes:summary>
+            <description>1787, France. While investigating a series of mysterious murders, Joseph Guillotin - the future inventor of the world famous ‘Guillotine’ - uncovers an unknown virus: the Blue Blood. The disease, quickly spreads amongst the French aristocracy, driving them to murder ordinary people and soon leads to a rebellion… What if the French Revolution didn’t happen the way we were told? – Netflix</description>
+            <content:encoded>
+                <![CDATA[1787, France. While investigating a series of mysterious murders, Joseph Guillotin - the future inventor of the world famous ‘Guillotine’ - uncovers an unknown virus: the Blue Blood. The disease, quickly spreads amongst the French aristocracy, driving them to murder ordinary people and soon leads to a rebellion… What if the French Revolution didn’t happen the way we were told? – Netflix<a href="https://www.marcastmedia.com/"> Marcast</a>]]>
+            </content:encoded>
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-la-revolution.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-la-revolution.mp3</guid>
+            <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>Grand Army 20.10.16 NETFLIX</title>
             <itunes:subtitle>Grand Army tunnels into a generation that’s raging and rising. Five students at the largest public high school in Brooklyn take on our chaotic world as they fight to succeed, survive, wild out, break free and seize the future. – Netflix</itunes:subtitle>
             <itunes:summary>Grand Army tunnels into a generation that’s raging and rising. Five students at the largest public high school in Brooklyn take on our chaotic world as they fight to succeed, survive, wild out, break free and seize the future. – Netflix</itunes:summary>
@@ -33,7 +65,7 @@
             </content:encoded>
             <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-grand-army.mp3"/>
             <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-grand-army.mp3</guid>
-            <pubDate>Tue, 3 Oct 2020 00:00:00 +0000</pubDate>
+            <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
             <itunes:duration>02:35</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -49,7 +81,7 @@
             </content:encoded>
             <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-honest-thief.mp3"/>
             <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-honest-thief.mp3</guid>
-            <pubDate>Tue, 3 Oct 2020 00:00:00 +0000</pubDate>
+            <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
             <itunes:duration>02:35</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
