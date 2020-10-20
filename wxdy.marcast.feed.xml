@@ -71,6 +71,8 @@
             <p>本播客由 Marcast Media 荣誉出品，微博/微信: @Marcast，合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/"> Marcast </a></p>]]>
             </content:encoded>
 
+            <itunes:image href="https://wuxuduoyan.oss-cn-beijing.aliyuncs.com/wxdy-poster/wxdy-poster-009.png"/>
+
             <enclosure length="72,122,655" type="audio/mpeg" url="https://wuxuduoyan.oss-cn-beijing.aliyuncs.com/wxdy-009.mp3"/>
             <guid>https://wuxuduoyan.oss-cn-beijing.aliyuncs.com/wxdy-009.mp3</guid>
             <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
