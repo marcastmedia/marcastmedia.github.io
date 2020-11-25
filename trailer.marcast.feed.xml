@@ -24,6 +24,38 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>The Art of Political Murder 20.12.16 HBO</title>
+            <itunes:subtitle>Based on Francisco Goldman’s award winning book of the same name and executive produced by Oscar® winners George Clooney and Grant Heslov, tells the story of the 1998 murder of Guatemalan human rights activist Bishop Juan Gerardi, which stunned a country ravaged by decades of political violence, and the fight for justice that ensued. - HBO</itunes:subtitle>
+            <itunes:summary>Based on Francisco Goldman’s award winning book of the same name and executive produced by Oscar® winners George Clooney and Grant Heslov, tells the story of the 1998 murder of Guatemalan human rights activist Bishop Juan Gerardi, which stunned a country ravaged by decades of political violence, and the fight for justice that ensued. - HBO</itunes:summary>
+            <description>Based on Francisco Goldman’s award winning book of the same name and executive produced by Oscar® winners George Clooney and Grant Heslov, tells the story of the 1998 murder of Guatemalan human rights activist Bishop Juan Gerardi, which stunned a country ravaged by decades of political violence, and the fight for justice that ensued. - HBO</description>
+            <content:encoded>
+                <![CDATA[Based on Francisco Goldman’s award winning book of the same name and executive produced by Oscar® winners George Clooney and Grant Heslov, tells the story of the 1998 murder of Guatemalan human rights activist Bishop Juan Gerardi, which stunned a country ravaged by decades of political violence, and the fight for justice that ensued. - HBO<a href="https://www.marcastmedia.com/"> Marcast</a>]]>
+            </content:encoded>
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-the-art-political-murder.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-the-art-political-murder.mp3</guid>
+            <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+            <title>Zappa 20.11.27</title>
+            <itunes:subtitle>An in-depth look into the life and work of musician Frank Zappa. - IMDb</itunes:subtitle>
+            <itunes:summary>An in-depth look into the life and work of musician Frank Zappa. - IMDb</itunes:summary>
+            <description>An in-depth look into the life and work of musician Frank Zappa. - IMDb</description>
+            <content:encoded>
+                <![CDATA[An in-depth look into the life and work of musician Frank Zappa. - IMDb<a href="https://www.marcastmedia.com/"> Marcast</a>]]>
+            </content:encoded>
+            <enclosure length="7,230,134" type="audio/mpeg" url="https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-zappa.mp3"/>
+            <guid>https://comingsoon.oss-cn-beijing.aliyuncs.com/cs2020/trailer-zappa.mp3</guid>
+            <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>02:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>The Croods: A New Age 20.11.25</title>
             <itunes:subtitle>The prehistoric family the Croods are challenged by a rival family the Bettermans, who claim to be better and more evolved. - IMDb</itunes:subtitle>
             <itunes:summary>The prehistoric family the Croods are challenged by a rival family the Bettermans, who claim to be better and more evolved. - IMDb</itunes:summary>
