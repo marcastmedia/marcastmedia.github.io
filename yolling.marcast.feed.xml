@@ -26,6 +26,39 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>YEAR ONE &amp; 冬日漫游者</title>
+            <itunes:subtitle>
+            <p>Music credits:<br/>1. Is That All There Is? - Peggy<br/>2. Lee Went to War - Amason<br/>3. It's Hard to Get Around the Wind - Alex Turner<br/>4. Don't Wanna Fight - Alabama<br/>5. Shakes Somewhere in Space - Sun Ra<br/>6. I Don't Feel Like Dancing - Scissor Sisters<br/>7. Pure - Blackbird Blackbird</p>
+            <p>(BGM: When You Sleep - Freddie Joachim)</p>
+            <p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p>
+            </itunes:subtitle>
+
+            <itunes:summary>
+            <p>Music credits:<br/>1. Is That All There Is? - Peggy<br/>2. Lee Went to War - Amason<br/>3. It's Hard to Get Around the Wind - Alex Turner<br/>4. Don't Wanna Fight - Alabama<br/>5. Shakes Somewhere in Space - Sun Ra<br/>6. I Don't Feel Like Dancing - Scissor Sisters<br/>7. Pure - Blackbird Blackbird</p>
+            <p>(BGM: When You Sleep - Freddie Joachim)</p>
+            <p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p>
+            </itunes:summary>
+
+            <description>
+            <p>Music credits:<br/>1. Is That All There Is? - Peggy<br/>2. Lee Went to War - Amason<br/>3. It's Hard to Get Around the Wind - Alex Turner<br/>4. Don't Wanna Fight - Alabama<br/>5. Shakes Somewhere in Space - Sun Ra<br/>6. I Don't Feel Like Dancing - Scissor Sisters<br/>7. Pure - Blackbird Blackbird</p>
+            <p>(BGM: When You Sleep - Freddie Joachim)</p>
+            <p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p>
+            </description>
+
+            <itunes:image href="https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/galaxy-image/galaxy-013-year-one.jpg"/>
+            
+            <content:encoded>
+                <![CDATA[<p>Music credits:<br/>1. Is That All There Is? - Peggy<br/>2. Lee Went to War - Amason<br/>3. It's Hard to Get Around the Wind - Alex Turner<br/>4. Don't Wanna Fight - Alabama<br/>5. Shakes Somewhere in Space - Sun Ra<br/>6. I Don't Feel Like Dancing - Scissor Sisters<br/>7. Pure - Blackbird Blackbird</p><p>(BGM: When You Sleep - Freddie Joachim)</p><p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p><a href="https://www.marcastmedia.com/"> Marcast </a>]]>.
+            </content:encoded>
+            <enclosure length="28,649,558" type="audio/mpeg" url="https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-013-one-year.mp3"/>
+            <guid>https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-013-one-year.mp3</guid>
+            <pubDate>Wed, 9 Dec 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>28:48</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>睡眠科学 Vol.5 Science of Sleep (银河系漫游手册)</title>
             <itunes:subtitle>
             <p>Music credits:<br/>1. 我想你要走了 – 张悬<br/>2. 你快乐所以我快来 – 巴奈</p>
