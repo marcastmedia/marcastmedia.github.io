@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+>
+<channel>
+        <link>https://marcastmedia.com/</link> 
+        <atom:link href="https://marcastmedia.com/dxtz.marcast.feed.xml" rel="self" type="application/rss+xml"/>
+        <title>定向跳转 Redirect</title>
+        <itunes:subtitle>定向跳转 Redirect</itunes:subtitle>
+        <itunes:summary>一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Instagram：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com</itunes:summary>
+        <description>一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Instagram：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com</description>
+        <itunes:author>Marcast</itunes:author>
+        <copyright>Marcast</copyright>
+        <itunes:owner>
+            <itunes:name>Marcast</itunes:name>
+            <itunes:email>hello@marcastmedia.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://marcastmedia.com/marcast-dxtz-cover.jpg"/>
+        <itunes:category text="Society &amp; Culture">
+        <itunes:category text="Personal Journals" />
+        </itunes:category>
+        <itunes:category text="Technology">
+        </itunes:category>
+        <itunes:category text="News">
+        </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <language>zh_CN</language>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
+        <title>Test: 定向跳转 Redirect</title>
+            <itunes:subtitle>
+            一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Ins：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com
+            </itunes:subtitle>
+
+            <itunes:summary>
+            一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Ins：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com
+            </itunes:summary>
+
+            <description>
+           一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Ins：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com</description>
+
+            <content:encoded>
+            <![CDATA[一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Ins：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/"> Marcast </a></p>]]>
+            </content:encoded>
+
+            <enclosure length="1,970,656" type="audio/mpeg" url="https://dxtz-podcast.oss-cn-beijing.aliyuncs.com/dxtz-test.mp3"/>
+            <guid>https://dxtz-podcast.oss-cn-beijing.aliyuncs.com/dxtz-test.mp3</guid>
+            <pubDate>31, Dec 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>00:00:48</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>
