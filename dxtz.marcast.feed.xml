@@ -30,26 +30,26 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
-        <title>Test: 定向跳转 Redirect</title>
+        <title>Coming Soon: 定向跳转 Redirect</title>
             <itunes:subtitle>
-            一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Ins：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com
+            一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Instagram：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com
             </itunes:subtitle>
 
             <itunes:summary>
-            一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Ins：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com
+            一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Instagram：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com
             </itunes:summary>
 
             <description>
-           一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Ins：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com</description>
+           一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Instagram：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com</description>
 
             <content:encoded>
-            <![CDATA[一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Ins：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/"> Marcast </a></p>]]>
+            <![CDATA[一档新生代媒体人试图用不失严肃的视角关注中外网络文化和社会趋势的播客，由采薇主持。微博/Instagram：@定向跳转Redirect | 本播客由 Marcast Media 制作出品，微博/微信：@Marcast，合作联系: hello@marcastmedia.com<a href="https://www.marcastmedia.com/"> Marcast </a></p>]]>
             </content:encoded>
 
-            <enclosure length="1,970,656" type="audio/mpeg" url="https://dxtz-podcast.oss-cn-beijing.aliyuncs.com/dxtz-test.mp3"/>
-            <guid>https://dxtz-podcast.oss-cn-beijing.aliyuncs.com/dxtz-test.mp3</guid>
-            <pubDate>31, Dec 2020 00:00:00 +0000</pubDate>
-            <itunes:duration>00:00:48</itunes:duration>
+            <enclosure length="7,902,246" type="audio/mpeg" url="https://dxtz-podcast.oss-cn-beijing.aliyuncs.com/dxtz-000-trailer.mp3"/>
+            <guid>https://dxtz-podcast.oss-cn-beijing.aliyuncs.com/dxtz-000-trailer.mp3</guid>
+            <pubDate>1, Jan 2021 00:00:00 +0000</pubDate>
+            <itunes:duration>03:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
