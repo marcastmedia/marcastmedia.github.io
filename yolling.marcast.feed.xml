@@ -26,6 +26,35 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>当我说早安 When I Say Good Morning | Mixtape</title>
+            <itunes:subtitle>
+            <p>DJ: Yolling</p><p>Music credits:<br/>1. Good Morning - Norah Jones <br/>2. Saturday - Josh Rouse <br/>3. She Said, Everything will be All Right - Torte Bus <br/>4. The Only Loving Boy in New York - Simon &amp; Garfunkel</p>
+            <p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p>
+            </itunes:subtitle>
+
+            <itunes:summary>
+            <p>DJ: Yolling</p><p>Music credits:<br/>1. Good Morning - Norah Jones <br/>2. Saturday - Josh Rouse <br/>3. She Said, Everything will be All Right - Torte Bus <br/>4. The Only Loving Boy in New York - Simon &amp; Garfunkel</p>
+            <p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p>
+            </itunes:summary>
+
+            <description>
+            <p>DJ: Yolling</p><p>Music credits:<br/>1. Good Morning - Norah Jones <br/>2. Saturday - Josh Rouse <br/>3. She Said, Everything will be All Right - Torte Bus <br/>4. The Only Loving Boy in New York - Simon &amp; Garfunkel</p>
+            <p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p>
+            </description>
+            
+            <content:encoded>
+                <![CDATA[<p>DJ: Yolling</p><p>Music credits:<br/>1. Good Morning - Norah Jones <br/>2. Saturday - Josh Rouse <br/>3. She Said, Everything will be All Right - Torte Bus <br/>4. The Only Loving Boy in New York - Simon &amp; Garfunkel</p><p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p><a href="https://www.marcastmedia.com/"> Marcast </a>]]>.
+            </content:encoded>
+
+            <enclosure length="36,675,028" type="audio/mpeg" url="https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-015-morning-2016.mp3"/>
+            <guid>https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-015-morning-2016.mp3</guid>
+            <pubDate>Wed, 6 Jan 2020 00:00:00 +0000</pubDate>
+            <itunes:duration>14:51</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>两个圣诞夜 Two Christmas Nights | 睡眠科学 Vol.6</title>
             <itunes:subtitle>
             <p>🎄🎄🎄 Merry Christmas 🎄🎄🎄</p><p>DJ: Yolling</p><p>Music credits:<br/>1. Christmas Eve - 山下达郎<br/>2. The Christmas Song - Ella Fitzgerald<br/>3. I'd like you for Christmas - Julie London<br/>4. I'll be Home for Christmas - Eddie Higgins<br/>5. Winter Wonderland - Ella Fitzgerald<br/>6. The Nearness of You - Scott Hamilton<br/>7. Digging Your Scene - The Blow Monkeys<br/>8. Jazz Day and Night 爵士日與夜 - Project Ace<br/>9. Stardust - Oscar Peterson Trio / Lester Young<br/>10. I Love How You Love Me - Camera Obscura<br/>11. I am the Changer - Cotton Jones<br/>12. White Christmas - Pink Martini</p>
@@ -34,10 +63,12 @@
 
             <itunes:summary>
             <p>🎄🎄🎄 Merry Christmas 🎄🎄🎄</p><p>DJ: Yolling</p><p>Music credits:<br/>1. Christmas Eve - 山下达郎<br/>2. The Christmas Song - Ella Fitzgerald<br/>3. I'd like you for Christmas - Julie London<br/>4. I'll be Home for Christmas - Eddie Higgins<br/>5. Winter Wonderland - Ella Fitzgerald<br/>6. The Nearness of You - Scott Hamilton<br/>7. Digging Your Scene - The Blow Monkeys<br/>8. Jazz Day and Night 爵士日與夜 - Project Ace<br/>9. Stardust - Oscar Peterson Trio / Lester Young<br/>10. I Love How You Love Me - Camera Obscura<br/>11. I am the Changer - Cotton Jones<br/>12. White Christmas - Pink Martini</p>
+            <p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p>ve Me - Camera Obscura<br/>11. I am the Changer - Cotton Jones<br/>12. White Christmas - Pink Martini</p>
             </itunes:summary>
 
             <description>
-                        <p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p>
+            <p>🎄🎄🎄 Merry Christmas 🎄🎄🎄</p><p>DJ: Yolling</p><p>Music credits:<br/>1. Christmas Eve - 山下达郎<br/>2. The Christmas Song - Ella Fitzgerald<br/>3. I'd like you for Christmas - Julie London<br/>4. I'll be Home for Christmas - Eddie Higgins<br/>5. Winter Wonderland - Ella Fitzgerald<br/>6. The Nearness of You - Scott Hamilton<br/>7. Digging Your Scene - The Blow Monkeys<br/>8. Jazz Day and Night 爵士日與夜 - Project Ace<br/>9. Stardust - Oscar Peterson Trio / Lester Young<br/>10. I Love How You Love Me - Camera Obscura<br/>11. I am the Changer - Cotton Jones<br/>12. White Christmas - Pink Martini</p>
+            <p>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</p>
             </description>
             
             <content:encoded>
