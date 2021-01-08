@@ -33,10 +33,11 @@
             <itunes:summary>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.
             </itunes:summary>
 
-            <description>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.</description>
+            <description>放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.
+            </description>
 
             <content:encoded>
-            <![CD放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.<a href="https://www.marcastmedia.com/"> Marcast </a></p>]]>
+            <![CDATA[放松呼吸，精神漫游 –「银河系漫游手册」 is curated by Yolling and brought to you by Marcast with LOVE.<a href="https://www.marcastmedia.com/"> Marcast </a></p>]]>
             </content:encoded>
 
             <enclosure length="36,675,028" type="audio/mpeg" url="https://yolling-galaxy.oss-cn-beijing.aliyuncs.com/yolling-015-morning-2016.mp3"/>
