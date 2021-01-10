@@ -18,8 +18,8 @@
             <itunes:email>hello@marcastmedia.com</itunes:email>
         </itunes:owner>
         <itunes:image href="http://marcastmedia.com/marcast-yolling-cover.jpg"/>
-        <itunes:category text="Society &amp; Culture">
-        <itunes:category text="Personal Journals"/>
+        <itunes:category text="Arts">
+            <itunes:category text="Design" />
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
