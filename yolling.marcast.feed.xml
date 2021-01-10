@@ -20,6 +20,11 @@
         <itunes:image href="http://marcastmedia.com/marcast-yolling-cover.jpg"/>
         <itunes:category text="Arts">
             <itunes:category text="Design" />
+        <itunes:category text="Music">
+            <itunes:category text="Music Commentary" />
+            <itunes:category text="Music Interview" />
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Personal Journal" />
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <language>zh_CN</language>
