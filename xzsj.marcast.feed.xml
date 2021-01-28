@@ -26,6 +26,39 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>#7: 不玩手机了好吗，我想你真的在我身边</title>
+            <itunes:subtitle>
+            <p>雪夜，小张和治治打开了一瓶酒，并进行了一些愉快的翻旧账活动。</p>
+            <p>Music credits:<br/>1. Sugar Plum Jangle – Logan<br/>2. Melody – Op.68, No.1 – Robert Schumann<br/>3. Pipe Dream – Logan<br/>4. orange – 佐香智久</p>
+            <p>《贤者时间》是一档从普通人视角观察其他普通人的播客节目，由小张和治治两个普通人主持。wb: @贤者时间播客 | 出品方：Marcast Media 合作联系: hello@marcastmedia.com</p>
+            </itunes:subtitle>
+
+            <itunes:summary>
+            <p>雪夜，小张和治治打开了一瓶酒，并进行了一些愉快的翻旧账活动。</p>
+            <p>Music credits:<br/>1. Sugar Plum Jangle – Logan<br/>2. Melody – Op.68, No.1 – Robert Schumann<br/>3. Pipe Dream – Logan<br/>4. orange – 佐香智久</p>
+            <p>《贤者时间》是一档从普通人视角观察其他普通人的播客节目，由小张和治治两个普通人主持。wb: @贤者时间播客 | 出品方：Marcast Media 合作联系: hello@marcastmedia.com</p>
+            </itunes:summary>
+
+            <description>
+            <p>雪夜，小张和治治打开了一瓶酒，并进行了一些愉快的翻旧账活动。</p>
+            <p>Music credits:<br/>1. Sugar Plum Jangle – Logan<br/>2. Melody – Op.68, No.1 – Robert Schumann<br/>3. Pipe Dream – Logan<br/>4. orange – 佐香智久</p>
+            <p>《贤者时间》是一档从普通人视角观察其他普通人的播客节目，由小张和治治两个普通人主持。wb: @贤者时间播客 | 出品方：Marcast Media 合作联系: hello@marcastmedia.com</p>
+            </description>
+
+            <content:encoded>
+                <![CDATA[<p>雪夜，小张和治治打开了一瓶酒，并进行了一些愉快的翻旧账活动。</p>
+            <p>Music credits:<br/>1. Sugar Plum Jangle – Logan<br/>2. Melody – Op.68, No.1 – Robert Schumann<br/>3. Pipe Dream – Logan<br/>4. orange – 佐香智久</p>
+            <p>《贤者时间》是一档从普通人视角观察其他普通人的播客节目，由小张和治治两个普通人主持。wb: @贤者时间播客 | 出品方：Marcast Media 合作联系: hello@marcastmedia.com</p><a href="https://www.marcastmedia.com/">Marcast</a>]]>.
+            </content:encoded>
+            <enclosure length="80,001,731" type="audio/mpeg" url="https://xzsj-podcast.oss-cn-beijing.aliyuncs.com/xzsj-podcast-007.mp3"/>
+            <guid>https://xzsj-podcast.oss-cn-beijing.aliyuncs.com/xzsj-podcast-007.mp3</guid>
+            <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+            <itunes:duration>55:09</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>巨大时代里，我们努力过着的小小人生 | 深夜篇</title>
             <itunes:subtitle>
             <p>「贤鲁斯特问卷」出炉啦。</p>
