@@ -35,6 +35,40 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>跨越山海，好好过年 | 午夜飞行 2021 新春特辑</title>
+            <itunes:subtitle>
+            <p>
+            比起春节，我更喜欢说「过年」。比起新年快乐，我更喜欢过年回家」。在这个大多数人可能都无法像从前那样「回家过年」的特别时刻，「午夜飞行」用声音和故事，陪你一起度过春节前的 72 小时，与你一起跨越山海，好好过年。
+            </p>
+            </itunes:subtitle>
+
+            <itunes:summary>
+            <p>
+            比起春节，我更喜欢说「过年」。比起新年快乐，我更喜欢过年回家」。在这个大多数人可能都无法像从前那样「回家过年」的特别时刻，「午夜飞行」用声音和故事，陪你一起度过春节前的 72 小时，与你一起跨越山海，好好过年。
+            </p>
+            </itunes:summary>
+
+            <description>
+            <p>
+            比起春节，我更喜欢说「过年」。比起新年快乐，我更喜欢过年回家」。在这个大多数人可能都无法像从前那样「回家过年」的特别时刻，「午夜飞行」用声音和故事，陪你一起度过春节前的 72 小时，与你一起跨越山海，好好过年。
+            </p>
+            </description>
+
+            <content:encoded>
+                <![CDATA[<p>比起春节，我更喜欢说「过年」。比起新年快乐，我更喜欢「过年回家」。在这个大多数可能都无法像从前那样「回家过年」的特别时刻，「午夜飞行」用声音和故事，陪你一起度过春节前的 72 小时，与你一起跨越山海，好好过年。</p><a href="https://www.marcastmedia.com/"> Marcast </a></p>]]>
+            </content:encoded>
+
+            <itunes:image href="https://voldenuit.oss-cn-beijing.aliyuncs.com/wyfx-images/wyfx-poster-2021-sp.jpg"/>
+
+            <enclosure length="96,394,614" type="audio/mpeg" url="https://voldenuit.oss-cn-beijing.aliyuncs.com/wyfx-2021/wyfx-sp-new-year-2021.mp3"/>
+            <guid>https://voldenuit.oss-cn-beijing.aliyuncs.com/wyfx-2021/wyfx-sp-new-year-2021.mp3</guid>
+            <pubDate>Mon, 8 Feb 2021 00:00:00 +0000</pubDate>
+            <itunes:duration>00:39:28</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>午夜飞行 Vol.17: 被声音锚定的悬浮生活</title>
             <itunes:subtitle>
             <p>2020 年，这些声音，成为了一个个锚点，锚定了我悬浮而飘荡的生活。</p>
