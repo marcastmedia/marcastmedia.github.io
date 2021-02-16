@@ -26,6 +26,28 @@
 
     <item>
         <itunes:author>Marcast</itunes:author>
+            <title>#BME 🌦 南京明孝陵的雨后蝉鸣 / Ming Xiaoling Mausoleum, Nanjing, China</title>
+            <itunes:subtitle><p>#BME 🌦 南京明孝陵的雨后蝉鸣 / Ming Xiaoling Mausoleum, Nanjing, China</p><p>Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast</p><p>微博/微信：@Marcast，邮箱：hello@marcastmedia.com</p></itunes:subtitle>
+
+            <itunes:summary><p>#BME 🌦 南京明孝陵的雨后蝉鸣 / Ming Xiaoling Mausoleum, Nanjing, China</p><p>Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast</p><p>微博/微信：@Marcast，邮箱：hello@marcastmedia.com</p></itunes:summary>
+
+            <description><p>#BME 🌦 南京明孝陵的雨后蝉鸣 / Ming Xiaoling Mausoleum, Nanjing, China</p><p>Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast</p><p>微博/微信：@Marcast，邮箱：hello@marcastmedia.com</p></description>
+
+            <content:encoded>
+                <![CDATA[<p>#BME 🌦 南京明孝陵的雨后蝉鸣 / Ming Xiaoling Mausoleum, Nanjing, China</p><p>Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast</p><p>微博/微信：@Marcast，邮箱：hello@marcastmedia.com</p><a href="https://www.marcastmedia.com/">Marcast</a>]]>
+            </content:encoded>
+
+            <itunes:image href="https://bemyear.oss-cn-beijing.aliyuncs.com/bme-cover/bme-010.jpg"/>
+
+            <enclosure length="65,444,499" type="audio/mpeg" url="https://bemyear.oss-cn-beijing.aliyuncs.com/bme-010-mingxiaoling-nanjing.mp3"/>
+            <guid>https://bemyear.oss-cn-beijing.aliyuncs.com/bme-010-mingxiaoling-nanjing.mp3</guid>
+            <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+            <itunes:duration>01:07:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:author>Marcast</itunes:author>
             <title>#BME🏮京都锦市场 / Nishiki Market (錦市場, Nishiki Ichiba), Kyoto, Japan</title>
             <itunes:subtitle><p>#BME🏮京都锦市场 / Nishiki Market (錦市場, Nishiki Ichiba), Kyoto, Japan</p><p>Be My Ear (BME) 是一个简单纯粹漫无目的「白噪音播客」from Marcast</p><p>本播客接受音频投稿，微博/微信：@Marcast，邮箱：hello@marcastmedia.com</p></itunes:subtitle>
 
@@ -183,22 +205,6 @@
             <guid>https://bemyear.oss-cn-beijing.aliyuncs.com/bme-001-snow-walking-bj.mp3</guid>
             <pubDate>Tue, 7 Jan 2020 00:00:00 +0000</pubDate>
             <itunes:duration>05:53</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <itunes:author>Marcast</itunes:author>
-            <title>test: Be My Ear (podcast)</title>
-            <itunes:subtitle>借你耳朵，Be My Ear / BME 是一个简单纯粹漫无目的「白噪音播客」from Marcast *本播客接受音频投稿，微信/微博：@Marcast / 邮箱：hello@marcastmedia.com</itunes:subtitle>
-            <itunes:summary>借你耳朵，Be My Ear / BME 是一个简单纯粹漫无目的「白噪音播客」from Marcast *本播客接受音频投稿，微信/微博：@Marcast / 邮箱：hello@marcastmedia.com</itunes:summary>
-            <description>借你耳朵，Be My Ear / BME 是一个简单纯粹漫无目的「白噪音播客」from Marcast *本播客接受音频投稿，微信/微博：@Marcast / 邮箱：hello@marcastmedia.com</description>
-            <content:encoded>
-                <![CDATA[借你耳朵，Be My Ear / BME 是一个简单纯粹漫无目的「白噪音播客」from Marcast *本播客接受音频投稿，微信/微博：@Marcast / 邮箱：hello@marcastmedia.com<a href="https://www.marcastmedia.com/">Marcast</a>]]>
-            </content:encoded>
-            <enclosure length="12,946,207" type="audio/mpeg" url="https://bemyear.oss-cn-beijing.aliyuncs.com/bme-test.mp3"/>
-            <guid>https://bemyear.oss-cn-beijing.aliyuncs.com/bme-test.mp3</guid>
-            <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-            <itunes:duration>05:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
